@@ -1,0 +1,40 @@
+{
+  "title": "IMG_20200120_140559236.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1633947409",
+    "formatted": "11 Oct 2021, 10:16:49 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1579509361",
+    "formatted": "20 Jan 2020, 08:36:01 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/VVOyRq8H1i87GwzZkRdB0F-_t0N9auy46xiClNKnNx6mIIY9j0A0gNqoIzf1lrg4SxGL0I6YzSuJGFULVen7qRK0g1IQ8RM7ZunUo5o",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

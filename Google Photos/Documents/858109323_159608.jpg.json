@@ -1,0 +1,43 @@
+{
+  "title": "858109323_159608.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1633947524",
+    "formatted": "11 Oct 2021, 10:18:44 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1580989155",
+    "formatted": "6 Feb 2020, 11:39:15 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/huTD8sPCQ87qvZIUEC6SFlAmk4at0Dx53JXNL1Q0kGYOBBlbdoCRPKl3numkIyoFRRVEEr8mCXpVblHt1BgrkdSI3gX1ESZEqQpdJ54",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Telegram Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

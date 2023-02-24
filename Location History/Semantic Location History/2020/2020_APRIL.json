@@ -1,0 +1,2757 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 28.901014,
+        "calibratedProbability": 13.410541,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T06:09:25.516Z",
+        "endTimestamp": "2020-04-04T07:57:07.326Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215292591,
+      "centerLngE7": 803680109,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 28.520576,
+        "calibratedProbability": 13.234012,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 213927633,
+        "longitudeE7": 804548550,
+        "placeId": "ChIJKzYKxZS_KzoRAJ2J6YNgi68",
+        "name": "Pujaritola Right Canal",
+        "locationConfidence": 22.625078,
+        "calibratedProbability": 10.4984045
+      }, {
+        "latitudeE7": 215283980,
+        "longitudeE7": 803680543,
+        "placeId": "ChIJA6ejt3-0KzoRki9LMDCSPMI",
+        "address": "G9H9+963, Dhudwa, Maharashtra 441601, India",
+        "name": "Samshan Ghat Ghattemani",
+        "locationConfidence": 19.953331,
+        "calibratedProbability": 9.25867
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215293047,
+          "lngE7": 803665316,
+          "accuracyMeters": 22,
+          "timestamp": "2020-04-04T06:29:06.213Z"
+        }, {
+          "latE7": 215289549,
+          "lngE7": 803661280,
+          "accuracyMeters": 10,
+          "timestamp": "2020-04-04T06:40:16.193Z"
+        }, {
+          "latE7": 215290712,
+          "lngE7": 803677387,
+          "accuracyMeters": 9,
+          "timestamp": "2020-04-04T07:24:12.385Z"
+        }, {
+          "latE7": 215284871,
+          "lngE7": 803677099,
+          "accuracyMeters": 10,
+          "timestamp": "2020-04-04T07:47:54.400Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 289.18385517925987
+      },
+      "locationConfidence": 22,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215283502,
+        "longitudeE7": 803673183
+      },
+      "endLocation": {
+        "latitudeE7": 215285940,
+        "longitudeE7": 803632598
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T07:57:07.326Z",
+        "endTimestamp": "2020-04-04T08:01:35.396Z"
+      },
+      "distance": 420,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 72.83937931060791
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.623907208442688
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 6.679275631904602
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.6582150012254715
+      }, {
+        "activityType": "STILL",
+        "probability": 1.6196874901652336
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.313314400613308
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.6421226542443037
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.2583334455266595
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.18811093177646399
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.10038866894319654
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03987406671512872
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.025612892932258546
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.011277752491878346
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.031323331015301E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.9266994968347717E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215284328,
+          "lngE7": 803678970
+        }, {
+          "latE7": 215256042,
+          "lngE7": 803639678
+        }, {
+          "latE7": 215284137,
+          "lngE7": 803628692
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1225.0052867311624,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 39.447517,
+        "calibratedProbability": 17.601843
+      },
+      "duration": {
+        "startTimestamp": "2020-04-04T08:01:35.396Z",
+        "endTimestamp": "2020-04-05T04:25:14.457Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215285600,
+      "centerLngE7": 803632820,
+      "visitConfidence": 75,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215284195,
+        "longitudeE7": 803628743,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 9.336149,
+        "calibratedProbability": 4.1658754
+      }, {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 9.283867,
+        "calibratedProbability": 4.142546
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 7.4734683,
+        "calibratedProbability": 3.33473
+      }, {
+        "latitudeE7": 215268223,
+        "longitudeE7": 803634349,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 5.5145645,
+        "calibratedProbability": 2.4606493
+      }, {
+        "latitudeE7": 215293352,
+        "longitudeE7": 803615500,
+        "placeId": "ChIJ3fr3EwGzKzoRXrRwB6IYR-I",
+        "address": "Ambedkar Chouk, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "Samaj Mandir Ghattemani",
+        "locationConfidence": 5.428246,
+        "calibratedProbability": 2.422133
+      }, {
+        "latitudeE7": 215266539,
+        "longitudeE7": 803632559,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 5.1230354,
+        "calibratedProbability": 2.2859452
+      }, {
+        "latitudeE7": 215277421,
+        "longitudeE7": 803630517,
+        "placeId": "ChIJV1ous4GzKzoRfPwyrAJEd9A",
+        "address": "G9H7+37J, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "SURESH Kawde Autoparts",
+        "locationConfidence": 4.1275444,
+        "calibratedProbability": 1.8417481
+      }, {
+        "latitudeE7": 215266099,
+        "longitudeE7": 803626822,
+        "placeId": "ChIJ6ajaXSqzKzoRXGvz_jFKXGs",
+        "address": "G9G7+M39, Ghattemani, Maharashtra 441601, India",
+        "name": "Shree Hanumanji Mandir",
+        "locationConfidence": 3.9704618,
+        "calibratedProbability": 1.7716564
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 3.7511895,
+        "calibratedProbability": 1.6738151
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 32,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 29.239162,
+        "calibratedProbability": 7.195728,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-05T04:25:14.457Z",
+        "endTimestamp": "2020-04-05T05:42:59.685Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215318650,
+      "centerLngE7": 803585550,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215300338,
+        "longitudeE7": 803599953,
+        "placeId": "ChIJe_ilv_yzKzoROWRKyZ_Nd08",
+        "address": "G9J5+2XH, Ghattemani, Maharashtra 441601, India",
+        "name": "Dj Opretor .. Banty M",
+        "locationConfidence": 24.855337,
+        "calibratedProbability": 6.116873
+      }, {
+        "latitudeE7": 215303563,
+        "longitudeE7": 803600580,
+        "placeId": "ChIJyYFusnizKzoRxH19TfilRbg",
+        "address": "G9J6+42V, ghattemni, Gondia, Maharashtra 441601, India",
+        "name": "Rajesh M Funde Home",
+        "locationConfidence": 24.472137,
+        "calibratedProbability": 6.0225677
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 21.433363,
+        "calibratedProbability": 5.2747283
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 22,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 33.472057,
+        "calibratedProbability": 6.0728803
+      },
+      "duration": {
+        "startTimestamp": "2020-04-05T05:42:59.685Z",
+        "endTimestamp": "2020-04-08T04:42:54.793Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215285947,
+      "centerLngE7": 803631160,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 13.670652,
+        "calibratedProbability": 2.4802847
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 8.0489645,
+        "calibratedProbability": 1.4603343
+      }, {
+        "latitudeE7": 215284195,
+        "longitudeE7": 803628743,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 7.785675,
+        "calibratedProbability": 1.4125654
+      }, {
+        "latitudeE7": 215293352,
+        "longitudeE7": 803615500,
+        "placeId": "ChIJ3fr3EwGzKzoRXrRwB6IYR-I",
+        "address": "Ambedkar Chouk, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "Samaj Mandir Ghattemani",
+        "locationConfidence": 6.368579,
+        "calibratedProbability": 1.1554598
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 5.5531473,
+        "calibratedProbability": 1.007515
+      }, {
+        "latitudeE7": 215268223,
+        "longitudeE7": 803634349,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 5.5294905,
+        "calibratedProbability": 1.0032228
+      }, {
+        "latitudeE7": 215266099,
+        "longitudeE7": 803626822,
+        "placeId": "ChIJ6ajaXSqzKzoRXGvz_jFKXGs",
+        "address": "G9G7+M39, Ghattemani, Maharashtra 441601, India",
+        "name": "Shree Hanumanji Mandir",
+        "locationConfidence": 5.2076125,
+        "calibratedProbability": 0.94482404
+      }, {
+        "latitudeE7": 215277421,
+        "longitudeE7": 803630517,
+        "placeId": "ChIJV1ous4GzKzoRfPwyrAJEd9A",
+        "address": "G9H7+37J, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "SURESH Kawde Autoparts",
+        "locationConfidence": 4.2222395,
+        "calibratedProbability": 0.7660465
+      }, {
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 3.5693738,
+        "calibratedProbability": 0.64759624
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 26,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215300338,
+        "longitudeE7": 803599953,
+        "placeId": "ChIJe_ilv_yzKzoROWRKyZ_Nd08",
+        "address": "G9J5+2XH, Ghattemani, Maharashtra 441601, India",
+        "name": "Dj Opretor .. Banty M",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 29.858454,
+        "calibratedProbability": 9.569194
+      },
+      "duration": {
+        "startTimestamp": "2020-04-08T04:42:54.793Z",
+        "endTimestamp": "2020-04-08T12:41:54.239Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215317360,
+      "centerLngE7": 803588680,
+      "visitConfidence": 70,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 29.128963,
+        "calibratedProbability": 9.335403,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 215303563,
+        "longitudeE7": 803600580,
+        "placeId": "ChIJyYFusnizKzoRxH19TfilRbg",
+        "address": "G9J6+42V, ghattemni, Gondia, Maharashtra 441601, India",
+        "name": "Rajesh M Funde Home",
+        "locationConfidence": 25.64701,
+        "calibratedProbability": 8.219489
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 15.365572,
+        "calibratedProbability": 4.9244394
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 23,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215286814,
+        "longitudeE7": 803632657,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215326180,
+        "longitudeE7": 803587309,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-08T12:41:54.239Z",
+        "endTimestamp": "2020-04-08T14:16:49.625Z"
+      },
+      "distance": 641,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 32.35413432121277
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 26.97131335735321
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.151853561401367
+      }, {
+        "activityType": "STILL",
+        "probability": 18.32234114408493
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.204763911664486
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.6440356839448214
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.12322261463850737
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.10713763767853379
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.0870710879098624
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.015949926455505192
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.010383354674559087
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.004076632103533484
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0036048266338184476
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.804650744626997E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.1978360703324142E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215284137,
+          "lngE7": 803628692
+        }, {
+          "latE7": 215256042,
+          "lngE7": 803639678
+        }, {
+          "latE7": 215207424,
+          "lngE7": 803649749
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 946.2844221043374,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215283692,
+          "longitudeE7": 803628733,
+          "accuracyMetres": 152
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-08T14:12:47.545Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 45.74398,
+        "calibratedProbability": 20.459713
+      },
+      "duration": {
+        "startTimestamp": "2020-04-08T14:16:49.625Z",
+        "endTimestamp": "2020-04-09T14:34:31.411Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215280511,
+      "centerLngE7": 803626878,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 9.480454,
+        "calibratedProbability": 4.240282
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 7.1020155,
+        "calibratedProbability": 3.176488
+      }, {
+        "latitudeE7": 215284195,
+        "longitudeE7": 803628743,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 6.5338416,
+        "calibratedProbability": 2.9223633
+      }, {
+        "latitudeE7": 215279708,
+        "longitudeE7": 803613088,
+        "placeId": "ChIJ7_3RcLWzKzoRWIlwO2UflZo",
+        "address": "G9H6+5GM, Ghattemani, Maharashtra 441601, India",
+        "name": "banty D marbade",
+        "locationConfidence": 5.7913737,
+        "calibratedProbability": 2.5902827
+      }, {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 5.726657,
+        "calibratedProbability": 2.5613372
+      }, {
+        "latitudeE7": 215267372,
+        "longitudeE7": 803623134,
+        "placeId": "ChIJGzF0bumzKzoRt0gs7s13eVo",
+        "address": "G9G6+MWW, Ghattemani, Maharashtra 441601, India",
+        "name": "Niraj Funde",
+        "locationConfidence": 4.8418007,
+        "calibratedProbability": 2.1655712
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 3.5795395,
+        "calibratedProbability": 1.6010052
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 3.097978,
+        "calibratedProbability": 1.3856193
+      }, {
+        "latitudeE7": 215268223,
+        "longitudeE7": 803634349,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 2.921407,
+        "calibratedProbability": 1.3066452
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 37,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215285311,
+        "longitudeE7": 803634198,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215283669,
+        "longitudeE7": 803629179,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-09T14:34:31.411Z",
+        "endTimestamp": "2020-04-09T15:13:00.843Z"
+      },
+      "distance": 55,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 38.248634338378906
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 29.01652753353119
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 21.10510915517807
+      }, {
+        "activityType": "STILL",
+        "probability": 6.458666920661926
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.494659833610058
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.4058067463338375
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4687982611358166
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.4356508608907461
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1510969246737659
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.08812584565021098
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.05175549886189401
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04309666401240975
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03088160592596978
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.194594789121766E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.71649025005172E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215284137,
+          "lngE7": 803628692
+        }, {
+          "latE7": 215182952,
+          "lngE7": 802646560
+        }, {
+          "latE7": 214582805,
+          "lngE7": 801951751
+        }, {
+          "latE7": 215283584,
+          "lngE7": 803628921
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 46393.43284794105,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214583683,
+          "lngE7": 801951828,
+          "accuracyMeters": 14,
+          "timestamp": "2020-04-09T14:50:22.289Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 42.7881,
+        "calibratedProbability": 17.712587
+      },
+      "duration": {
+        "startTimestamp": "2020-04-09T15:13:00.843Z",
+        "endTimestamp": "2020-04-09T19:48:24Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215285631,
+      "centerLngE7": 803630969,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215284195,
+        "longitudeE7": 803628743,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 16.023933,
+        "calibratedProbability": 6.6332774
+      }, {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 8.880287,
+        "calibratedProbability": 3.676089
+      }, {
+        "latitudeE7": 215279708,
+        "longitudeE7": 803613088,
+        "placeId": "ChIJ7_3RcLWzKzoRWIlwO2UflZo",
+        "address": "G9H6+5GM, Ghattemani, Maharashtra 441601, India",
+        "name": "banty D marbade",
+        "locationConfidence": 4.783078,
+        "calibratedProbability": 1.980006
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 4.4978995,
+        "calibratedProbability": 1.8619533
+      }, {
+        "latitudeE7": 215268223,
+        "longitudeE7": 803634349,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 4.1564207,
+        "calibratedProbability": 1.7205945
+      }, {
+        "latitudeE7": 215266539,
+        "longitudeE7": 803632559,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 3.9454453,
+        "calibratedProbability": 1.6332589
+      }, {
+        "latitudeE7": 215267372,
+        "longitudeE7": 803623134,
+        "placeId": "ChIJGzF0bumzKzoRt0gs7s13eVo",
+        "address": "G9G6+MWW, Ghattemani, Maharashtra 441601, India",
+        "name": "Niraj Funde",
+        "locationConfidence": 3.9434233,
+        "calibratedProbability": 1.632422
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 3.3119173,
+        "calibratedProbability": 1.3710033
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 3.2981622,
+        "calibratedProbability": 1.3653092
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 35,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215288794,
+        "longitudeE7": 803629871,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215352948,
+        "longitudeE7": 803667349,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-09T19:48:24Z",
+        "endTimestamp": "2020-04-10T02:51:32.083Z"
+      },
+      "distance": 811,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 33.5544228553772
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 32.647502422332764
+      }, {
+        "activityType": "STILL",
+        "probability": 16.95404052734375
+      }, {
+        "activityType": "WALKING",
+        "probability": 12.785626947879791
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.7018705382943153
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.44461237266659737
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3770793788135052
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.17974127549678087
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.15294364420697093
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.09489943040534854
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.07830893155187368
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.023468263680115342
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.005108282493893057
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.1950395421299618E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.590546389707015E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215287494,
+          "lngE7": 803627090
+        }, {
+          "latE7": 215287971,
+          "lngE7": 803626785
+        }, {
+          "latE7": 215288467,
+          "lngE7": 803626480
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 12.524278687911405,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215289550,
+          "longitudeE7": 803629130,
+          "accuracyMetres": 98
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-10T02:52:36.388Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 33.017982,
+        "calibratedProbability": 10.58572
+      },
+      "duration": {
+        "startTimestamp": "2020-04-10T02:51:32.083Z",
+        "endTimestamp": "2020-04-10T09:28:27.195Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215281818,
+      "centerLngE7": 803646891,
+      "visitConfidence": 68,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 14.491616,
+        "calibratedProbability": 4.64608
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 9.361338,
+        "calibratedProbability": 3.0012887
+      }, {
+        "latitudeE7": 213927633,
+        "longitudeE7": 804548550,
+        "placeId": "ChIJKzYKxZS_KzoRAJ2J6YNgi68",
+        "name": "Pujaritola Right Canal",
+        "locationConfidence": 8.014583,
+        "calibratedProbability": 2.5695128
+      }, {
+        "latitudeE7": 215268223,
+        "longitudeE7": 803634349,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 6.9106035,
+        "calibratedProbability": 2.2155719
+      }, {
+        "latitudeE7": 215267372,
+        "longitudeE7": 803623134,
+        "placeId": "ChIJGzF0bumzKzoRt0gs7s13eVo",
+        "address": "G9G6+MWW, Ghattemani, Maharashtra 441601, India",
+        "name": "Niraj Funde",
+        "locationConfidence": 6.202555,
+        "calibratedProbability": 1.9885682
+      }, {
+        "latitudeE7": 215266539,
+        "longitudeE7": 803632559,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 6.1828566,
+        "calibratedProbability": 1.9822527
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 6.02185,
+        "calibratedProbability": 1.9306333
+      }, {
+        "latitudeE7": 215273494,
+        "longitudeE7": 803636682,
+        "placeId": "ChIJexVSZgezKzoRHyyuaX67MSE",
+        "address": "G9G7+WFM, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "राकेश चुटे होम",
+        "locationConfidence": 4.3920207,
+        "calibratedProbability": 1.4081024
+      }, {
+        "latitudeE7": 215284195,
+        "longitudeE7": 803628743,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 3.3424172,
+        "calibratedProbability": 1.0715946
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 26,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215308144,
+        "longitudeE7": 803594269,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215256456,
+        "longitudeE7": 803656909,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-10T09:28:27.195Z",
+        "endTimestamp": "2020-04-10T09:36:36.426Z"
+      },
+      "distance": 878,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 27.801817655563354
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 27.216675877571106
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 26.581910252571106
+      }, {
+        "activityType": "STILL",
+        "probability": 15.692365169525146
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3752098195254803
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.6896966602653265
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2579077612608671
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1469039125367999
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.14109598705545068
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.03555780276656151
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02931388735305518
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.022418051958084106
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.008878311200533062
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.7412650095138815E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.565523674202268E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215308227,
+          "lngE7": 803594360
+        }, {
+          "latE7": 215243206,
+          "lngE7": 803655548
+        }, {
+          "latE7": 215245037,
+          "lngE7": 803660812
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1175.6952973224238,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 40.417515,
+        "calibratedProbability": 15.022047
+      },
+      "duration": {
+        "startTimestamp": "2020-04-10T09:36:36.426Z",
+        "endTimestamp": "2020-04-10T15:45:14.880Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215254350,
+      "centerLngE7": 803653400,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215267372,
+        "longitudeE7": 803623134,
+        "placeId": "ChIJGzF0bumzKzoRt0gs7s13eVo",
+        "address": "G9G6+MWW, Ghattemani, Maharashtra 441601, India",
+        "name": "Niraj Funde",
+        "locationConfidence": 11.592983,
+        "calibratedProbability": 4.308784
+      }, {
+        "latitudeE7": 215266539,
+        "longitudeE7": 803632559,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 11.310137,
+        "calibratedProbability": 4.203658
+      }, {
+        "latitudeE7": 215268223,
+        "longitudeE7": 803634349,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 11.241969,
+        "calibratedProbability": 4.178322
+      }, {
+        "latitudeE7": 215235965,
+        "longitudeE7": 803655249,
+        "placeId": "ChIJi6Z9cXKzKzoRvW7I0wDjd0E",
+        "address": "G9F8+C6C, Ghattemani, Maharashtra 441601, India",
+        "name": "Flag Stage GP Ghattemani",
+        "locationConfidence": 6.6750684,
+        "calibratedProbability": 2.4809341
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 6.574819,
+        "calibratedProbability": 2.4436743
+      }, {
+        "latitudeE7": 215251456,
+        "longitudeE7": 803648856,
+        "placeId": "ChIJ4dg9vICzKzoROh0x3eGpdf4",
+        "address": "G9G7+3X2, Ghattemani, Maharashtra 441601, India",
+        "name": "Mahesh donode",
+        "locationConfidence": 3.922428,
+        "calibratedProbability": 1.4578556
+      }, {
+        "latitudeE7": 215251618,
+        "longitudeE7": 803641033,
+        "placeId": "ChIJIzJrV3uzKzoR7BO7Dbd5vms",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "Gurukul Computer Institute",
+        "locationConfidence": 3.2149062,
+        "calibratedProbability": 1.1948898
+      }, {
+        "latitudeE7": 215273494,
+        "longitudeE7": 803636682,
+        "placeId": "ChIJexVSZgezKzoRHyyuaX67MSE",
+        "address": "G9G7+WFM, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "राकेश चुटे होम",
+        "locationConfidence": 3.0598092,
+        "calibratedProbability": 1.1372446
+      }, {
+        "latitudeE7": 215268012,
+        "longitudeE7": 803627882,
+        "placeId": "ChIJfShf6c-zKzoRHdk-iD_OCAc",
+        "address": "G9G7+P4F, Ghattemani, Maharashtra 441601, India",
+        "name": "Shree Bajrang Kirana",
+        "locationConfidence": 1.9903657,
+        "calibratedProbability": 0.73976266
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215287570,
+          "lngE7": 803607358,
+          "accuracyMeters": 10,
+          "timestamp": "2020-04-10T10:42:07.345Z"
+        }, {
+          "latE7": 215284548,
+          "lngE7": 803632550,
+          "accuracyMeters": 100,
+          "timestamp": "2020-04-10T10:55:14.926Z"
+        }, {
+          "latE7": 215284548,
+          "lngE7": 803632550,
+          "accuracyMeters": 100,
+          "timestamp": "2020-04-10T11:54:09.524Z"
+        }, {
+          "latE7": 215284464,
+          "lngE7": 803626896,
+          "accuracyMeters": 15,
+          "timestamp": "2020-04-10T14:07:21.807Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 438.99047038749023
+      },
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215327189,
+        "longitudeE7": 803604709,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215285359,
+        "longitudeE7": 803629254,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-10T15:45:14.880Z",
+        "endTimestamp": "2020-04-10T16:27:00.334Z"
+      },
+      "distance": 38022,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 31.694740056991577
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 27.09597647190094
+      }, {
+        "activityType": "WALKING",
+        "probability": 27.09115445613861
+      }, {
+        "activityType": "STILL",
+        "probability": 12.61751651763916
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.6038217339664698
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.47308974899351597
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.15187101671472192
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.11297249002382159
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1125008799135685
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.014415803889278322
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.014382696826942265
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.013664804282598197
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0037818543205503374
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 9.169460781777161E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.8510183963371674E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215308113,
+          "lngE7": 803594589
+        }, {
+          "latE7": 215298709,
+          "lngE7": 803613128
+        }, {
+          "latE7": 215285053,
+          "lngE7": 803628311
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 505.15942013543975,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215286213,
+          "longitudeE7": 803630799,
+          "accuracyMetres": 102
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-10T16:30:03.181Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 37.32096,
+        "calibratedProbability": 9.28071
+      },
+      "duration": {
+        "startTimestamp": "2020-04-10T16:27:00.334Z",
+        "endTimestamp": "2020-04-11T04:09:17.120Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215286300,
+      "centerLngE7": 803631000,
+      "visitConfidence": 62,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 13.354151,
+        "calibratedProbability": 3.320815
+      }, {
+        "latitudeE7": 215284195,
+        "longitudeE7": 803628743,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 9.775497,
+        "calibratedProbability": 2.430901
+      }, {
+        "latitudeE7": 215279708,
+        "longitudeE7": 803613088,
+        "placeId": "ChIJ7_3RcLWzKzoRWIlwO2UflZo",
+        "address": "G9H6+5GM, Ghattemani, Maharashtra 441601, India",
+        "name": "banty D marbade",
+        "locationConfidence": 7.4017854,
+        "calibratedProbability": 1.8406233
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 5.9167657,
+        "calibratedProbability": 1.4713391
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 5.520915,
+        "calibratedProbability": 1.3729018
+      }, {
+        "latitudeE7": 215267372,
+        "longitudeE7": 803623134,
+        "placeId": "ChIJGzF0bumzKzoRt0gs7s13eVo",
+        "address": "G9G6+MWW, Ghattemani, Maharashtra 441601, India",
+        "name": "Niraj Funde",
+        "locationConfidence": 4.857004,
+        "calibratedProbability": 1.2078052
+      }, {
+        "latitudeE7": 215268223,
+        "longitudeE7": 803634349,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 3.9094157,
+        "calibratedProbability": 0.97216564
+      }, {
+        "latitudeE7": 215266539,
+        "longitudeE7": 803632559,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 3.6801696,
+        "calibratedProbability": 0.91515833
+      }, {
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 2.9918768,
+        "calibratedProbability": 0.74399865
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 30,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215300338,
+        "longitudeE7": 803599953,
+        "placeId": "ChIJe_ilv_yzKzoROWRKyZ_Nd08",
+        "address": "G9J5+2XH, Ghattemani, Maharashtra 441601, India",
+        "name": "Dj Opretor .. Banty M",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 33.491802,
+        "calibratedProbability": 10.133181
+      },
+      "duration": {
+        "startTimestamp": "2020-04-11T04:09:17.120Z",
+        "endTimestamp": "2020-04-11T14:35:03Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215315450,
+      "centerLngE7": 803594250,
+      "visitConfidence": 67,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 24.987623,
+        "calibratedProbability": 7.560181,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 215303563,
+        "longitudeE7": 803600580,
+        "placeId": "ChIJyYFusnizKzoRxH19TfilRbg",
+        "address": "G9J6+42V, ghattemni, Gondia, Maharashtra 441601, India",
+        "name": "Rajesh M Funde Home",
+        "locationConfidence": 17.966972,
+        "calibratedProbability": 5.4360337
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 12.72828,
+        "calibratedProbability": 3.8510308
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 10.825322,
+        "calibratedProbability": 3.2752774
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 26,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 40.274555,
+        "calibratedProbability": 17.076315
+      },
+      "duration": {
+        "startTimestamp": "2020-04-11T14:35:03Z",
+        "endTimestamp": "2020-04-12T07:36:23.686Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215282994,
+      "centerLngE7": 803632141,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 11.025471,
+        "calibratedProbability": 4.674773
+      }, {
+        "latitudeE7": 215284195,
+        "longitudeE7": 803628743,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 9.743143,
+        "calibratedProbability": 4.1310697
+      }, {
+        "latitudeE7": 215279708,
+        "longitudeE7": 803613088,
+        "placeId": "ChIJ7_3RcLWzKzoRWIlwO2UflZo",
+        "address": "G9H6+5GM, Ghattemani, Maharashtra 441601, India",
+        "name": "banty D marbade",
+        "locationConfidence": 7.1771274,
+        "calibratedProbability": 3.0430849
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 6.239005,
+        "calibratedProbability": 2.6453233
+      }, {
+        "latitudeE7": 215267372,
+        "longitudeE7": 803623134,
+        "placeId": "ChIJGzF0bumzKzoRt0gs7s13eVo",
+        "address": "G9G6+MWW, Ghattemani, Maharashtra 441601, India",
+        "name": "Niraj Funde",
+        "locationConfidence": 5.2871156,
+        "calibratedProbability": 2.2417245
+      }, {
+        "latitudeE7": 215268223,
+        "longitudeE7": 803634349,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 4.649832,
+        "calibratedProbability": 1.9715176
+      }, {
+        "latitudeE7": 215266539,
+        "longitudeE7": 803632559,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 4.4469934,
+        "calibratedProbability": 1.8855146
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 4.082254,
+        "calibratedProbability": 1.730866
+      }, {
+        "latitudeE7": 215273494,
+        "longitudeE7": 803636682,
+        "placeId": "ChIJexVSZgezKzoRHyyuaX67MSE",
+        "address": "G9G7+WFM, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "राकेश चुटे होम",
+        "locationConfidence": 2.493291,
+        "calibratedProbability": 1.0571494
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 29.115992,
+        "calibratedProbability": 7.3145227,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-12T07:36:23.686Z",
+        "endTimestamp": "2020-04-12T09:21:25.046Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215322800,
+      "centerLngE7": 803594250,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 24.931509,
+        "calibratedProbability": 6.2632966
+      }, {
+        "latitudeE7": 215303563,
+        "longitudeE7": 803600580,
+        "placeId": "ChIJyYFusnizKzoRxH19TfilRbg",
+        "address": "G9J6+42V, ghattemni, Gondia, Maharashtra 441601, India",
+        "name": "Rajesh M Funde Home",
+        "locationConfidence": 23.44274,
+        "calibratedProbability": 5.889288
+      }, {
+        "latitudeE7": 215300338,
+        "longitudeE7": 803599953,
+        "placeId": "ChIJe_ilv_yzKzoROWRKyZ_Nd08",
+        "address": "G9J5+2XH, Ghattemani, Maharashtra 441601, India",
+        "name": "Dj Opretor .. Banty M",
+        "locationConfidence": 22.509762,
+        "calibratedProbability": 5.654905
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 22,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 36.518658,
+        "calibratedProbability": 11.338075
+      },
+      "duration": {
+        "startTimestamp": "2020-04-12T09:21:25.046Z",
+        "endTimestamp": "2020-04-19T04:24:51Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215286886,
+      "centerLngE7": 803634186,
+      "visitConfidence": 66,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 14.828542,
+        "calibratedProbability": 4.603869
+      }, {
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 7.8469768,
+        "calibratedProbability": 2.4362783
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 7.5504494,
+        "calibratedProbability": 2.3442144
+      }, {
+        "latitudeE7": 215284195,
+        "longitudeE7": 803628743,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 6.2324843,
+        "calibratedProbability": 1.9350212
+      }, {
+        "latitudeE7": 213927633,
+        "longitudeE7": 804548550,
+        "placeId": "ChIJKzYKxZS_KzoRAJ2J6YNgi68",
+        "name": "Pujaritola Right Canal",
+        "locationConfidence": 5.336491,
+        "calibratedProbability": 1.656839
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 5.269751,
+        "calibratedProbability": 1.636118
+      }, {
+        "latitudeE7": 215279708,
+        "longitudeE7": 803613088,
+        "placeId": "ChIJ7_3RcLWzKzoRWIlwO2UflZo",
+        "address": "G9H6+5GM, Ghattemani, Maharashtra 441601, India",
+        "name": "banty D marbade",
+        "locationConfidence": 3.8312562,
+        "calibratedProbability": 1.1895034
+      }, {
+        "latitudeE7": 215268223,
+        "longitudeE7": 803634349,
+        "placeId": "ChIJ2WPEqYGzKzoRa1SZGJnU6Sk",
+        "address": "G9G7+P9M, Ghattemani, Maharashtra 441601, India",
+        "name": "Rajesh M Funde",
+        "locationConfidence": 3.4683409,
+        "calibratedProbability": 1.0768279
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 3.3838685,
+        "calibratedProbability": 1.0506015
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 29,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215285650,
+        "longitudeE7": 803632468,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215285989,
+        "longitudeE7": 803622318,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-19T04:24:51Z",
+        "endTimestamp": "2020-04-19T04:49:19.885Z"
+      },
+      "distance": 38025,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 37.397271394729614
+      }, {
+        "activityType": "WALKING",
+        "probability": 30.850180983543396
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 24.96788799762726
+      }, {
+        "activityType": "STILL",
+        "probability": 2.8117112815380096
+      }, {
+        "activityType": "RUNNING",
+        "probability": 1.4218308962881565
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.2644139118492603
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.49862596206367016
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.3312129061669111
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.3031227272003889
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.054305000230669975
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.04734425456263125
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02927704481408
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.022341054864227772
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.472159621902392E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.2872359295433853E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215284137,
+          "lngE7": 803628692
+        }, {
+          "latE7": 215284481,
+          "lngE7": 803625259
+        }, {
+          "latE7": 215285453,
+          "lngE7": 803621978
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 71.77239780757678,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215285831,
+          "longitudeE7": 803622976,
+          "accuracyMetres": 72
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-19T04:51:49.620Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 51.01746,
+        "calibratedProbability": 15.622558
+      },
+      "duration": {
+        "startTimestamp": "2020-04-19T04:49:19.885Z",
+        "endTimestamp": "2020-04-19T05:45:43.495Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215285275,
+      "centerLngE7": 803628737,
+      "visitConfidence": 65,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 13.243858,
+        "calibratedProbability": 4.055532
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 9.573451,
+        "calibratedProbability": 2.9315805
+      }, {
+        "latitudeE7": 215279849,
+        "longitudeE7": 803610932,
+        "placeId": "ChIJidHWBLWzKzoRpPQWzLI0eNE",
+        "address": "G9H6+5CW, Ghattemani, Maharashtra 441601, India",
+        "name": "Hemne Heath Clinic Ghattemani",
+        "locationConfidence": 4.7992067,
+        "calibratedProbability": 1.4696122
+      }, {
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 4.782366,
+        "calibratedProbability": 1.4644552
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 4.70449,
+        "calibratedProbability": 1.4406081
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 4.387307,
+        "calibratedProbability": 1.3434805
+      }, {
+        "latitudeE7": 215279956,
+        "longitudeE7": 803610296,
+        "placeId": "ChIJmzkRMXSzKzoRa9z6NzwCIuo",
+        "address": "G9H6+5CQ, Ghattemani, Maharashtra 441601, India",
+        "name": "Dr. Hemne Clinic",
+        "locationConfidence": 3.865981,
+        "calibratedProbability": 1.18384
+      }, {
+        "latitudeE7": 215273494,
+        "longitudeE7": 803636682,
+        "placeId": "ChIJexVSZgezKzoRHyyuaX67MSE",
+        "address": "G9G7+WFM, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "राकेश चुटे होम",
+        "locationConfidence": 3.6258786,
+        "calibratedProbability": 1.1103159
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215284548,
+        "longitudeE7": 803632550,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215307740,
+        "longitudeE7": 803587309,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-19T05:45:43.495Z",
+        "endTimestamp": "2020-04-19T06:49:25.236Z"
+      },
+      "distance": 37795,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 31.98446035385132
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 29.325249791145325
+      }, {
+        "activityType": "WALKING",
+        "probability": 21.318908035755157
+      }, {
+        "activityType": "STILL",
+        "probability": 14.770577847957611
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3610385358333588
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.7397064939141273
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.20015048794448376
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.12426984030753374
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.12280819937586784
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.01896033063530922
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.013188652519602329
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.012475547555368394
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.007865464431233704
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.990196890095831E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.096903865047352E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215284137,
+          "lngE7": 803628692
+        }, {
+          "latE7": 214755229,
+          "lngE7": 802060317
+        }, {
+          "latE7": 214582805,
+          "lngE7": 801951751
+        }, {
+          "latE7": 215308933,
+          "lngE7": 803586120
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 50615.7650811994,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214583683,
+          "lngE7": 801951828,
+          "accuracyMeters": 14,
+          "timestamp": "2020-04-19T06:14:02.546Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215286266,
+          "longitudeE7": 803625752,
+          "accuracyMetres": 82
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-19T06:49:25.172Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 50.405,
+        "calibratedProbability": 16.870703,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-19T06:49:25.236Z",
+        "endTimestamp": "2020-04-19T14:25:37.353Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215315250,
+      "centerLngE7": 803590750,
+      "visitConfidence": 67,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 27.209654,
+        "calibratedProbability": 9.107152
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 22.38535,
+        "calibratedProbability": 7.492443
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215285412,
+          "lngE7": 803626440,
+          "accuracyMeters": 15,
+          "timestamp": "2020-04-19T08:45:56.633Z"
+        }, {
+          "latE7": 215285825,
+          "lngE7": 803621105,
+          "accuracyMeters": 9,
+          "timestamp": "2020-04-19T10:02:19.311Z"
+        }, {
+          "latE7": 215286745,
+          "lngE7": 803631399,
+          "accuracyMeters": 22,
+          "timestamp": "2020-04-19T13:56:15.172Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 755.4316390783497
+      },
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 60.065018,
+        "calibratedProbability": 29.350525
+      },
+      "duration": {
+        "startTimestamp": "2020-04-19T14:25:37.353Z",
+        "endTimestamp": "2020-04-20T07:40:17.032Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215281304,
+      "centerLngE7": 803628008,
+      "visitConfidence": 75,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 9.774351,
+        "calibratedProbability": 4.7761965
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 8.373858,
+        "calibratedProbability": 4.0918517
+      }, {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 6.5852213,
+        "calibratedProbability": 3.2178414
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 4.122483,
+        "calibratedProbability": 2.0144343
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 4.021753,
+        "calibratedProbability": 1.9652131
+      }, {
+        "latitudeE7": 215273494,
+        "longitudeE7": 803636682,
+        "placeId": "ChIJexVSZgezKzoRHyyuaX67MSE",
+        "address": "G9G7+WFM, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "राकेश चुटे होम",
+        "locationConfidence": 2.9517994,
+        "calibratedProbability": 1.4423847
+      }, {
+        "latitudeE7": 215279849,
+        "longitudeE7": 803610932,
+        "placeId": "ChIJidHWBLWzKzoRpPQWzLI0eNE",
+        "address": "G9H6+5CW, Ghattemani, Maharashtra 441601, India",
+        "name": "Hemne Heath Clinic Ghattemani",
+        "locationConfidence": 2.3211303,
+        "calibratedProbability": 1.1342108
+      }, {
+        "latitudeE7": 215279956,
+        "longitudeE7": 803610296,
+        "placeId": "ChIJmzkRMXSzKzoRa9z6NzwCIuo",
+        "address": "G9H6+5CQ, Ghattemani, Maharashtra 441601, India",
+        "name": "Dr. Hemne Clinic",
+        "locationConfidence": 1.7843841,
+        "calibratedProbability": 0.87193197
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215285412,
+        "longitudeE7": 803632248,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215285236,
+        "longitudeE7": 803633202,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-20T07:40:17.032Z",
+        "endTimestamp": "2020-04-20T08:27:28Z"
+      },
+      "distance": 38131,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.04939675331116
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 34.261250495910645
+      }, {
+        "activityType": "WALKING",
+        "probability": 13.704749941825867
+      }, {
+        "activityType": "STILL",
+        "probability": 13.479456305503845
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.687425747513771
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.6680261343717575
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.6062717642635107
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.17702687764540315
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.15438513364642859
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.09209890849888325
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.06170556880533695
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.04052682197652757
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.01730764051899314
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.0444942947506206E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.6401497759943595E-4
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214583732,
+          "lngE7": 801951832,
+          "accuracyMeters": 39,
+          "timestamp": "2020-04-20T07:40:17.032Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 38129.38529071558
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215285692,
+          "longitudeE7": 803634788,
+          "accuracyMetres": 80
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-20T08:29:45.355Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 52.216015,
+        "calibratedProbability": 17.454584
+      },
+      "duration": {
+        "startTimestamp": "2020-04-20T08:27:28Z",
+        "endTimestamp": "2020-04-26T02:48:36.648Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215284684,
+      "centerLngE7": 803629882,
+      "visitConfidence": 67,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 14.196668,
+        "calibratedProbability": 4.745612
+      }, {
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 7.2801123,
+        "calibratedProbability": 2.4335701
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 6.9943085,
+        "calibratedProbability": 2.3380327
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 4.9039917,
+        "calibratedProbability": 1.639289
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 4.834189,
+        "calibratedProbability": 1.6159556
+      }, {
+        "latitudeE7": 215273494,
+        "longitudeE7": 803636682,
+        "placeId": "ChIJexVSZgezKzoRHyyuaX67MSE",
+        "address": "G9G7+WFM, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "राकेश चुटे होम",
+        "locationConfidence": 4.288846,
+        "calibratedProbability": 1.4336603
+      }, {
+        "latitudeE7": 215279849,
+        "longitudeE7": 803610932,
+        "placeId": "ChIJidHWBLWzKzoRpPQWzLI0eNE",
+        "address": "G9H6+5CW, Ghattemani, Maharashtra 441601, India",
+        "name": "Hemne Heath Clinic Ghattemani",
+        "locationConfidence": 3.0006487,
+        "calibratedProbability": 1.0030463
+      }, {
+        "latitudeE7": 215279956,
+        "longitudeE7": 803610296,
+        "placeId": "ChIJmzkRMXSzKzoRa9z6NzwCIuo",
+        "address": "G9H6+5CQ, Ghattemani, Maharashtra 441601, India",
+        "name": "Dr. Hemne Clinic",
+        "locationConfidence": 2.2852216,
+        "calibratedProbability": 0.7638958
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 42,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 66.84496,
+        "calibratedProbability": 25.539707,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-26T02:48:36.648Z",
+        "endTimestamp": "2020-04-26T03:20:02.651Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215318925,
+      "centerLngE7": 803590750,
+      "visitConfidence": 65,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 33.155033,
+        "calibratedProbability": 12.667667
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 53,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 58.091038,
+        "calibratedProbability": 20.102924
+      },
+      "duration": {
+        "startTimestamp": "2020-04-26T03:20:02.651Z",
+        "endTimestamp": "2020-04-26T06:17:40.126Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215285175,
+      "centerLngE7": 803630162,
+      "visitConfidence": 66,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 11.219017,
+        "calibratedProbability": 3.8824415
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 9.417185,
+        "calibratedProbability": 3.2589014
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 4.400943,
+        "calibratedProbability": 1.5229858
+      }, {
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 4.176512,
+        "calibratedProbability": 1.4453194
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 3.819897,
+        "calibratedProbability": 1.3219097
+      }, {
+        "latitudeE7": 215279849,
+        "longitudeE7": 803610932,
+        "placeId": "ChIJidHWBLWzKzoRpPQWzLI0eNE",
+        "address": "G9H6+5CW, Ghattemani, Maharashtra 441601, India",
+        "name": "Hemne Heath Clinic Ghattemani",
+        "locationConfidence": 3.1249425,
+        "calibratedProbability": 1.0814145
+      }, {
+        "latitudeE7": 215273494,
+        "longitudeE7": 803636682,
+        "placeId": "ChIJexVSZgezKzoRHyyuaX67MSE",
+        "address": "G9G7+WFM, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "राकेश चुटे होम",
+        "locationConfidence": 3.1158483,
+        "calibratedProbability": 1.0782673
+      }, {
+        "latitudeE7": 215279956,
+        "longitudeE7": 803610296,
+        "placeId": "ChIJmzkRMXSzKzoRa9z6NzwCIuo",
+        "address": "G9H6+5CQ, Ghattemani, Maharashtra 441601, India",
+        "name": "Dr. Hemne Clinic",
+        "locationConfidence": 2.6346169,
+        "calibratedProbability": 0.9117328
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 58.091038,
+        "calibratedProbability": 20.102924
+      },
+      "endLocation": {
+        "latitudeE7": 215284548,
+        "longitudeE7": 803632550,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-04-26T06:17:40.126Z",
+        "endTimestamp": "2020-04-26T07:26:21.672Z"
+      },
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 48.427215218544006
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 21.448788046836853
+      }, {
+        "activityType": "WALKING",
+        "probability": 14.253142476081848
+      }, {
+        "activityType": "STILL",
+        "probability": 12.595909833908081
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.9080817922949791
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.7415097206830978
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.6282630376517773
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5529324524104595
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.25235461071133614
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.08112199720926583
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.08005063282325864
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0206359924050048
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.009502284228801727
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.5733992262976244E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.393448769704264E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215284461,
+          "lngE7": 803628616
+        }, {
+          "latE7": 211356811,
+          "lngE7": 792958450
+        }, {
+          "latE7": 211550426,
+          "lngE7": 789494705
+        }, {
+          "latE7": 211356964,
+          "lngE7": 792974243
+        }, {
+          "latE7": 215284137,
+          "lngE7": 803628692
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 369434.6846910428,
+        "travelMode": "DRIVE",
+        "confidence": 0.9836275271880228
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 211550560,
+          "lngE7": 789496994,
+          "accuracyMeters": 14,
+          "timestamp": "2020-04-26T07:07:24.134Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215285151,
+          "longitudeE7": 803628351,
+          "accuracyMetres": 67
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-04-26T07:29:05.700Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214585905,
+        "longitudeE7": 801949549,
+        "placeId": "ChIJwSETi7GuKzoRP4iG34rmN-0",
+        "address": "F55V+CXP, Station Rd, Gonpur, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Cross Road",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 36.088703,
+        "calibratedProbability": 7.2688065,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2020-04-26T07:26:21.672Z",
+        "endTimestamp": "2020-04-26T09:41:38.392Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214583900,
+      "centerLngE7": 801951675,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214591730,
+        "longitudeE7": 801960482,
+        "placeId": "ChIJq3eMS7CuKzoRkTHmMJIsDAM",
+        "address": "F55W+MC7, Near indra gandhi stadium beside shreeji complex, Gonpur, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Dolly Clinic",
+        "locationConfidence": 16.558199,
+        "calibratedProbability": 3.3350697,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 214589144,
+        "longitudeE7": 801939365,
+        "placeId": "ChIJ1YChkbGuKzoR1tkXNqdHKv0",
+        "address": "F55V+GHM, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Bank of india A.T.M.",
+        "locationConfidence": 15.851659,
+        "calibratedProbability": 3.192762
+      }, {
+        "latitudeE7": 214585263,
+        "longitudeE7": 801949621,
+        "placeId": "ChIJ89rnpLGuKzoRsJWgmGFGcTg",
+        "address": "F55V+CX8, Gonpur, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Top \u0026 Town Ice Cream",
+        "locationConfidence": 11.366654,
+        "calibratedProbability": 2.2894146,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 214595301,
+        "longitudeE7": 801945563,
+        "placeId": "ChIJwURVszSvKzoRtXgtaZ2W3aQ",
+        "address": "F55V+RRG, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Aahar family restaurant",
+        "locationConfidence": 3.2459054,
+        "calibratedProbability": 0.653774
+      }, {
+        "latitudeE7": 214584024,
+        "longitudeE7": 801949261,
+        "placeId": "ChIJD4_cVFKvKzoRtNlYsKEBcT0",
+        "address": "Shop No. 6 Indira Gandhi Stadium, Gonpur, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Shree Ganesh Medicals",
+        "locationConfidence": 3.1863708,
+        "calibratedProbability": 0.6417829
+      }, {
+        "latitudeE7": 214586637,
+        "longitudeE7": 801948578,
+        "placeId": "ChIJxxavpLGuKzoR9Qm01RlmikI",
+        "address": "F55V+FW9, Gonpur, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Kothari stores (HP gas)",
+        "locationConfidence": 3.0643992,
+        "calibratedProbability": 0.617216,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 214586723,
+        "longitudeE7": 801949191,
+        "placeId": "ChIJjarkTOWvKzoR_owxF2VEB28",
+        "address": "Shop no 3, Indira Gandhi Stadium, Gonpur, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Netmeds Pharmacy",
+        "locationConfidence": 2.3742626,
+        "calibratedProbability": 0.47821212,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 214583499,
+        "longitudeE7": 801947923,
+        "placeId": "ChIJf1WmIR-vKzoRcdHwd2Ed_uk",
+        "address": "F55V+8VX, Unnamed Road, Gonpur, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Harsh Icecream",
+        "locationConfidence": 2.1627765,
+        "calibratedProbability": 0.43561563
+      }, {
+        "latitudeE7": 214583700,
+        "longitudeE7": 801947362,
+        "placeId": "ChIJ2-vno7GuKzoR0UOz7Jf0FHI",
+        "address": "Modi market,, F55V+8VX, near IG stadium, Gonpur, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Harsh Icecream Parlour (Harsh marketing)",
+        "locationConfidence": 1.7086565,
+        "calibratedProbability": 0.34414905
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 29,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215284669,
+        "longitudeE7": 803629162,
+        "address": "",
+        "semanticType": "TYPE_HOME",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 64.35126,
+        "calibratedProbability": 30.03903
+      },
+      "duration": {
+        "startTimestamp": "2020-04-26T09:41:38.392Z",
+        "endTimestamp": "2020-05-02T16:10:27Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 215285383,
+      "centerLngE7": 803631150,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214105535,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJxZljg0GVKzoRp5eDeiLelFg",
+        "locationConfidence": 10.956146,
+        "calibratedProbability": 5.114306
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 5.73124,
+        "calibratedProbability": 2.6753306
+      }, {
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 5.4251237,
+        "calibratedProbability": 2.5324364
+      }, {
+        "latitudeE7": 215946070,
+        "longitudeE7": 802816255,
+        "placeId": "ChIJBz_bQ360KzoR8NLgz5xB2bI",
+        "locationConfidence": 5.1165743,
+        "calibratedProbability": 2.388406
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 3.2619622,
+        "calibratedProbability": 1.5226771
+      }, {
+        "latitudeE7": 215273494,
+        "longitudeE7": 803636682,
+        "placeId": "ChIJexVSZgezKzoRHyyuaX67MSE",
+        "address": "G9G7+WFM, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "राकेश चुटे होम",
+        "locationConfidence": 2.821354,
+        "calibratedProbability": 1.317002
+      }, {
+        "latitudeE7": 215279956,
+        "longitudeE7": 803610296,
+        "placeId": "ChIJmzkRMXSzKzoRa9z6NzwCIuo",
+        "address": "G9H6+5CQ, Ghattemani, Maharashtra 441601, India",
+        "name": "Dr. Hemne Clinic",
+        "locationConfidence": 1.252904,
+        "calibratedProbability": 0.584853
+      }, {
+        "latitudeE7": 215279849,
+        "longitudeE7": 803610932,
+        "placeId": "ChIJidHWBLWzKzoRpPQWzLI0eNE",
+        "address": "G9H6+5CW, Ghattemani, Maharashtra 441601, India",
+        "name": "Hemne Heath Clinic Ghattemani",
+        "locationConfidence": 1.0834402,
+        "calibratedProbability": 0.5057476
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

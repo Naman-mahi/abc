@@ -1,0 +1,15 @@
+{
+  "name": {
+    "givenName": "NAMAN",
+    "familyName": "KHOBRAGADE",
+    "formattedName": "NAMAN KHOBRAGADE"
+  },
+  "displayName": "NAMAN KHOBRAGADE",
+  "emails": [{
+    "value": "nksonu13189@gmail.com"
+  }],
+  "birthday": "1996-11-11",
+  "gender": {
+    "type": "male"
+  }
+}

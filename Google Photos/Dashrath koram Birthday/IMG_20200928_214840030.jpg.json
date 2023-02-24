@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20200928_214840030.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1601874799",
+    "formatted": "5 Oct 2020, 05:13:19 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601309923",
+    "formatted": "28 Sept 2020, 16:18:43 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4027778,
+    "longitude": 78.51722219999999,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4027778,
+    "longitude": 78.51722219999999,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/bnTiJRk-EFhTcJWwnKGz2L0xwo4Q99CknQqnkGd2pzueeak0eM2pOj9-haV_W3zqsnas3QDeOSWKAfW49OZkZpZJf7_JLlKDDQV5KZQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

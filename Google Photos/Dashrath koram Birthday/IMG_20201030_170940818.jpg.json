@@ -1,0 +1,47 @@
+{
+  "title": "IMG_20201030_170940818.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1604295165",
+    "formatted": "2 Nov 2020, 05:32:45 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1604057984",
+    "formatted": "30 Oct 2020, 11:39:44 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }, {
+    "name": "Pawan"
+  }, {
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/M7rT1dfqV86SOQW8jBo9bDQKrVcIMmyffff-lM9Gsovc2AkdwjnXhewqXVaztmr-wzw5HqzhfmivSIxAMq_LS_8kLExz8dOHpq55lLw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

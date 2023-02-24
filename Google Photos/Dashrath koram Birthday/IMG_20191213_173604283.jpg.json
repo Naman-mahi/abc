@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20191213_173604283.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1593881994",
+    "formatted": "4 Jul 2020, 16:59:54 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576238767",
+    "formatted": "13 Dec 2019, 12:06:07 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Subodh"
+  }, {
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/LXz_pzQ6mKozxhBQZMcEHPMMwFqYUf-2bybqtltjcP74q_psHPR3hlAAcL9Phu5Lg1OiH-4Uvla1M8jXuHnpxY8NtGZqDe8YlZCbc9M",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

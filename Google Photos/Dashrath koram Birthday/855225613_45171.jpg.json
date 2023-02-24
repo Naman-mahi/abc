@@ -1,0 +1,43 @@
+{
+  "title": "855225613_45171.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1601874032",
+    "formatted": "5 Oct 2020, 05:00:32 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1600776182",
+    "formatted": "22 Sept 2020, 12:03:02 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/lX_R7tfsHy0ucB29Y35scpAtOI3eCBj9jJmN-fsVhc4AHxVCUC2kS8Wg5Y4hYGyjA_duzDiQpmN8tj_lBxVWPQ0K12mQQwQzYEv9zkU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20200101_154342365.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1593881994",
+    "formatted": "4 Jul 2020, 16:59:54 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1577873623",
+    "formatted": "1 Jan 2020, 10:13:43 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Subodh"
+  }, {
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/-SofMTL67xlMEPDIFg9aLYpqy4pHxm_9HAYMdthoVWJeleAGRA8wKR3830qpv7ixSUwkWf3MpICTqe6OTNy8egsR-uBzMDzJ2-zSHxs",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

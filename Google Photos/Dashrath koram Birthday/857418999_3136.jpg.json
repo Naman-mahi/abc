@@ -1,0 +1,47 @@
+{
+  "title": "857418999_3136.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1593881994",
+    "formatted": "4 Jul 2020, 16:59:54 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1573643530",
+    "formatted": "13 Nov 2019, 11:12:10 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Aashish"
+  }, {
+    "name": "Subodh"
+  }, {
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/tpt_iu6aFJArWQ7USiKS4U4y3DkpLoV94c7R9tj-RKRD3cbDSKfZRRIDLx6MaKAA-Yn046NvMSG-Lkk9A4NjytOVUYeeQP4phw1Fy2Q",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "naman"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

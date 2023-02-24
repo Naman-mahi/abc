@@ -1,0 +1,38 @@
+{
+  "title": "system01-500x500.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1573727086",
+    "formatted": "14 Nov 2019, 10:24:46 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1573726159",
+    "formatted": "14 Nov 2019, 10:09:19 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/HZmL9OBm_JQ_dDXaUf0y0VxwNYlwXu2OGIkfgVLtUrzPZv_PKssWHsRsNZW5P0I_nKqwIEg3h2w8lKxPsjNkQMOy97Td0HMnLA_YpA",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1675955953",
+    "formatted": "9 Feb 2023, 15:19:13 UTC"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "IMG_20190718_090826-1.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1582038545",
+    "formatted": "18 Feb 2020, 15:09:05 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1563421105",
+    "formatted": "18 Jul 2019, 03:38:25 UTC"
+  },
+  "geoData": {
+    "latitude": 21.5235999,
+    "longitude": 80.362211,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.5235999,
+    "longitude": 80.362211,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/XlCOa5LynIDxe458R62ra4FiZ_WdgaHw7gL_uEJu9TNfqfeNByWAXLcoYhS6z6_2SdMQ6Z6-yr3qyrC0yWEOyBxJRapXhkdjVfuYkFU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1674397145",
+    "formatted": "22 Jan 2023, 14:19:05 UTC"
+  }
+}

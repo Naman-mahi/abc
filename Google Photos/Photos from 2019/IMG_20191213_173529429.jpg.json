@@ -1,0 +1,40 @@
+{
+  "title": "IMG_20191213_173529429.jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1580988526",
+    "formatted": "6 Feb 2020, 11:28:46 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576238731",
+    "formatted": "13 Dec 2019, 12:05:31 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/raO9j72Yf6CNXHlqu6AuBBD-c3S76Sp1wPo-KZYkl0-gNvOWfz7bIHGp4AAWhXewD-5naG96_ark-vCTiayp8ytWwvl0UenVJnVQ01k",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1674397145",
+    "formatted": "22 Jan 2023, 14:19:05 UTC"
+  }
+}

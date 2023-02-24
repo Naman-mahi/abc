@@ -1,0 +1,38 @@
+{
+  "title": "dfd.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1573727077",
+    "formatted": "14 Nov 2019, 10:24:37 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1573725657",
+    "formatted": "14 Nov 2019, 10:00:57 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/5bOOiK1mwYoOJLuH3iGvA2zMNR8wmwNe-6zpEGH75bqvIaGBh5xlBDGbmJ9NP-1hs1EbT0ra7ZrFImdN9iW3xE4_zi_N_3lfeosiRA",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1675955953",
+    "formatted": "9 Feb 2023, 15:19:13 UTC"
+  }
+}

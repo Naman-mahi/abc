@@ -1,0 +1,40 @@
+{
+  "title": "Screenshot_20191216-181829.png",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1580988561",
+    "formatted": "6 Feb 2020, 11:29:21 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576500509",
+    "formatted": "16 Dec 2019, 12:48:29 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Sd7Q7PhBdbesYpHsKatVixxYwSZVZ3SNt0WsFzsoKYA5jgjUNVjsRMXUSjLS3v4yVMkuafGhIuOoKjeOppbXsQecLAdxl0FCg0MnOO0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1673678180",
+    "formatted": "14 Jan 2023, 06:36:20 UTC"
+  }
+}

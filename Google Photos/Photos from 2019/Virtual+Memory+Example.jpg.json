@@ -1,0 +1,38 @@
+{
+  "title": "Virtual+Memory+Example.jpg",
+  "description": "",
+  "imageViews": "20",
+  "creationTime": {
+    "timestamp": "1573727081",
+    "formatted": "14 Nov 2019, 10:24:41 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1573725465",
+    "formatted": "14 Nov 2019, 09:57:45 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/K5KejjbUE_Si_fi8-cr3CSMnP0fn_0eTMKMHCFBMURR_MkIYqccn1xo9QfAPPv2H7NdAJxquz98eFYzFJOpCc4bGQwl4FaC2RfDJiA",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1675955953",
+    "formatted": "9 Feb 2023, 15:19:13 UTC"
+  }
+}

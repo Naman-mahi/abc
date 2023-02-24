@@ -1,0 +1,40 @@
+{
+  "title": "IMG_20191030_092348009_HDR.jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1580988432",
+    "formatted": "6 Feb 2020, 11:27:12 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1572407629",
+    "formatted": "30 Oct 2019, 03:53:49 UTC"
+  },
+  "geoData": {
+    "latitude": 21.5286111,
+    "longitude": 80.3630556,
+    "altitude": 221.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.5286111,
+    "longitude": 80.3630556,
+    "altitude": 221.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/4N9pwsklv7gSgZEqpQUOoPuyy4Tcwng-fticC8_ji3G2MxMg2F38X9KntWReeehfA7iTWPQjr98AAu6bcIjQU04v7WDSduDNBVLZw3o",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1674397145",
+    "formatted": "22 Jan 2023, 14:19:05 UTC"
+  }
+}

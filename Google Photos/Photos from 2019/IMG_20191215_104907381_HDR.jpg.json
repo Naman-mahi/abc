@@ -1,0 +1,40 @@
+{
+  "title": "IMG_20191215_104907381_HDR.jpg",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1580988550",
+    "formatted": "6 Feb 2020, 11:29:10 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1576387149",
+    "formatted": "15 Dec 2019, 05:19:09 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/0javcm2j02U3MRK4ZT6CVUL_mW1eeBqmLBAeE6lqj62Wf_js7lnYpRfgBIzl44oqU-EGR61jUcD_wXa4YJg8Rn3a7ksj3h60QEO_JJQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1674397145",
+    "formatted": "22 Jan 2023, 14:19:05 UTC"
+  }
+}

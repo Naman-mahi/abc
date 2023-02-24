@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20191224_091549581.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1580988624",
+    "formatted": "6 Feb 2020, 11:30:24 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1577159151",
+    "formatted": "24 Dec 2019, 03:45:51 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pooja"
+  }],
+  "url": "https://lh3.googleusercontent.com/EgCnzhXVObO6jsCrsuFOnrptYP23LcdiynTpMIwF5xgur4_bCinz_RoPNFIZIHe8haAiGoIqs-kwn86XzQGRqE6II6BkCb76NG8fl_0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1674397145",
+    "formatted": "22 Jan 2023, 14:19:05 UTC"
+  }
+}

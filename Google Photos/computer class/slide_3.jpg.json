@@ -1,0 +1,38 @@
+{
+  "title": "slide_3.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1573727102",
+    "formatted": "14 Nov 2019, 10:25:02 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1573725080",
+    "formatted": "14 Nov 2019, 09:51:20 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/qgsHMAad9LvJ0conAEbmEzcLm2xZU403GGLyb5yvQi_DFwh2swXAHm2qO_G1ehZql4XpZ8pbDJxSA4zYFXx2LAS2U-R8wkot3-m2cQ",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1675955953",
+    "formatted": "9 Feb 2023, 15:19:13 UTC"
+  }
+}

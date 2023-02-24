@@ -1,0 +1,38 @@
+{
+  "title": "download.png",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1573727102",
+    "formatted": "14 Nov 2019, 10:25:02 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1573724977",
+    "formatted": "14 Nov 2019, 09:49:37 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/EJ8N83ZGptM0TuAdrk-sxnrlqKW-8mCc6jYzro7EljOiqC6mGW_ss7_5acRxtqoj_4cgWvzB9svRyDj3hnclIDamU-uda-xFRRTeOg",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1675955953",
+    "formatted": "9 Feb 2023, 15:19:13 UTC"
+  }
+}

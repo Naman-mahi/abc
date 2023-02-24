@@ -1,0 +1,17 @@
+{
+  "title": "computer class",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1573727102",
+    "formatted": "14 Nov 2019, 10:25:02 UTC"
+  },
+  "location": "",
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  }
+}

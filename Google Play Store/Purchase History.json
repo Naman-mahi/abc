@@ -1,0 +1,26 @@
+[{
+  "purchaseHistory": {
+    "invoicePrice": "US$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "IN",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google TV"
+    },
+    "purchaseTime": "2019-12-11T18:33:16.720Z"
+  }
+},
+{
+  "purchaseHistory": {
+    "invoicePrice": "US$0.00",
+    "paymentMethodTitle": "",
+    "userLanguageCode": "en_US",
+    "userCountry": "IN",
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Meet"
+    },
+    "purchaseTime": "2019-12-11T18:32:52.979Z"
+  }
+}]

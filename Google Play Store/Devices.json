@@ -1,0 +1,68 @@
+[{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Reliance Jio",
+      "playStoreClientVersion": 83451010,
+      "manufacturer": "samsung",
+      "modelName": "SM-M317F",
+      "deviceName": "m31s",
+      "productName": "m31snnxx",
+      "retailBrand": "samsung",
+      "totalMemoryBytes": "5844103168",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "IN",
+      "userLocale": "en_IN",
+      "buildFingerprint": "samsung/m31snnxx/m31s:12/SP1A.210812.016/M317FXXU3DVH2:user/release-keys",
+      "androidSdkVersion": "31"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "Reliance Jio",
+      "manufacturer": "samsung",
+      "modelName": "SM-M317F",
+      "deviceName": "m31s",
+      "productName": "m31snnxx",
+      "retailBrand": "samsung",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "IN",
+      "userLocale": "en_IN",
+      "androidSdkVersion": "31"
+    },
+    "deviceRegistrationTime": "2023-02-13T17:23:11.642Z",
+    "userAddedOnDeviceTime": "2023-02-14T15:42:13.673Z",
+    "lastTimeDeviceActive": "2023-02-21T19:49:57.491664Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Reliance Jio",
+      "playStoreClientVersion": 83351610,
+      "manufacturer": "motorola",
+      "modelName": "motorola one action",
+      "deviceName": "troika_sprout",
+      "productName": "troika",
+      "retailBrand": "motorola",
+      "totalMemoryBytes": "3924303872",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "IN",
+      "userLocale": "en_IN",
+      "buildFingerprint": "motorola/troika/troika_sprout:11/RSBS31.Q1-48-36-26/9a0b6f:user/release-keys",
+      "androidSdkVersion": "30"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "Reliance Jio",
+      "manufacturer": "motorola",
+      "modelName": "motorola one action",
+      "deviceName": "troika_sprout",
+      "productName": "troika",
+      "retailBrand": "motorola",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "IN",
+      "userLocale": "en_IN",
+      "androidSdkVersion": "30"
+    },
+    "deviceRegistrationTime": "2021-12-20T10:15:12.790Z",
+    "userAddedOnDeviceTime": "2022-05-24T02:52:46.672Z",
+    "lastTimeDeviceActive": "2022-12-14T17:58:57.829827Z"
+  }
+}]

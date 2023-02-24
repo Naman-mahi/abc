@@ -1,0 +1,43 @@
+{
+  "title": "857412908_266500.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1597311809",
+    "formatted": "13 Aug 2020, 09:43:29 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581776196",
+    "formatted": "15 Feb 2020, 14:16:36 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/o4eEK2KiJ5mP8s09BOIXvvqxFX4AYykVkdFnfB3fI2xcc9mk1nKr-gFN1oBnzwWk6Cs4Yq2WGtTJ4ryRQWmopTBZxOf72Qr47ksx-u8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Telegram Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

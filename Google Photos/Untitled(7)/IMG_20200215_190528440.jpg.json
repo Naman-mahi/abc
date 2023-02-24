@@ -1,0 +1,40 @@
+{
+  "title": "IMG_20200215_190528440.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1597311809",
+    "formatted": "13 Aug 2020, 09:43:29 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581773729",
+    "formatted": "15 Feb 2020, 13:35:29 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/vZRe1frVzWSXpAaUWOzwouLcvcDe1AbCvVb8RXcp1j2XUcSJUGdB8hk_fm0jT8UYVibx_px6RhEzgNEOLkciNlFCCOxANUS2vy5TNEk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

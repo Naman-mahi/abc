@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:nksonu13189@gmail.com
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+DTSTART:20201203T123000Z
+DTEND:20201203T133000Z
+DTSTAMP:20230222T162403Z
+UID:61h3ccj26cpm6bb374rm8b9k6dim4bb260qjab9hc8r3cc9j65hj8p33cg@google.com
+CREATED:20201203T085620Z
+DESCRIPTION:
+LAST-MODIFIED:20201203T085620Z
+LOCATION:https://commudle.com/communities/code-warriors/events/microservice
+ s-docker-for-data-science
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Microservices & Docker For Data Science :: Code Warriors
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210415T150000Z
+DTEND:20210415T160000Z
+DTSTAMP:20230222T162403Z
+UID:cko3id9i61i62b9g6spjib9k6cp3cb9o6kp6ab9l69j3ce9lchj66oj274@google.com
+CREATED:20210414T184355Z
+DESCRIPTION:1. Click and join at the specified time and date:<br />https://
+ global.gotowebinar.com/join/4466881850049514507/411627951 https://global.go
+ towebinar.com/join/4466881850049514507/411627951 <br />Note: This link shou
+ ld not be shared with others it is unique to you.<br /><br />2. More webina
+ r details:<br />https://attendee.gotowebinar.com/additionalInfo.tmpl?duplic
+ ate=false&webinar=4466881850049514507&aregistrantConfirmation=4596713283234
+ 902288 https://attendee.gotowebinar.com/additionalInfo.tmpl?duplicate=false
+ &webinar=4466881850049514507&aregistrantConfirmation=4596713283234902288
+LAST-MODIFIED:20210414T184355Z
+LOCATION:GoToWebinar
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:GoToWebinar - HOW NETWORK SECURITY CONTRIBUTES TO CYBER-RESILIENCE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210504T190000Z
+DTEND:20210504T200000Z
+DTSTAMP:20230222T162403Z
+UID:6oqjcpb265gjabb575gj8b9kckrj2b9o68o32b9j74p66d1pchgj8phm64@google.com
+CREATED:20210503T163609Z
+DESCRIPTION:
+LAST-MODIFIED:20210503T163609Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Subodh Rana Birthday 🎂
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211221T160000Z
+DTEND:20211221T170000Z
+DTSTAMP:20230222T162403Z
+ORGANIZER;CN=Unknown Organizer:mailto:unknownorganizer@calendar.google.com
+UID:7kukuqrfedlm2f9tp5hrps8rn0kvtm5haj98giuk3hdm6a4ni8hkhjgvtspe7ak6absg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nksonu
+ 13189@gmail.com;X-NUM-GUESTS=0:mailto:nksonu13189@gmail.com
+CLASS:PRIVATE
+CREATED:20211215T132349Z
+DESCRIPTION:To see detailed information for automatically created events li
+ ke this one\, use the official Google Calendar app. https://g.co/calendar\n
+ \nThis event was created from an email you received in Gmail. https://mail.
+ google.com/mail?extsrc=cal&plid=ACUX6DOQ9aXo_iwM-ym781p2cnHVQYa6u3WsGoI\n
+LAST-MODIFIED:20221129T234230Z
+LOCATION:Online: \nhttps://www.eventbrite.com/x/learn-to-build-an-e-commerc
+ e-app-tickets-225147711867
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Learn to build an e-Commerce App!
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

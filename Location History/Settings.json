@@ -1,0 +1,48 @@
+{
+  "createdTime": "2019-09-07T09:26:42.217Z",
+  "modifiedTime": "2023-02-14T15:41:51.480Z",
+  "historyEnabled": true,
+  "deviceSettings": [{
+    "deviceTag": -1042613765,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-M317F",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-02-14T15:41:51.480Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-02-14T15:41:51.480Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "m31snnxx",
+      "device": "m31s",
+      "model": "SM-M317F",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": 2058578823,
+    "reportingEnabled": true,
+    "devicePrettyName": "motorola one action",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2022-05-24T02:52:10.548Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2022-05-24T02:52:10.548Z"
+    },
+    "androidOsLevel": 30,
+    "deviceSpec": {
+      "manufacturer": "motorola",
+      "brand": "motorola",
+      "product": "troika",
+      "device": "troika_sprout",
+      "model": "motorola one action",
+      "isLowRam": false
+    }
+  }],
+  "latestLocationHistorySettingChange": {
+    "historyEnabledModificationTime": "2019-09-07T09:26:42.217Z"
+  },
+  "retentionWindowDays": 2147483647,
+  "hasReportedLocations": true,
+  "hasSetRetention": false
+}

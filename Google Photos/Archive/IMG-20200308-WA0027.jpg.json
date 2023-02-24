@@ -1,0 +1,41 @@
+{
+  "title": "IMG-20200308-WA0027.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1583753740",
+    "formatted": "9 Mar 2020, 11:35:40 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1583683525",
+    "formatted": "8 Mar 2020, 16:05:25 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://lh3.googleusercontent.com/qdbwvhzmT-1IHZbuwBYXpoTxzApeH3pjWFzUtrbbdMwERkWjBwykO6rzPLTT49cT5gxtLq45NqJn6kBteVrIOX8oLYNr7u8TorBwBog",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1673678184",
+    "formatted": "14 Jan 2023, 06:36:24 UTC"
+  }
+}

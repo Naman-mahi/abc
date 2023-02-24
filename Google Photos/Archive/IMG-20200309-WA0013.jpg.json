@@ -1,0 +1,41 @@
+{
+  "title": "IMG-20200309-WA0013.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1583899414",
+    "formatted": "11 Mar 2020, 04:03:34 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1583729012",
+    "formatted": "9 Mar 2020, 04:43:32 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://lh3.googleusercontent.com/1ltPG53AUvuSe2RT3Bd706jhWP7ZFL1ZWMpeHj1JsKn2Ao00CeEv6JsadQpr0CTbUHLuaEr4EB-TxbFuTKbyADFvCHgbIePZyjC2iPU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1673678184",
+    "formatted": "14 Jan 2023, 06:36:24 UTC"
+  }
+}

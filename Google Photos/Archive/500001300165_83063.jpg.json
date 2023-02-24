@@ -1,0 +1,41 @@
+{
+  "title": "500001300165_83063.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1583899469",
+    "formatted": "11 Mar 2020, 04:04:29 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1583858709",
+    "formatted": "10 Mar 2020, 16:45:09 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "archived": true,
+  "url": "https://lh3.googleusercontent.com/nQBMjxRozZ-ATJKFFvRMMDE_R17RiD08PG2rJpBAcz677yqRZTlU06CKK6zGy7x0CGE7_Tlf1qW_eVkk9n6UUkU1mHSPO0rnZ7A5b80",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Telegram Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1673678184",
+    "formatted": "14 Jan 2023, 06:36:24 UTC"
+  }
+}

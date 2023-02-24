@@ -1,0 +1,260 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "zzzzm",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Rediff.com - India's leading portal",
+                        "id": "bpokokggppjbfooncickjejmekbpblfa",
+                        "version": "2.0.0.1",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzz",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "App Launcher for Google Maps",
+                        "id": "lmiegoigendlbmjjllhjmkjenjechmhg",
+                        "version": "1.3",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "t",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "name": "Web Store",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzz",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 1,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Word Online",
+                        "id": "fiombgjlkfpdpkbhfioofeeinbehmajg",
+                        "version": "2.0",
+                        "enabled": false
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzzs",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Click&Clean App",
+                        "id": "pdabfienifkbhoihedcgeogidfmibmhp",
+                        "version": "9.6.1.7",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "u",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Google Classroom",
+                        "id": "mfhehppjhmmnlfbbopchdfldgimhfhfk",
+                        "version": "1.8",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzzy",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "http://clients2.google.com/service/update2/crx",
+                        "name": "Voice Recognition",
+                        "id": "ikjmfindklfaonkodbnidahohdfbdhkn",
+                        "version": "2.0",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+}
+    ],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "session.startup_urls",
+            "value": "[\"https://www.google.com/\",\"https://www.google.co.in/\"]"
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"en-US,en\""
+},
+        {
+            "name": "profile.content_settings.exceptions.flash_data",
+            "value": "{}"
+},
+        {
+            "name": "custom_links.initialized",
+            "value": "true"
+},
+        {
+            "name": "translate_whitelists",
+            "value": "{}"
+},
+        {
+            "name": "translate_too_often_denied_for_language",
+            "value": "{\"hi\":true}"
+},
+        {
+            "name": "translate_explicit_language_ask_shown",
+            "value": "true"
+},
+        {
+            "name": "translate_force_trigger_on_english_count_for_backoff_1",
+            "value": "2"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{}"
+},
+        {
+            "name": "session.restore_on_startup",
+            "value": "5"
+},
+        {
+            "name": "profile.content_settings.exceptions.font_access",
+            "value": "{}"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"hi\":3,\"mr\":11}"
+},
+        {
+            "name": "profile.name",
+            "value": "\"Person 1\""
+},
+        {
+            "name": "custom_links.list",
+            "value": "[{\"isMostVisited\":true,\"title\":\"Sign in\",\"url\":\"https://accounts.google.com/AddSession?continue=https%3A%2F%2Fwww.google.com%2F\"},{\"isMostVisited\":true,\"title\":\"National Scholarship Scheme\",\"url\":\"https://scholarships.gov.in/fresh/newstdRegfrmInstruction\"},{\"isMostVisited\":true,\"title\":\"Gmail\",\"url\":\"https://mail.google.com/mail/?tab=rm&ogbl\"},{\"isMostVisited\":true,\"title\":\"SarkariResult.com\",\"url\":\"https://www.sarkariresult.com/\"},{\"isMostVisited\":true,\"title\":\"YouTube\",\"url\":\"https://www.youtube.com/\"},{\"isMostVisited\":true,\"title\":\"NCVT MIS\",\"url\":\"https://www.apprenticeship.gov.in/Pages/Apprenticeship/AITT/AITTResultStatus.aspx\"},{\"isMostVisited\":true,\"title\":\"Google Accounts\",\"url\":\"https://accounts.google.com/Logout?hl=en&continue=https://www.google.com%3Fhl%3Den-US&timeStmp=1574318442&secTok=.AG5fkS_YP6yNYjwsu9YbXcfeXVQiMAecLQ\"},{\"isMostVisited\":true,\"title\":\"NCVT MIS\",\"url\":\"https://www.ncvtmis.gov.in/Pages/Marksheet/Validate.aspx\"},{\"isMostVisited\":true,\"title\":\"Google\",\"url\":\"https://www.google.co.in/\"}]"
+},
+        {
+            "name": "download.prompt_for_download_android",
+            "value": "2"
+},
+        {
+            "name": "browser.show_home_button",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "ntp.app_page_names",
+            "value": "[\"Apps\"]"
+},
+        {
+            "name": "profile.avatar_index",
+            "value": "0"
+},
+        {
+            "name": "translate_recent_target",
+            "value": "\"en\""
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "sync.demographics_birth_year_offset",
+            "value": "0"
+},
+        {
+            "name": "extensions.pinned_extensions",
+            "value": "[]"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"hi\":0,\"mr\":0}"
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13219564244273367\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgnOvOuTzS0ajLNXFGQwMq8QE/GWVjdRaip2jAJ0l6dFahRANCAASX4umTQDZdzK6W6WHHtBA5ZiaTtpc1tu7ZAoEPvZl2SToOsbOLIBYqZEo53Fcc7X3h01YY7yChSx96Q1idaLh0\"}"
+},
+        {
+            "name": "bookmark_bar.show_on_all_tabs",
+            "value": "true"
+},
+        {
+            "name": "extensions.commands",
+            "value": "{\"linux:Alt+Shift+D\":{\"command_name\":\"toggle\",\"extension\":\"eimadpbcbfnmbkopoojfekhnkhdbieeh\",\"global\":false},\"linux:Alt+Shift+Left\":{\"command_name\":\"previousObject\",\"extension\":\"kgejglhpjiefppelpmljglcjbhoiplfn\",\"global\":false},\"linux:Alt+Shift+N\":{\"command_name\":\"next\",\"extension\":\"mclkkofklkfljcocdinagocijmpgbhab\",\"global\":false},\"linux:Alt+Shift+Q\":{\"command_name\":\"toggleChromeVoxVersion\",\"extension\":\"kgejglhpjiefppelpmljglcjbhoiplfn\",\"global\":false},\"linux:Alt+Shift+R\":{\"command_name\":\"readFromHere\",\"extension\":\"kgejglhpjiefppelpmljglcjbhoiplfn\",\"global\":false},\"linux:Alt+Shift+Right\":{\"command_name\":\"nextObject\",\"extension\":\"kgejglhpjiefppelpmljglcjbhoiplfn\",\"global\":false},\"linux:Alt+Shift+Space\":{\"command_name\":\"performDefaultAction\",\"extension\":\"kgejglhpjiefppelpmljglcjbhoiplfn\",\"global\":false},\"windows:Alt+Shift+D\":{\"command_name\":\"toggle\",\"extension\":\"eimadpbcbfnmbkopoojfekhnkhdbieeh\",\"global\":false},\"windows:Alt+Shift+Left\":{\"command_name\":\"previousObject\",\"extension\":\"kgejglhpjiefppelpmljglcjbhoiplfn\",\"global\":false},\"windows:Alt+Shift+N\":{\"command_name\":\"next\",\"extension\":\"mclkkofklkfljcocdinagocijmpgbhab\",\"global\":false},\"windows:Alt+Shift+Q\":{\"command_name\":\"toggleChromeVoxVersion\",\"extension\":\"kgejglhpjiefppelpmljglcjbhoiplfn\",\"global\":false},\"windows:Alt+Shift+R\":{\"command_name\":\"revert\",\"extension\":\"mclkkofklkfljcocdinagocijmpgbhab\",\"global\":false},\"windows:Alt+Shift+Right\":{\"command_name\":\"nextObject\",\"extension\":\"kgejglhpjiefppelpmljglcjbhoiplfn\",\"global\":false},\"windows:Alt+Shift+Space\":{\"command_name\":\"performDefaultAction\",\"extension\":\"kgejglhpjiefppelpmljglcjbhoiplfn\",\"global\":false}}"
+},
+        {
+            "name": "extensions.toolbar",
+            "value": "[\"aapbdbdomjkkjkaonfhkkikfgjllcleb\",\"ahnckjmgpjfbefnakjhmbooidjacdgih\",\"caclkomlalccbpcdllchkeecicepbmbm\",\"doeadnmeadgfgcgplbnibocnkkngddeb\",\"eimadpbcbfnmbkopoojfekhnkhdbieeh\",\"facipoonhenhmanggoikiaecfidagekm\",\"fhndealchbngfhdoncgcokameljahhog\",\"fpnlpehjhijpamloppfjljenemeokfio\",\"gbkeegbaiigmenfmjfclcdgdpimamgkj\",\"kbfnbcaeplbcioakkpcpgfkobkghlhen\",\"lpcaedmchfhocbbapmcbpinfpgnhiddi\",\"mclkkofklkfljcocdinagocijmpgbhab\",\"onjcfgnjjbnflacfbnjaapcbiecckilk\"]"
+},
+        {
+            "name": "homepage",
+            "value": "\"http://www.google.co.in/\""
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"hi\":4,\"mr\":2}"
+},
+        {
+            "name": "profile.content_settings.exceptions.storage_access",
+            "value": "{}"
+},
+        {
+            "name": "homepage_is_newtabpage",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.window_placement",
+            "value": "{}"
+},
+        {
+            "name": "sharing.synced_devices",
+            "value": "{\"D6E6C4cCWjfhXmykoFrhgg==\":{\"device_auth_secret\":\"b4u+sZzZOfWyPtXFWDQjZg==\",\"device_capabilities\":2,\"device_fcm_token\":\"ehWHyrTxhZ8:APA91bFHKpAOD1L2mxQmhIkvwG-7EUlmgA-tioFPsKacArTNrV2QQwmNyq2XbGNbV0yLJ1ye6LUyfsiQ-5itAhFtzEdngOLd947WcCxsva7nCDw6je8eM3RGU-X3KQDhOD1NHQj1CGKp\",\"device_last_updated\":\"13220097860064735\",\"device_p256dh\":\"BJTTefED6qWqPZgyHDmyHo7Z4TOl+1WPswr2r2THXJg3R7Fjnlls5hLH5dm8RyOaWJqNCaGM+ZqROmXU23QWsUA=\"},\"kmw5LQN5QzdogYaAlaANaA==\":{\"device_auth_secret\":\"r6lfn1qkSmZjWaGJv9OR4A==\",\"device_capabilities\":2,\"device_fcm_token\":\"f71FY-qka0g:APA91bGWsyzy-SeGwbi-yabxjEsk3KqGwSZYbXG-1Flss1ahePhL_AmCamyGQQfSnsgpG7QBgS4fmalGMyz9FQUYGHxyC1JOX4kJq7Tv4-On1f_mWv8cM5qOZsrhuIO6N5Rg4hhvWH6Y\",\"device_last_updated\":\"13219824629139926\",\"device_p256dh\":\"BEcTC2HOtxt0BQhTuo92ar6tpXMpshyTD7K9+TMXtdg1xum2oGz2lJi8fhUN/XBsJH2aNY8Mnq/vzndv6351D9c=\"},\"yZ62l8Ap43ywem5GweAA4g==\":{\"device_auth_secret\":\"G1G1Jv1p3yfUu9fviOxLwg==\",\"device_capabilities\":3,\"device_fcm_token\":\"c_pzeztKwhQ:APA91bHW3pQrNL1Gn0BWJJ4SXJyK6bzs07XUclRTmJZRhi7bX2di8tqJgPpYLyxLQm3Ojga5p9N7-PsneS_-RqJu1doD3anrWaufS8N7Tqk5-0AA3CrgE6ZMwLWsFIeJx2ia5dJfnpuP\",\"device_p256dh\":\"BJUDhBJGX51wFEEcRrycx2ZdI2s8zPzXQkABIMmTmPUqzKfW1NHQ5+tkOhJxg5bXEfqm1AjlsU0/WQSI9mSuIYY=\"}}"
+}
+    ],
+    "Themes": [
+        {
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
+}
+    ]
+}

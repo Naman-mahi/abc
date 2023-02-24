@@ -1,0 +1,220 @@
+{
+    "Extensions": [
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Office Editing for Docs, Sheets & Slides",
+            "id": "gbkeegbaiigmenfmjfclcdgdpimamgkj",
+            "version": "134.193.350",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Grammarly for Chrome",
+            "id": "kbfnbcaeplbcioakkpcpgfkobkghlhen",
+            "version": "14.983.0",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "ChromeVox Classic Extension",
+            "id": "kgejglhpjiefppelpmljglcjbhoiplfn",
+            "version": "53.0.2784.6",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Night Shift",
+            "id": "fpnlpehjhijpamloppfjljenemeokfio",
+            "version": "1.4",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 3,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Secure Shell",
+            "id": "iodihamcpbpeioajjeobimgagajmlibd",
+            "version": "0.35",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 1,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Search-Privacy.space",
+            "id": "odiiiofohogdeejmglnadkbnbajcjiaj",
+            "version": "1.26.5.7",
+            "enabled": false
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "QBN - Quora Better Notification",
+            "id": "doeadnmeadgfgcgplbnibocnkkngddeb",
+            "version": "0.31",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Mindful Break",
+            "id": "onjcfgnjjbnflacfbnjaapcbiecckilk",
+            "version": "2.0.3",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "installed_by_custodian": false,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "GA Browser Control",
+            "id": "ahnckjmgpjfbefnakjhmbooidjacdgih",
+            "version": "1.8.1",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Translate",
+            "id": "aapbdbdomjkkjkaonfhkkikfgjllcleb",
+            "version": "2.0.9",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Wisdom Jobs",
+            "id": "facipoonhenhmanggoikiaecfidagekm",
+            "version": "1.0",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Keep Chrome Extension",
+            "id": "lpcaedmchfhocbbapmcbpinfpgnhiddi",
+            "version": "4.20422.540.1",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Certificate Enrollment for Chrome OS",
+            "id": "fhndealchbngfhdoncgcokameljahhog",
+            "version": "1.5.3",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Google Input Tools",
+            "id": "mclkkofklkfljcocdinagocijmpgbhab",
+            "version": "10.0.0.4",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Dark Reader",
+            "id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "version": "4.9.22",
+            "enabled": true
+},
+        {
+            "incognito_enabled": false,
+            "remote_install": false,
+            "disable_reasons": 0,
+            "update_url": "https://clients2.google.com/service/update2/crx",
+            "name": "Advanced Font Settings",
+            "id": "caclkomlalccbpcdllchkeecicepbmbm",
+            "version": "0.67",
+            "enabled": true
+}
+    ],
+    "Extension Settings": [
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "false",
+            "key": "applyToListedOnly"
+},
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "[]",
+            "key": "customThemes"
+},
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "true",
+            "key": "syncSettings"
+},
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "false",
+            "key": "notifyOfNews"
+},
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "{\"activation\":\"18:00\",\"deactivation\":\"9:00\"}",
+            "key": "time"
+},
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "false",
+            "key": "enabled"
+},
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "[]",
+            "key": "siteList"
+},
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "{\"brightness\":100,\"contrast\":100,\"engine\":\"dynamicTheme\",\"fontFamily\":\"Segoe UI\",\"grayscale\":0,\"mode\":1,\"sepia\":0,\"stylesheet\":\"\",\"textStroke\":0,\"useFont\":false}",
+            "key": "theme"
+},
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "\"\"",
+            "key": "automation"
+},
+        {
+            "extension_id": "eimadpbcbfnmbkopoojfekhnkhdbieeh",
+            "value": "false",
+            "key": "changeBrowserTheme"
+}
+    ]
+}

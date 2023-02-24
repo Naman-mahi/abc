@@ -1,0 +1,40 @@
+{
+  "title": "00 (10).jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1580988386",
+    "formatted": "6 Feb 2020, 11:26:26 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1219416412",
+    "formatted": "22 Aug 2008, 14:46:52 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/D-ME0djLoOtdMpU2SBXn0DYESuMLAtoRn8o6yD7Vt7mHdG9Nnyx2LYHPW7IKVaWPAfdgmnTQBWt0sV_d15CShJE4bQWHXj_F3HZ2xE4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "chaitu software collection"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1673678180",
+    "formatted": "14 Jan 2023, 06:36:20 UTC"
+  }
+}

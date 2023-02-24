@@ -1,0 +1,40 @@
+{
+  "title": "BUTERFLY.JPG",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1580988259",
+    "formatted": "6 Feb 2020, 11:24:19 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "881213646",
+    "formatted": "4 Dec 1997, 05:34:06 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/DAv_sCDQGXrCvXPbTi3g47cebn0w2gRAljOSEOXhUPLZsbpzXz_6f2nl4AgXHr0mE2QwddY1W7xmvJ8Cr3DnYkpbE68158g7Ikevh0g",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "chaitu software collection"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1673678180",
+    "formatted": "14 Jan 2023, 06:36:20 UTC"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20200215_161655180.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1581767800",
+    "formatted": "15 Feb 2020, 11:56:40 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581763616",
+    "formatted": "15 Feb 2020, 10:46:56 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }, {
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/ylGgfjHAO5aMKA-7FZ-wyEehkkiSiCEEXpQLwseQKgcC7Bfo4i_wC3eIxmGyM-8Zi3-O2znhKk0a7FC65M8GNXk44oCFe-yaPs4CAlc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "858108452_100722.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1581417576",
+    "formatted": "11 Feb 2020, 10:39:36 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1580988663",
+    "formatted": "6 Feb 2020, 11:31:03 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "madhuri"
+  }],
+  "url": "https://lh3.googleusercontent.com/Q4vO_cMTIdjDkjoyp-gCw8Oz9cXxZKWGxhbHNEI58aOa1OSAhnJxsDoj3MK3lBzA9lq3Ng6Vsv9U5QRJ8oD61RPWt0c59n7-ReQfDbs",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "image"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

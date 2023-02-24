@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20201005_095751168_PORTRAIT.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1601874798",
+    "formatted": "5 Oct 2020, 05:13:18 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601872075",
+    "formatted": "5 Oct 2020, 04:27:55 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4030556,
+    "longitude": 78.5161111,
+    "altitude": 400.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4030556,
+    "longitude": 78.5161111,
+    "altitude": 400.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pawan"
+  }, {
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/TGlDy_Qm5YM04sj7hGCU1udGhJZbxttD1IBeLYTUnW87ogtvY1EdETj3NxxRT9QCP-jfFl7Aze13Ip-YaXnlba3bdn2nH0A5QflIDk8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

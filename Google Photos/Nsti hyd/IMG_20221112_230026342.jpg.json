@@ -1,0 +1,47 @@
+{
+  "title": "IMG_20221112_230026342.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1668277102",
+    "formatted": "12 Nov 2022, 18:18:22 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1668274227",
+    "formatted": "12 Nov 2022, 17:30:27 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4375,
+    "longitude": 78.4477778,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4375,
+    "longitude": 78.4477778,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }, {
+    "name": "Dhasharath Baby"
+  }, {
+    "name": "Sai bhargav"
+  }],
+  "url": "https://lh3.googleusercontent.com/4PMy_7wtfYqPG4O1TDSTj_lKVwpoAv02aeKUXshBm5jBRsS-TayGwE0bqHaPOgiZ2cBMkQ4gSuoyQTOzrs2pT1Acf6zxliCluzR7XZA",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

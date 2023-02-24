@@ -1,0 +1,53 @@
+{
+  "title": "857421154_200283.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1581417576",
+    "formatted": "11 Feb 2020, 10:39:36 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1580989207",
+    "formatted": "6 Feb 2020, 11:40:07 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dhasharath Baby"
+  }, {
+    "name": "Landveer"
+  }, {
+    "name": "Naman"
+  }, {
+    "name": "Pooja"
+  }, {
+    "name": "Aashish"
+  }, {
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/sV2ucJa3Gm9Ls8FioJOFWiptG89XcoL2CgFZk6TDUlwA2uNAxU8CEN2vTZOJGOtr6niBNp7XXRzabaukEVFxs4cctPjGjUZZ4AQ1WN0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Telegram Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

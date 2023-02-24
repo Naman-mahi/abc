@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20201004_143308793.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1601874798",
+    "formatted": "5 Oct 2020, 05:13:18 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601802189",
+    "formatted": "4 Oct 2020, 09:03:09 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4027778,
+    "longitude": 78.51722219999999,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4027778,
+    "longitude": 78.51722219999999,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pawan"
+  }],
+  "url": "https://lh3.googleusercontent.com/psoIxK78CzOZ8pNXrNPxfcQq2srEZQQJFVPQGFAqG15ync9GbQCt1CeSwxlP7_XreA1qbs-47Aslgrh9Yl7p5ISPh244FmHHAAU2Fxw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

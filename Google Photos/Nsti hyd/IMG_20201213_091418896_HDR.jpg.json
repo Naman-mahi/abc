@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20201213_091418896_HDR.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1607936183",
+    "formatted": "14 Dec 2020, 08:56:23 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1607831061",
+    "formatted": "13 Dec 2020, 03:44:21 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/8uDbxbfloexfwjoLeJnccTzTGXQWbLPBp7KyZAw2Asbv9HqhBHizTqm-bMTvVmS7Cp5nr1CQxpNjNxUtGx0bGEMmvH0qYsrZT0U1mDM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

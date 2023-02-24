@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20220304_200055574.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1653364712",
+    "formatted": "24 May 2022, 03:58:32 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646404258",
+    "formatted": "4 Mar 2022, 14:30:58 UTC"
+  },
+  "geoData": {
+    "latitude": 17.401944399999998,
+    "longitude": 78.51416669999999,
+    "altitude": 450.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.401944399999998,
+    "longitude": 78.51416669999999,
+    "altitude": 450.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }, {
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/XBmDsN2XX6k7L7Hej68jm2vjHL_uiHxMKDdI-YMxvZdQ_Mtsa8t1T4YVvW-o1k9aL_bNzjWGubG1j_0dfQW4op_UTT_AEXK_KmaSfr8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

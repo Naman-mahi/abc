@@ -1,0 +1,47 @@
+{
+  "title": "IMG_20210126_165653044.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1611720378",
+    "formatted": "27 Jan 2021, 04:06:18 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1611660413",
+    "formatted": "26 Jan 2021, 11:26:53 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pawan"
+  }, {
+    "name": "Landveer"
+  }, {
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/g2EBTDOTnZdHSvSjZxP21dAvEWckfOLdMl65m1CanediIqY22XZluqGKyxa6j0qQ-RPoVfJHUCl29juh15gBT6gVglxNZ1H5-D0XZGg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

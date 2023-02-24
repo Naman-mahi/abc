@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20210221_171902736.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1613974258",
+    "formatted": "22 Feb 2021, 06:10:58 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1613908143",
+    "formatted": "21 Feb 2021, 11:49:03 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/Ju6G15u0SNZhUC1x3GaK1V0t9m4i3oWgBti6__Tkk2bNcUF7sQwLv-lNfyF5vrJEf7hMHKRL8oHbfne62--dIrdsjKmXl3AvzKqaOaE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

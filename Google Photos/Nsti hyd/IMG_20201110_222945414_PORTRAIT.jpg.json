@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20201110_222945414_PORTRAIT.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1605089774",
+    "formatted": "11 Nov 2020, 10:16:14 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1605027588",
+    "formatted": "10 Nov 2020, 16:59:48 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }, {
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/y8qwuiNYBFmhol_tpwRSVrUDh4A10dvgbCjIwu4Ufqoja6oWwHeL2ZNesZixb-7I3M7nZsSPuLXvz71Tv7R1MM9CGeD5Dg39Ag5KtSQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

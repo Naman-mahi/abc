@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20221109_215102913.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1668011642",
+    "formatted": "9 Nov 2022, 16:34:02 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1668010864",
+    "formatted": "9 Nov 2022, 16:21:04 UTC"
+  },
+  "geoData": {
+    "latitude": 17.456944399999998,
+    "longitude": 78.6625,
+    "altitude": 407.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.456944399999998,
+    "longitude": 78.6625,
+    "altitude": 407.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/XIJbIcHTefxYqS2P72kMK8hqk2kOzb-wtfOV5sSQ1mRgHjBOBA03WX0ZmBydBNlmLFaYo7chE0EUkPKPrMvGoChDhESBAgsABw20wY4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

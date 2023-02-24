@@ -1,0 +1,43 @@
+{
+  "title": "500001700773_16905.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1581652775",
+    "formatted": "14 Feb 2020, 03:59:35 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581652083",
+    "formatted": "14 Feb 2020, 03:48:03 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "madhuri"
+  }],
+  "url": "https://lh3.googleusercontent.com/UnABme_1j3VaK6laaaPpJecjtuifZu5SC3O019-Kz1ty3R0YlVG8xzvH15pT1VjE9FfiJEW1a_d-8crDg2wr_LS3F-W60EzT3xPcdhs",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Telegram Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "IMG-20200213-WA0001.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1581595201",
+    "formatted": "13 Feb 2020, 12:00:01 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581570242",
+    "formatted": "13 Feb 2020, 05:04:02 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Mi1WJdYQQW2zvwrTUI0hDaSi0fd__LiZXQnplag9y_dLxIv2a-kJEWJOgH7lZkFbjPdBrmQ7Y9_6lx3X11u0g0NDXBIX73n31cD05wQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

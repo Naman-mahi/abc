@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20200704_103608143.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1601547483",
+    "formatted": "1 Oct 2020, 10:18:03 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1593839169",
+    "formatted": "4 Jul 2020, 05:06:09 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/el6392UyiJIUow3B6CYWrVszAAm8Tmmg4Mhz6KFWmsC25M-50ei7VxFuSMo2ol8jUJULY9Ex6xzRjZdo8Oy418bP5NtURi1HkJoQJ_c",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

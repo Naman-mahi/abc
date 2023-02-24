@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20220327_115242616.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1653364712",
+    "formatted": "24 May 2022, 03:58:32 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1648362163",
+    "formatted": "27 Mar 2022, 06:22:43 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4138889,
+    "longitude": 78.4688889,
+    "altitude": 443.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4138889,
+    "longitude": 78.4688889,
+    "altitude": 443.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/KrJDD-7G6eeqy2912QT7grumWgkuQyogBbg_MK6U0vbBTwGejqK87etZ5LogR_llLWc9q56EwTtBbarhM2HAsuVXqNps4jw5jhfETNY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

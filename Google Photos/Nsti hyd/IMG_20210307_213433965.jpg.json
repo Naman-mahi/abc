@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20210307_213433965.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1615185156",
+    "formatted": "8 Mar 2021, 06:32:36 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1615133076",
+    "formatted": "7 Mar 2021, 16:04:36 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }, {
+    "name": "Landveer"
+  }],
+  "url": "https://lh3.googleusercontent.com/y2P1wgwduPajSaXu7i4YIWln-0QGcftl9xbuewfZTZrLHnBFtOWyoFXQvSuauBwAz83bS0vd6Jyz7aeATlJHVWG0HoA06Bbh1kg1VhQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20221112_205411301_HDR.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1668277102",
+    "formatted": "12 Nov 2022, 18:18:22 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1668266653",
+    "formatted": "12 Nov 2022, 15:24:13 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4347222,
+    "longitude": 78.4425,
+    "altitude": 473.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4347222,
+    "longitude": 78.4425,
+    "altitude": 473.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/sDTjhytXAfXvOzCUQcaLuaV4mDBhlkuskrpUYvQCpn7rYAbISlAzKVQ973FYL2Rv0Nk1OZaDqCVqigVa-GADnQj2hwgoj68hx6ImAEU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

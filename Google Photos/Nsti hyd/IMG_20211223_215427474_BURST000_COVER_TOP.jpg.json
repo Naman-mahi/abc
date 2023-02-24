@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20211223_215427474_BURST000_COVER_TOP.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1653362110",
+    "formatted": "24 May 2022, 03:15:10 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1640276668",
+    "formatted": "23 Dec 2021, 16:24:28 UTC"
+  },
+  "geoData": {
+    "latitude": 17.389722199999998,
+    "longitude": 78.4972222,
+    "altitude": 265.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.389722199999998,
+    "longitude": 78.4972222,
+    "altitude": 265.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/wGlThVoe_DmCkEXJMuQ760BbIvj8iF5w-Li74Oqws0Lvxb_lK2KNS1l1SLaD1Wq7eAU0dvJNxFJOSW_GcE8FI8HTpCpdwRIo4forQOc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

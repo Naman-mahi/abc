@@ -1,0 +1,40 @@
+{
+  "title": "IMG_20220222_211914390.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1653364712",
+    "formatted": "24 May 2022, 03:58:32 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1645544956",
+    "formatted": "22 Feb 2022, 15:49:16 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4016667,
+    "longitude": 78.5163889,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4016667,
+    "longitude": 78.5163889,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/bU9C5X6Qp1s7K-np3j2HRIpLb_otz9K_Zsrp0K_uAkzmrQM_GamzCbLIeEPwHuaNludma5bBSGlOQIovwiXFzpL8OZt4wzbkR9xY_88",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

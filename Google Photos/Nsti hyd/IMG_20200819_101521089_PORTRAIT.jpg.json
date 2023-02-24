@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20200819_101521089_PORTRAIT.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1601874033",
+    "formatted": "5 Oct 2020, 05:00:33 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1597812324",
+    "formatted": "19 Aug 2020, 04:45:24 UTC"
+  },
+  "geoData": {
+    "latitude": 21.5294444,
+    "longitude": 80.3608333,
+    "altitude": 171.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 21.5294444,
+    "longitude": 80.3608333,
+    "altitude": 171.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/6Er1Nq68Y2gQNpz4S8RoUOAbZXRqtvBwx3Lvf7l65I2tANLr1SklLp43vi8sGKAkfzpb6t-FUXom6K01IcXVzQ7SECfm7m-kWvZ3BKM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

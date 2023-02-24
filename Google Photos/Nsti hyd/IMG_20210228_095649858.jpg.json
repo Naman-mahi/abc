@@ -1,0 +1,47 @@
+{
+  "title": "IMG_20210228_095649858.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1614590036",
+    "formatted": "1 Mar 2021, 09:13:56 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1614486411",
+    "formatted": "28 Feb 2021, 04:26:51 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dhasharath Baby"
+  }, {
+    "name": "Landveer"
+  }, {
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/lWK9tl1FBHdD--_nzQFAcNGbQ8axAo3A0IUQIozj2gXQ1_HKHodY6u1Ur1JDxjTk5a2ElFB2CfyM8R5-dma4qyk6wadqHxxL-GtzvpQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

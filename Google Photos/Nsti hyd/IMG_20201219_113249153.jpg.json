@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20201219_113249153.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1608522329",
+    "formatted": "21 Dec 2020, 03:45:29 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608357769",
+    "formatted": "19 Dec 2020, 06:02:49 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/iN0UinLGFY7T4J2oNYr3Q3SRjsveL7Ri5AK54fRUCVXoZu7VkJUCwgeHX2e_fjswg6jna09ze7OjLJEXN6gbZqJOkcKjGBZM6pVmGvI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

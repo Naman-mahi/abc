@@ -1,0 +1,43 @@
+{
+  "title": "Snapchat-1393609745.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1669557410",
+    "formatted": "27 Nov 2022, 13:56:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1669555930",
+    "formatted": "27 Nov 2022, 13:32:10 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/4dv95nPqczpFUlTODE-230PGcN6IOtc5qobM1Jn0wraal5et5B7TNN6QeNZixEkGPsZYEQ9vl2VLrUs6A6YSUT-bQu6ISfaXexqoupQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

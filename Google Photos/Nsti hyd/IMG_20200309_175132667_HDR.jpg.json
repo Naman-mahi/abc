@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20200309_175132667_HDR.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1583900199",
+    "formatted": "11 Mar 2020, 04:16:39 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1583756494",
+    "formatted": "9 Mar 2020, 12:21:34 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }, {
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/SmHC1BIV9rVuB7Nrq9k7S6KqfDiVoHbTQATNLT_w9ghdMQdThFt44bScRmtjdIBCc7mtUWT6hjD4SgCXEwAOwxXpJlex6u70i_I7FVM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

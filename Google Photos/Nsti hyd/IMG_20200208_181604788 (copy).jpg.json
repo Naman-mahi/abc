@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20200208_181604788 (copy).jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1581417576",
+    "formatted": "11 Feb 2020, 10:39:36 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581165965",
+    "formatted": "8 Feb 2020, 12:46:05 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Yogesh Nagpurkar"
+  }],
+  "url": "https://lh3.googleusercontent.com/sn5_dVbaadZoi3ZKtsDcHIxLxkm1gOopQkZp3YQoPkVJFLXzpDRnpVKSwP4WJzQVnz-SOc3uo6-yH2pnO1_1OWaLfD11fPC5xmUJ3hM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

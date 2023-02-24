@@ -1,0 +1,47 @@
+{
+  "title": "IMG_20221024_170010435.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1666639805",
+    "formatted": "24 Oct 2022, 19:30:05 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1666611010",
+    "formatted": "24 Oct 2022, 11:30:10 UTC"
+  },
+  "geoData": {
+    "latitude": 17.3294444,
+    "longitude": 78.7086111,
+    "altitude": 466.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.3294444,
+    "longitude": 78.7086111,
+    "altitude": 466.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dhasharath Baby"
+  }, {
+    "name": "Naman"
+  }, {
+    "name": "Sai bhargav"
+  }],
+  "url": "https://lh3.googleusercontent.com/sbLmMp6Z6-UEfLqoJE7LSA2mi4gVcWd0IIBPVw6X2ben78mDsS7dEFWo6DeQ8exoYx89yxtoqTVHaQ_FZP2RQFHxcRRAkgUQLOsZGJ8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

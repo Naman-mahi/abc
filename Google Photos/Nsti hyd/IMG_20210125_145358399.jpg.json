@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20210125_145358399.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1611567386",
+    "formatted": "25 Jan 2021, 09:36:26 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1611566639",
+    "formatted": "25 Jan 2021, 09:23:59 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Yogesh Nagpurkar"
+  }, {
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/pVBT5am3iwRbvT2T8Szv0IVFz2guVINtBKONz76Bry3AoLUm7I5u7a_eULgxuMcYUw1tY6DhVePWv9oXjCKH4NIe_G9OhOI7B0QVSuo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

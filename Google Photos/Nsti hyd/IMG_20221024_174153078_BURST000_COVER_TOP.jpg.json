@@ -1,0 +1,47 @@
+{
+  "title": "IMG_20221024_174153078_BURST000_COVER_TOP.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1666639805",
+    "formatted": "24 Oct 2022, 19:30:05 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1666613513",
+    "formatted": "24 Oct 2022, 12:11:53 UTC"
+  },
+  "geoData": {
+    "latitude": 17.3297222,
+    "longitude": 78.70833329999999,
+    "altitude": 447.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.3297222,
+    "longitude": 78.70833329999999,
+    "altitude": 447.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Dhasharath Baby"
+  }, {
+    "name": "Naman"
+  }, {
+    "name": "Sai bhargav"
+  }],
+  "url": "https://lh3.googleusercontent.com/QVRoeBzkas-fzDRoz-PJJ0jJAI1DwyXgmgONloFwPOVeqgqmxKskfx0QVkSvAzUcgPTVH89EbwRn1w5ncx9yUQmN30CdvrKKJmYkU-8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

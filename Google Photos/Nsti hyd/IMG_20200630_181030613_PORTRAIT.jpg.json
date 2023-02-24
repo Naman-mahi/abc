@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20200630_181030613_PORTRAIT.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1601547483",
+    "formatted": "1 Oct 2020, 10:18:03 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1593520833",
+    "formatted": "30 Jun 2020, 12:40:33 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/W6qWmVABhU689R9dEfA951Azr91jSIv0OXgE4_bdZS0Npea0r_yxUN4Bxd8xL3PfRaZNLUZ12VWnqxztZjKjJ7LWNMMA_U3Eaq6JpMg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

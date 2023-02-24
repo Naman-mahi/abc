@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20210126_170230983.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1611720378",
+    "formatted": "27 Jan 2021, 04:06:18 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1611660751",
+    "formatted": "26 Jan 2021, 11:32:31 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Subodh"
+  }, {
+    "name": "Pawan"
+  }],
+  "url": "https://lh3.googleusercontent.com/S3InnG8FLRzkNnkkIxzLco03g6XfUb0TjYV7939H7WhnFCWCf1e0axfGS9rKKqoTk1WtDJWs6FToupwesylLSo4ZG0aaKFarsHdnDbw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

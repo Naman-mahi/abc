@@ -1,0 +1,43 @@
+{
+  "title": "IMG-20200213-WA0007.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1581570661",
+    "formatted": "13 Feb 2020, 05:11:01 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581569972",
+    "formatted": "13 Feb 2020, 04:59:32 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "madhuri"
+  }],
+  "url": "https://lh3.googleusercontent.com/OF75DTE36STA8tiBX307j9mJXM52lqrlRCo-VhNP_nbrhdKq4ZLe_i1RM1Z4CKjeqvL5G04fqDAZQg0O-euPr7C4sOxLre9jnXOTW8U",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "WhatsApp Images"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

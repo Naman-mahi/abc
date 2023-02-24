@@ -1,0 +1,45 @@
+{
+  "title": "IMG_20221002_202126431_PORTRAIT.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1664764254",
+    "formatted": "3 Oct 2022, 02:30:54 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1664722295",
+    "formatted": "2 Oct 2022, 14:51:35 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4327778,
+    "longitude": 78.4469444,
+    "altitude": 461.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4327778,
+    "longitude": 78.4469444,
+    "altitude": 461.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Sai bhargav"
+  }, {
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/v5AhzqSnXD2FVKNOqva1ZZgp0wgl-huVlJIjMKqx-XTGbzhGbkWSYr2lI5fDjvnWMq0L5aoRkt0JDId1RQ59bVTvqO-cRmMiWU08rgM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "IMG_20210303_181817449.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1614833086",
+    "formatted": "4 Mar 2021, 04:44:46 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1614775700",
+    "formatted": "3 Mar 2021, 12:48:20 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/MYQpSU8KX5pDN6ZM1bugmWnKQZqACDML9HvzOmdzqTa0FeYEs2bZQTUF745sd_qf7v8TtqTAdP3LHdnj_aCR_0kH1WRMDix0W5NQfsk",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

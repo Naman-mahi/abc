@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20200930_204133332.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1601874798",
+    "formatted": "5 Oct 2020, 05:13:18 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1601478694",
+    "formatted": "30 Sept 2020, 15:11:34 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4036111,
+    "longitude": 78.515,
+    "altitude": 438.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4036111,
+    "longitude": 78.515,
+    "altitude": 438.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Pawan"
+  }],
+  "url": "https://lh3.googleusercontent.com/FG4oyAV59xcKefW-_ASEQjwz2C3eo67BRXZx66IgaJ12BlnLWxq_xqRd2g-rqnwqL7ZATyOF-dbjU5hTwlsRer8PFC3-GcmvsjIcCvA",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

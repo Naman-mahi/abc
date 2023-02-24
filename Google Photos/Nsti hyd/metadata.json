@@ -1,0 +1,17 @@
+{
+  "title": "Nsti hyd ",
+  "description": "",
+  "access": "",
+  "date": {
+    "timestamp": "0",
+    "formatted": "1 Jan 1970, 00:00:00 UTC"
+  },
+  "location": "",
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  }
+}

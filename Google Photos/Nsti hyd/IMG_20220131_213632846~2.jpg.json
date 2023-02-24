@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20220131_213632846~2.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1653364712",
+    "formatted": "24 May 2022, 03:58:32 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1643645195",
+    "formatted": "31 Jan 2022, 16:06:35 UTC"
+  },
+  "geoData": {
+    "latitude": 17.4016667,
+    "longitude": 78.51666670000002,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 17.4016667,
+    "longitude": 78.51666670000002,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/4pd4JZcUZXPf3kK7nH9HczWCrAu8QeFkT6NyesOZVowiCq_lGNUceRMFal-UHIbnx-p8L6Lg97dRv6EVbwPYyndlSO04ES54sU_SrT0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600243",
+    "formatted": "17 Feb 2023, 02:17:23 UTC"
+  }
+}

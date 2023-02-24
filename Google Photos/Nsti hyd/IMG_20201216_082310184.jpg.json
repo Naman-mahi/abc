@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20201216_082310184.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1608089816",
+    "formatted": "16 Dec 2020, 03:36:56 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1608087191",
+    "formatted": "16 Dec 2020, 02:53:11 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Naman"
+  }],
+  "url": "https://lh3.googleusercontent.com/8qPon2Cgrpm1IBnVX3ExuX03g9ZTp4X4-ir7GCh9KQopqiEF63bdD-46YaU4IX8Xetw4_g4Y-mpBl8kANQfgCWYq6fPerM61ZOLL858",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

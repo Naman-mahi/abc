@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20200315_153915111.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1584336128",
+    "formatted": "16 Mar 2020, 05:22:08 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1584266955",
+    "formatted": "15 Mar 2020, 10:09:15 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Yogesh Nagpurkar"
+  }],
+  "url": "https://lh3.googleusercontent.com/giZvas25ziTOWM5D8JEWftFmumfQMIAV712HqAG-BQVMbBVAxgiw4A2icT2exB4f-kFpWo-tHwQ5eg7liTgdTAYlYe4JDQvtxHJGb_A",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600239",
+    "formatted": "17 Feb 2023, 02:17:19 UTC"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "IMG_20201029_095733404_BURST000_COVER_COMP.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1603957796",
+    "formatted": "29 Oct 2020, 07:49:56 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1603945655",
+    "formatted": "29 Oct 2020, 04:27:35 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Subodh"
+  }],
+  "url": "https://lh3.googleusercontent.com/e8vX3r8ttGWVFX3rOfUoqa1Si_lJkQbRMB4A5kvzW5UCv3knDX0w4TxJER8u3NNMYrt7IO5wMSxelpJsEbWewiYlAIrkHf8075GpqEs",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676600241",
+    "formatted": "17 Feb 2023, 02:17:21 UTC"
+  }
+}

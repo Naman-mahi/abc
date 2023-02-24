@@ -1,0 +1,2105 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214617322,
+        "longitudeE7": 801925954,
+        "placeId": "ChIJVy7KC62uKzoRZ6KeTbduRuk",
+        "address": "Bhim Nagar, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Gondia Junction",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 94.88384,
+        "calibratedProbability": 76.09236
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T06:52:17.859Z",
+        "endTimestamp": "2022-06-07T07:02:42.697Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 214608737,
+      "centerLngE7": 801939838,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214631833,
+        "longitudeE7": 801956895,
+        "placeId": "ChIJq54PGoavKzoRJdbOcPZHVts",
+        "address": "behind Gurudwara, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Tadka Point",
+        "locationConfidence": 0.56039184,
+        "calibratedProbability": 0.4494078
+      }, {
+        "latitudeE7": 214605373,
+        "longitudeE7": 801936366,
+        "placeId": "ChIJr6o6Aa6uKzoR_FehBkw4AI4",
+        "address": "Ganj Bazaar Sabzi Mandi, Bhim Nagar, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "Shree Radhe Mini Super Market",
+        "locationConfidence": 0.312045,
+        "calibratedProbability": 0.25024536
+      }, {
+        "latitudeE7": 214606557,
+        "longitudeE7": 801941865,
+        "placeId": "ChIJA3x74bGuKzoR4rFSRbVs4-g",
+        "address": "F56V+7M7, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "SPOT ON 63377 Hotel City Heart",
+        "locationConfidence": 0.29831812,
+        "calibratedProbability": 0.23923704
+      }, {
+        "latitudeE7": 214590726,
+        "longitudeE7": 801931733,
+        "placeId": "ChIJV9ucILKuKzoRoPWrc3YfrMM",
+        "address": "F55V+J7F, beside Manoj Jwellers, Desh Bandhu Ward, gorelal Chowk, Gondia, Maharashtra 441601, India",
+        "name": "Delhi Hotel",
+        "locationConfidence": 0.28983164,
+        "calibratedProbability": 0.23243128
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214611815,
+          "lngE7": 801934081,
+          "accuracyMeters": 28,
+          "timestamp": "2022-06-07T06:52:17.859Z"
+        }, {
+          "latE7": 214613206,
+          "lngE7": 801931318,
+          "accuracyMeters": 19,
+          "timestamp": "2022-06-07T06:53:18.077Z"
+        }, {
+          "latE7": 214610585,
+          "lngE7": 801934258,
+          "accuracyMeters": 27,
+          "timestamp": "2022-06-07T06:54:19.164Z"
+        }, {
+          "latE7": 214608114,
+          "lngE7": 801945635,
+          "accuracyMeters": 15,
+          "timestamp": "2022-06-07T06:56:21.722Z"
+        }, {
+          "latE7": 214591894,
+          "lngE7": 801934285,
+          "accuracyMeters": 22,
+          "timestamp": "2022-06-07T07:00:42.695Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 387.2369222130853
+      },
+      "locationConfidence": 81,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214583693,
+        "longitudeE7": 801944946,
+        "placeId": "ChIJyVe6mLGuKzoRbkhRALiwSbU",
+        "address": "F55V+8QX, Gonpur, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Nagpure Medical Stores",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 41.337032,
+        "calibratedProbability": 34.10074
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T07:02:42.697Z",
+        "endTimestamp": "2022-06-07T07:16:22.876Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 214583562,
+      "centerLngE7": 801944950,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214584340,
+        "longitudeE7": 801947367,
+        "placeId": "ChIJgTX1o7GuKzoRJGHYTyv7Fec",
+        "address": "F55V+9VH, Gonpur, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Sunny Gerneral Stores",
+        "locationConfidence": 17.96977,
+        "calibratedProbability": 14.824055
+      }, {
+        "latitudeE7": 214617322,
+        "longitudeE7": 801925954,
+        "placeId": "ChIJVy7KC62uKzoRZ6KeTbduRuk",
+        "address": "Bhim Nagar, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Gondia Junction",
+        "locationConfidence": 16.901922,
+        "calibratedProbability": 13.94314
+      }, {
+        "latitudeE7": 214593687,
+        "longitudeE7": 801954944,
+        "placeId": "ChIJb8ugsbGuKzoRVjrtXUjX0CY",
+        "address": "F55W+P5X, Gonpur, Nehru Chowk, Gondia, Maharashtra 441601, India",
+        "name": "Indira Gandhi Stadium",
+        "locationConfidence": 4.577759,
+        "calibratedProbability": 3.7763948
+      }, {
+        "latitudeE7": 214582972,
+        "longitudeE7": 801942586,
+        "placeId": "ChIJ9UvNnrGuKzoRXFuPqBIbD3s",
+        "address": "Main Market, F55V+8P6, above Axis Bank, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Hotel Swaruchi",
+        "locationConfidence": 4.137041,
+        "calibratedProbability": 3.4128273
+      }, {
+        "latitudeE7": 214582954,
+        "longitudeE7": 801940695,
+        "placeId": "ChIJd7CaTYWuKzoR7WczfNhhcIo",
+        "address": "Plot No 86, Lalani Mansion, Main Rd, Main Market, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Axis Bank Branch",
+        "locationConfidence": 4.0200925,
+        "calibratedProbability": 3.3163512
+      }, {
+        "latitudeE7": 214583460,
+        "longitudeE7": 801946433,
+        "placeId": "ChIJhwU70o2vKzoRUk1oUM3jg8w",
+        "address": "stadium road Modi market, Gonpur, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "NARI SHRINGAR",
+        "locationConfidence": 3.3844671,
+        "calibratedProbability": 2.791996
+      }, {
+        "latitudeE7": 214573715,
+        "longitudeE7": 801933375,
+        "placeId": "ChIJNzxZfLGuKzoRhfAscVVV0ZU",
+        "address": "Cm Tower Laxmibai Ward, behind Modi Petrol Pump, Gondia, Maharashtra 441601, India",
+        "name": "HDFC Bank",
+        "locationConfidence": 2.7798903,
+        "calibratedProbability": 2.293254
+      }, {
+        "latitudeE7": 214584866,
+        "longitudeE7": 801947005,
+        "placeId": "ChIJ7Qamo7GuKzoR_wG_PTQG5H4",
+        "address": "Modi Market, Near Indira Gandhi Stadium, F55V+9VW, Gonpur, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Modi Market",
+        "locationConfidence": 1.2855544,
+        "calibratedProbability": 1.0605104
+      }, {
+        "latitudeE7": 214584719,
+        "longitudeE7": 801943253,
+        "placeId": "ChIJVdP2mLGuKzoRpudlVuH5pJo",
+        "address": "Station Rd, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Taj Darbar Restaurant",
+        "locationConfidence": 0.9574006,
+        "calibratedProbability": 0.7898019
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214581304,
+        "longitudeE7": 801944464,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214554392,
+        "longitudeE7": 801947191,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T07:16:22.876Z",
+        "endTimestamp": "2022-06-07T07:20:37.314Z"
+      },
+      "distance": 312,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 51.36169791221619
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 24.9729722738266
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 11.530835926532745
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 4.937178269028664
+      }, {
+        "activityType": "STILL",
+        "probability": 3.6744199693202972
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.546562999486923
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5306619685143232
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.30379085801541805
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0884977460373193
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.025110083515755832
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.019352596427779645
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.004522813105722889
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.002897435479098931
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.0014918915439920966
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.5905258382863394E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214581222,
+          "lngE7": 801944274
+        }, {
+          "latE7": 214577636,
+          "lngE7": 801946029
+        }, {
+          "latE7": 214554462,
+          "lngE7": 801946868
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 334.16509330006056,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214549908,
+        "longitudeE7": 801963919,
+        "placeId": "ChIJD4rhLLeuKzoRFz_rt7bMyj4",
+        "address": "Bajaj Nagar, Gondia, Maharashtra 441601, India",
+        "name": "Jaistambh Bus Stop",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 76.93137,
+        "calibratedProbability": 68.89947
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T07:20:37.314Z",
+        "endTimestamp": "2022-06-07T07:36:52.186Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214551878,
+      "centerLngE7": 801950444,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214557828,
+        "longitudeE7": 801930060,
+        "placeId": "ChIJedwAdVOvKzoRwQ1YVdJLXsA",
+        "address": "F54V+86J, Main Rd, Main Market, Gurunand Ward, Gondia, Maharashtra 441601, India",
+        "name": "Gandhi pratima",
+        "locationConfidence": 12.521987,
+        "calibratedProbability": 11.214647
+      }, {
+        "latitudeE7": 214561338,
+        "longitudeE7": 801950906,
+        "placeId": "ChIJzdehPLGuKzoRFFtusZUQ8s0",
+        "address": "Girl\u0027s College Road, Vithal Nagar, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Purushottam Super Bazar",
+        "locationConfidence": 3.12741,
+        "calibratedProbability": 2.8008974
+      }, {
+        "latitudeE7": 214548838,
+        "longitudeE7": 801953097,
+        "placeId": "ChIJpdOobsqvKzoRtdsS_u57xnk",
+        "address": "Old yummies or sardarji restaurant, manhoar chowk, Ganesh Nagar, Gondia, Maharashtra 441601, India",
+        "name": "Punjabi\u0027s grill",
+        "locationConfidence": 2.0040653,
+        "calibratedProbability": 1.7948338
+      }, {
+        "latitudeE7": 214552845,
+        "longitudeE7": 801952255,
+        "placeId": "ChIJO8KRLbGuKzoRAj4xSjmnNs8",
+        "address": "Prabhat Talkies, Vithal Nagar, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Lottery Shop",
+        "locationConfidence": 1.8296959,
+        "calibratedProbability": 1.6386693
+      }, {
+        "latitudeE7": 214555440,
+        "longitudeE7": 801952217,
+        "placeId": "ChIJi5N8NbGuKzoRvrW9BEIutWc",
+        "address": "Ground Floor, Gurunanak Ward, opposite Prabhat Talkies, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Samsung SmartCafé (Digi Plaza)",
+        "locationConfidence": 1.0050759,
+        "calibratedProbability": 0.90014243
+      }, {
+        "latitudeE7": 214549341,
+        "longitudeE7": 801952813,
+        "placeId": "ChIJYREdsuavKzoRXvGx48DUnoc",
+        "address": "Jaistambh Chowk, F53W+W5X, Sindhi Colony Rd, near Gurunanak Gate, Main Market, Bajpai Ward, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Hotel Riya Imperrial",
+        "locationConfidence": 0.6235309,
+        "calibratedProbability": 0.5584321
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 62,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214554720,
+        "longitudeE7": 801942513,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214489205,
+        "longitudeE7": 801719503,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T07:36:52.186Z",
+        "endTimestamp": "2022-06-07T10:09:55.956Z"
+      },
+      "distance": 4696,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.2247953414917
+      }, {
+        "activityType": "STILL",
+        "probability": 17.93859899044037
+      }, {
+        "activityType": "WALKING",
+        "probability": 17.82405972480774
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 16.378697752952576
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 8.90568345785141
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.8857471868395805
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.8439440280199051
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.7718052715063095
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.7194479461759329
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.3673648228868842
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.09858672274276614
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.022981227084528655
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.014872744213789701
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 0.003244820618419908
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.6890787719603395E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214554767,
+          "lngE7": 801942520
+        }, {
+          "latE7": 214584445,
+          "lngE7": 801882019
+        }, {
+          "latE7": 214576625,
+          "lngE7": 801813125
+        }, {
+          "latE7": 214525661,
+          "lngE7": 801799850
+        }, {
+          "latE7": 214497509,
+          "lngE7": 801787796
+        }, {
+          "latE7": 214528636,
+          "lngE7": 801785278
+        }, {
+          "latE7": 214529094,
+          "lngE7": 801781768
+        }, {
+          "latE7": 214510974,
+          "lngE7": 801769866
+        }, {
+          "latE7": 214489154,
+          "lngE7": 801718063
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJvdzkNbGuKzoRD7KruiC0HCw",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJ98KmM7GuKzoRpl79DU112bg",
+          "duration": "151s"
+        }, {
+          "placeId": "ChIJVYwVLbGuKzoRJ62k87h81bo",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJqcdTzLauKzoRiI1FwVDR12w",
+          "duration": "131s"
+        }, {
+          "placeId": "ChIJqcdTzLauKzoRkOZGmmpz5i8",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJfR_jybauKzoRW1WOo9Miuq4",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJ28_ds7auKzoRLyTycxDA8M0",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJ28_ds7auKzoRZ8bjEZyQh6w",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJu2mOrbauKzoREydurMJoWrs",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJ67VlrLauKzoRj8PfgjY9NjA",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJG6GaqrauKzoRr-E4VXcBVTg",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJF5aWALSuKzoRGz8ceZe-gas",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJ8Svy97OuKzoRr-Nczr3gxw0",
+          "duration": "110s"
+        }, {
+          "placeId": "ChIJT9Te9LOuKzoRW_IzsTJAcNU",
+          "duration": "100s"
+        }, {
+          "placeId": "ChIJ5Q61i7OuKzoR2uzYt0KXObE",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJZxcNibOuKzoREqWwelPz0ik",
+          "duration": "110s"
+        }, {
+          "placeId": "ChIJR0vymrOuKzoRnDEMAEefDSU",
+          "duration": "262s"
+        }, {
+          "placeId": "ChIJMXz1obOuKzoRT9uoXJIQSdc",
+          "duration": "110s"
+        }, {
+          "placeId": "ChIJMXz1obOuKzoRFPutASHKMzs",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJ_XtTCrOuKzoRY0thuksxDu0",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJWTpLDLOuKzoRIDp7reTl-Y4",
+          "duration": "110s"
+        }, {
+          "placeId": "ChIJgYhNELOuKzoRbHHUCJRHbac",
+          "duration": "141s"
+        }, {
+          "placeId": "ChIJi8P4GrOuKzoR3dkB51ksfHs",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJGxaXHbOuKzoRWqia-rbQdS0",
+          "duration": "231s"
+        }, {
+          "placeId": "ChIJM0AY5LKuKzoRvjc12TXDw-g",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJJUue57KuKzoR_Ab80XpRag0",
+          "duration": "131s"
+        }, {
+          "placeId": "ChIJbe_U3LKuKzoRd-VgbDsfKp4",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJwUXcxLKuKzoRT42mw8AO_OU",
+          "duration": "90s"
+        }, {
+          "placeId": "ChIJwUXcxLKuKzoRYWdLcW4RRVY",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJcxiMzrKuKzoRdn52YIJszPc",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJ1xP0zLKuKzoRYp9a8B5bzok",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJa4E3M02pKzoRPkzSbPQyM6E",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJa6i-M02pKzoRV_IM8gDhjgY",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJNfISMU2pKzoRCJjET1EhxLs",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJC_-MME2pKzoRTCQQikW6g7k",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJ--BWOk2pKzoR9g40zn_7SLs",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJk0aHPE2pKzoRoWYjJlLpDH4",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJIQTSPE2pKzoRvfSbC9NSApM",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJkxjcGE2pKzoREXQqPVoHzvw",
+          "duration": "100s"
+        }, {
+          "placeId": "ChIJkxjcGE2pKzoRCRWXJqcN9nM",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJ3THMAk2pKzoR06Wgg9zh3ss",
+          "duration": "100s"
+        }, {
+          "placeId": "ChIJj4LK_UypKzoRbYmN57QFQ18",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJ7fNt-UypKzoRnXhbggaJIU0",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJtfss-EypKzoRIb_ZIrasQ90",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJ8zPiVUypKzoRSveZostRQRQ",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJ8zPiVUypKzoRofXGBx3Cxyw",
+          "duration": "110s"
+        }, {
+          "placeId": "ChIJK2oGtU2pKzoRMEP3uluhkaI",
+          "duration": "161s"
+        }, {
+          "placeId": "ChIJK2oGtU2pKzoROjA2aNJH1_Q",
+          "duration": "141s"
+        }, {
+          "placeId": "ChIJCVZ41k2pKzoRGd6M4kC6SXc",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJCVZ41k2pKzoR_TQjEJ6ANhE",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJIUSweE6pKzoRhaI43afQzX8",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJSQjnZE6pKzoRJs_FnER8Wa4",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJF3IzZE6pKzoRuA1GwS1ghcQ",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ66NUZk6pKzoRNBuVR0WtU1g",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJr_YiXk6pKzoRwD2AuM_lsrg",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJr_YiXk6pKzoRBfBD8cdzMGc",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJB7fn9E6pKzoRdim5QHSNS6E",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJA1Np806pKzoRWBYQNwSdRd4",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJIXjx8k6pKzoRDu9EiUQpQb8",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJKexk7E6pKzoREuuBNWp6CUg",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJ--Fl6k6pKzoRS0Wj2PEfHtQ",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJARyYwU6pKzoRb9veO2g3dLg",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJLzdewU6pKzoRFG6QGjHzGyY",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJyYAtxE6pKzoRnTMgCANR8AM",
+          "duration": "30s"
+        }, {
+          "placeId": "ChIJh_lez06pKzoRe15--jQ8Mvw",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJi_YkzE6pKzoRnWBMj8dl9_g",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJz-cRM0mpKzoRkpkEmhAitiU",
+          "duration": "120s"
+        }, {
+          "placeId": "ChIJAUwYMUmpKzoRzmVoF08hSlU",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJt6tqI0mpKzoRiiGGggHhaCQ",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJ92pHIkmpKzoRJlGMlgQxKXk",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJ-ZvGF0mpKzoRsACkw2bP_40",
+          "duration": "131s"
+        }, {
+          "placeId": "ChIJuzZ4FEmpKzoRsfoq2i0byck",
+          "duration": "161s"
+        }, {
+          "placeId": "ChIJRzQJEkmpKzoRbQolioICZSU",
+          "duration": "161s"
+        }, {
+          "placeId": "ChIJVcU7BUmpKzoR7B4iM0RGKh0",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJb-H4A0mpKzoRUXg7PT7_MOM",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJb-H4A0mpKzoRB8_FfnIbT4Y",
+          "duration": "110s"
+        }, {
+          "placeId": "ChIJMwZ2AkmpKzoRy7vPVys0EUA",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJBeQ6_kipKzoRb1cvcqff4PI",
+          "duration": "131s"
+        }, {
+          "placeId": "ChIJ9ZroTUipKzoR71AcKh600zU",
+          "duration": "282s"
+        }, {
+          "placeId": "ChIJ_SmKSkipKzoRMImURTxg-AE",
+          "duration": "100s"
+        }, {
+          "placeId": "ChIJ15QNykmpKzoRFzLt6Ol_hIQ",
+          "duration": "90s"
+        }, {
+          "placeId": "ChIJE7DDsEmpKzoR89WyPj-akeE",
+          "duration": "292s"
+        }, {
+          "placeId": "ChIJj-KkpUmpKzoRoRAufMKLuWM",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJm-20pkmpKzoRHsczCCHT3rc",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJm-20pkmpKzoRW0qldNZzuEg",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJv0NfCUmpKzoRZRFhCrcEzsc",
+          "duration": "141s"
+        }, {
+          "placeId": "ChIJRzQJEkmpKzoRbAolioICZSU",
+          "duration": "80s"
+        }, {
+          "placeId": "ChIJuzZ4FEmpKzoRsPoq2i0byck",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJ-ZvGF0mpKzoRsQCkw2bP_40",
+          "duration": "141s"
+        }, {
+          "placeId": "ChIJAS5yIEmpKzoR74u33iWRWQI",
+          "duration": "161s"
+        }, {
+          "placeId": "ChIJ99e_3EipKzoR-bx_CF0Jy_k",
+          "duration": "110s"
+        }, {
+          "placeId": "ChIJw1qBw0ipKzoRAxzj-GNUC3g",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJWxTbw0ipKzoRvTib8H0OUxc",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJjdym60ipKzoRSwobip6qA6w",
+          "duration": "181s"
+        }, {
+          "placeId": "ChIJuaGEkkipKzoRVyyyRqwHlP8",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJ-QTFjkipKzoRAiwQmSTBieA",
+          "duration": "131s"
+        }, {
+          "placeId": "ChIJ9ZLBh0ipKzoRYII0ji3UYSE",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJxXEO00epKzoROh5gfQFoL4U",
+          "duration": "282s"
+        }, {
+          "placeId": "ChIJxXEO00epKzoR-_FeJgkGUGo",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJ8TaDzUepKzoRRvH2jIybgFk",
+          "duration": "90s"
+        }, {
+          "placeId": "ChIJzYnDrkepKzoR1pB_e4eMOGM",
+          "duration": "131s"
+        }, {
+          "placeId": "ChIJyxsmqEepKzoRiYZCRhZJdZY",
+          "duration": "10s"
+        }, {
+          "placeId": "ChIJm-YLBkepKzoRfgQNg0FjNek",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJm-YLBkepKzoRiO1_JuhYs7Y",
+          "duration": "40s"
+        }, {
+          "placeId": "ChIJE1h0EEepKzoRQfKcWqn9zKE",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJPSGzEEepKzoRkzymnamjwMA",
+          "duration": "20s"
+        }, {
+          "placeId": "ChIJHwW9F0epKzoRPYRU4vZWTG4",
+          "duration": "50s"
+        }, {
+          "placeId": "ChIJFw73PEepKzoRhwXp7-FO-cM",
+          "duration": "60s"
+        }, {
+          "placeId": "ChIJA77cRkepKzoRpd5ca6G4JSM",
+          "duration": "241s"
+        }],
+        "distanceMeters": 4919.441991761424,
+        "travelMode": "DRIVE",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214576321,
+          "lngE7": 801815796,
+          "accuracyMeters": 64,
+          "timestamp": "2022-06-07T07:43:00.017Z"
+        }, {
+          "latE7": 214501362,
+          "lngE7": 801788559,
+          "accuracyMeters": 42,
+          "timestamp": "2022-06-07T07:47:01.052Z"
+        }, {
+          "latE7": 214529800,
+          "lngE7": 801781921,
+          "accuracyMeters": 98,
+          "timestamp": "2022-06-07T07:49:01.175Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214494100,
+          "longitudeE7": 801718307,
+          "accuracyMetres": 152
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2022-06-07T10:11:54.190Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214488584,
+        "longitudeE7": 801719048,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 38.001286,
+        "calibratedProbability": 20.724522
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T10:09:55.956Z",
+        "endTimestamp": "2022-06-07T10:17:56.635Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 214497120,
+      "centerLngE7": 801717500,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214498319,
+        "longitudeE7": 801716553,
+        "placeId": "ChIJe2SE-HmpKzoRDpr4n-9Y3vI",
+        "address": "CHUTIYA, ROAD, near SAINATH PETROL PUMP, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "SURAJ ONLINE SERVICES",
+        "locationConfidence": 33.037666,
+        "calibratedProbability": 18.017546
+      }, {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Shree Sainath Petroleum",
+        "locationConfidence": 11.876907,
+        "calibratedProbability": 6.4772344
+      }, {
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 4.981377,
+        "calibratedProbability": 2.7166624
+      }, {
+        "latitudeE7": 214489435,
+        "longitudeE7": 801720117,
+        "placeId": "ChIJLfWC_jepKzoRdDkIQ3Z5RPI",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Ajay Palace",
+        "locationConfidence": 3.5264566,
+        "calibratedProbability": 1.9232016
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 2.42653,
+        "calibratedProbability": 1.3233414
+      }, {
+        "latitudeE7": 214482452,
+        "longitudeE7": 801742626,
+        "placeId": "ChIJU0JEOs2pKzoRnEor7Hoz1cE",
+        "address": "C5XF+7PR, Unnamed Road, Goutam Nagar, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "SANJAY NAGAR",
+        "locationConfidence": 1.9390831,
+        "calibratedProbability": 1.0575056
+      }, {
+        "latitudeE7": 214461907,
+        "longitudeE7": 801727808,
+        "placeId": "ChIJswVz7TipKzoRyIk9TZ4k5WM",
+        "address": "C5WF+F4C, Sendry Tola Rd, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Primary Health Centre",
+        "locationConfidence": 1.6612234,
+        "calibratedProbability": 0.905971
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 1.1531398,
+        "calibratedProbability": 0.6288806
+      }, {
+        "latitudeE7": 214504034,
+        "longitudeE7": 801736807,
+        "placeId": "ChIJtamtgNKpKzoR-XVOiSzwLg0",
+        "address": "C5X8+3VQ, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Durga Chauk",
+        "locationConfidence": 0.77504426,
+        "calibratedProbability": 0.42268103
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 31,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214499188,
+        "longitudeE7": 801717064,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214586487,
+        "longitudeE7": 801926089,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T10:17:56.635Z",
+        "endTimestamp": "2022-06-07T10:40:40.478Z"
+      },
+      "distance": 2713,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 32.765358686447144
+      }, {
+        "activityType": "WALKING",
+        "probability": 32.09714889526367
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 27.173644304275513
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.4299025535583496
+      }, {
+        "activityType": "STILL",
+        "probability": 2.108766883611679
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.4811407774686813
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.899470504373312
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.5081598646938801
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.33913208171725273
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.09293665643781424
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.04263210576027632
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.04221004492137581
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.018944234761875123
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 5.242489351076074E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.0673989808983606E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214512138,
+          "lngE7": 801771392
+        }, {
+          "latE7": 214558925,
+          "lngE7": 801886291
+        }, {
+          "latE7": 214586448,
+          "lngE7": 801926574
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2215.5468902166585,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.9927137396864038
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214587483,
+          "longitudeE7": 801925413,
+          "accuracyMetres": 35
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2022-06-07T10:40:52.421Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214573715,
+        "longitudeE7": 801933375,
+        "placeId": "ChIJNzxZfLGuKzoRhfAscVVV0ZU",
+        "address": "Cm Tower Laxmibai Ward, behind Modi Petrol Pump, Gondia, Maharashtra 441601, India",
+        "name": "HDFC Bank",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 26.58418,
+        "calibratedProbability": 22.155094
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T10:40:40.478Z",
+        "endTimestamp": "2022-06-07T11:37:21.196Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 214582646,
+      "centerLngE7": 801932430,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214617322,
+        "longitudeE7": 801925954,
+        "placeId": "ChIJVy7KC62uKzoRZ6KeTbduRuk",
+        "address": "Bhim Nagar, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Gondia Junction",
+        "locationConfidence": 24.361744,
+        "calibratedProbability": 20.302927
+      }, {
+        "latitudeE7": 214575156,
+        "longitudeE7": 801922167,
+        "placeId": "ChIJBUjLzbOuKzoR7BlMKYRuKa0",
+        "address": "Main Market, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Mamta Super Bazaar",
+        "locationConfidence": 12.314981,
+        "calibratedProbability": 10.26323
+      }, {
+        "latitudeE7": 214583190,
+        "longitudeE7": 801931900,
+        "placeId": "ChIJeWg-h7GuKzoR9JPHVpKR81M",
+        "address": "Main Market, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Sneha garment",
+        "locationConfidence": 11.964073,
+        "calibratedProbability": 9.970785
+      }, {
+        "latitudeE7": 214585000,
+        "longitudeE7": 801935860,
+        "placeId": "ChIJidSlhbGuKzoR7i0QiJfJGyA",
+        "address": "Gorelal chowk, near jain mandir, Main Market, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Jain Furniture",
+        "locationConfidence": 7.1249394,
+        "calibratedProbability": 5.937881
+      }, {
+        "latitudeE7": 214588449,
+        "longitudeE7": 801939099,
+        "placeId": "ChIJ1YChkbGuKzoR1tkXNqdHKv0",
+        "address": "F55V+GHM, Rail Toly, Gondia, Maharashtra 441601, India",
+        "name": "Bank of india A.T.M.",
+        "locationConfidence": 4.2603097,
+        "calibratedProbability": 3.550516
+      }, {
+        "latitudeE7": 214583072,
+        "longitudeE7": 801930526,
+        "placeId": "ChIJq1XmKbKuKzoRX9SFtx0fLnA",
+        "address": "F55V+86F, Main Market, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "B.K.Jain",
+        "locationConfidence": 2.37196,
+        "calibratedProbability": 1.9767768
+      }, {
+        "latitudeE7": 214580036,
+        "longitudeE7": 801930358,
+        "placeId": "ChIJ9ZaAxrGuKzoRpG1b6zY4VeI",
+        "address": "Main road, near city police station, Main Market, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Sangam Stores",
+        "locationConfidence": 2.1847174,
+        "calibratedProbability": 1.8207301
+      }, {
+        "latitudeE7": 214580232,
+        "longitudeE7": 801931897,
+        "placeId": "ChIJlxVcgLGuKzoRTgj1bv-7WHY",
+        "address": "F55V+674, Unnamed Road, Main Market, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Jama Masjid (Ahle Sunnat Wal Jamaa\u0027t)",
+        "locationConfidence": 1.8078914,
+        "calibratedProbability": 1.5066856
+      }, {
+        "latitudeE7": 214579368,
+        "longitudeE7": 801945234,
+        "placeId": "ChIJ-dkcd7GuKzoRFfBGCGjAEO8",
+        "address": "1, Khoja Masjid Chowk, opp. Dr Gadekar Hospital, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "SPOT ON 66948 Hotel Midtown",
+        "locationConfidence": 1.2055492,
+        "calibratedProbability": 1.0046973
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 19,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214585456,
+        "longitudeE7": 801940316,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214692713,
+        "longitudeE7": 802022188,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T11:37:21.196Z",
+        "endTimestamp": "2022-06-07T11:47:31.170Z"
+      },
+      "distance": 1741,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 44.08876895904541
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 25.986793637275696
+      }, {
+        "activityType": "WALKING",
+        "probability": 18.756134808063507
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 7.044604420661926
+      }, {
+        "activityType": "STILL",
+        "probability": 1.079203188419342
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.0624225251376629
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.9654237888753414
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.7496790029108524
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1621201285161078
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06383921718224883
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.03327442973386496
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.004952126255375333
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.002464497447363101
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.243823357479414E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.644745921211779E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214584598,
+          "lngE7": 801940002
+        }, {
+          "latE7": 214670772,
+          "lngE7": 802005233
+        }, {
+          "latE7": 214694480,
+          "lngE7": 802024078
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2194.268117454869,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214692311,
+          "longitudeE7": 802022469,
+          "accuracyMetres": 132
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2022-06-07T11:49:29.216Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214689990,
+        "longitudeE7": 802026600,
+        "placeId": "ChIJC4mz66auKzoRdYnel3bh3l4",
+        "address": "Laxmi Nagar, Gondia, Maharashtra 441601, India",
+        "name": "Gondia Bus Stand",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 96.92994,
+        "calibratedProbability": 90.669
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T11:47:31.170Z",
+        "endTimestamp": "2022-06-07T12:01:38.874Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 214692257,
+      "centerLngE7": 802022186,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214669990,
+        "longitudeE7": 802004380,
+        "placeId": "ChIJm8XR2KWuKzoR6M8qSudAlwA",
+        "address": "F682+Q5W, Gondia - Balaghat Rd, below Sagarika Hotel, Laxmi Nagar, Gondia, Maharashtra 441614, India",
+        "name": "P. M. Communication",
+        "locationConfidence": 0.44270912,
+        "calibratedProbability": 0.41411346
+      }, {
+        "latitudeE7": 214681936,
+        "longitudeE7": 802017505,
+        "placeId": "ChIJTeQ6iaauKzoRvm66JtDCdj8",
+        "address": "F692+7PC, Gondia - Balaghat Rd, Marar Toli, Laxmi Nagar, Gondia, Maharashtra 441601, India",
+        "name": "bank of india csp",
+        "locationConfidence": 0.31644604,
+        "calibratedProbability": 0.29600602
+      }, {
+        "latitudeE7": 214686089,
+        "longitudeE7": 802025264,
+        "placeId": "ChIJZSuJxIuvKzoRQ5t_s1BZ2yY",
+        "address": "F693+C2R, Basant Nagar, Gondia, Maharashtra 441601, India",
+        "name": "Mahindra Hom Finance",
+        "locationConfidence": 0.30679175,
+        "calibratedProbability": 0.28697532
+      }, {
+        "latitudeE7": 214685501,
+        "longitudeE7": 802023950,
+        "placeId": "ChIJP5Eck6auKzoR-SwGBXs379U",
+        "address": "Plot No 22/156, Shop No 1 ,Basant Nagar , Balaghat Road ,, Azad Ward ,Gondia .441601, opposite Union Bank, Basant Nagar, Gondia, Maharashtra 441601, India",
+        "name": "India Shelter Finance Corporation LTD- Gondia Branch",
+        "locationConfidence": 0.1668269,
+        "calibratedProbability": 0.15605116
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 84,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 213993861,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJ2-iMguG4KzoRAZEfCwYjjx0",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 67.329445,
+        "calibratedProbability": 54.087177
+      },
+      "duration": {
+        "startTimestamp": "2022-06-07T12:01:38.874Z",
+        "endTimestamp": "2022-06-13T08:26:55.301Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215288301,
+      "centerLngE7": 803628612,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215292712,
+        "longitudeE7": 803620315,
+        "placeId": "ChIJA6yHQrmzKzoRl6_I9XO7ibE",
+        "address": "G9H6+PR3, Ghattemani, Maharashtra 441601, India",
+        "name": "Gautam meshram home",
+        "locationConfidence": 2.727825,
+        "calibratedProbability": 2.19132
+      }, {
+        "latitudeE7": 215285405,
+        "longitudeE7": 803632418,
+        "placeId": "ChIJe5PzRLGzKzoR9U_LYpGHDtI",
+        "address": "G9H6+PR3, Ghattemani, Maharashtra 441601, India",
+        "name": "Naman\u0027s Home",
+        "locationConfidence": 2.627293,
+        "calibratedProbability": 2.1105607
+      }, {
+        "latitudeE7": 215283728,
+        "longitudeE7": 803627865,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 2.1645086,
+        "calibratedProbability": 1.7387959
+      }, {
+        "latitudeE7": 215283225,
+        "longitudeE7": 803623576,
+        "placeId": "ChIJ3bYPvauzKzoRYoegT3J6eGc",
+        "address": "G9H6+8WH, Ghattemani, Maharashtra 441601, India",
+        "name": "Ratan Khobragade",
+        "locationConfidence": 2.0108075,
+        "calibratedProbability": 1.6153245
+      }, {
+        "latitudeE7": 215283980,
+        "longitudeE7": 803680543,
+        "placeId": "ChIJA6ejt3-0KzoRki9LMDCSPMI",
+        "address": "G9H9+963, Dhudwa, Maharashtra 441601, India",
+        "name": "Samshan Ghat Ghattemani",
+        "locationConfidence": 1.7371973,
+        "calibratedProbability": 1.3955276
+      }, {
+        "latitudeE7": 215293352,
+        "longitudeE7": 803615500,
+        "placeId": "ChIJ3fr3EwGzKzoRXrRwB6IYR-I",
+        "address": "Ambedkar Chouk, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "Samaj Mandir Ghattemani",
+        "locationConfidence": 1.7225404,
+        "calibratedProbability": 1.3837534
+      }, {
+        "latitudeE7": 215282835,
+        "longitudeE7": 803630447,
+        "placeId": "ChIJaQW67sKzKzoRpD2EmI4VYkY",
+        "address": "Girola, Road, Ghattemani, Maharashtra 441601, India",
+        "name": "Mata Bhavani Mandir",
+        "locationConfidence": 1.5646074,
+        "calibratedProbability": 1.2568824
+      }, {
+        "latitudeE7": 215266681,
+        "longitudeE7": 803627370,
+        "placeId": "ChIJ6ajaXSqzKzoRXGvz_jFKXGs",
+        "address": "G9G7+M39, Ghattemani, Maharashtra 441601, India",
+        "name": "Shree Hanumanji Mandir",
+        "locationConfidence": 1.1008848,
+        "calibratedProbability": 0.88436425
+      }, {
+        "latitudeE7": 215275390,
+        "longitudeE7": 803615803,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 0.9309035,
+        "calibratedProbability": 0.7478146
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215286435,
+          "lngE7": 803632324,
+          "accuracyMeters": 11,
+          "timestamp": "2022-06-12T23:25:31.908Z"
+        }, {
+          "latE7": 214619278,
+          "lngE7": 803675308,
+          "accuracyMeters": 60,
+          "timestamp": "2022-06-13T07:52:19.047Z"
+        }, {
+          "latE7": 213660755,
+          "lngE7": 803818820,
+          "accuracyMeters": 21,
+          "timestamp": "2022-06-13T08:18:41.214Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 18195.13586227976
+      },
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 213700383,
+        "longitudeE7": 803803113,
+        "placeId": "ChIJw5Mg4Yi5KzoRdLscwGqp8bo",
+        "address": "AMGAON,MAIN ROAD, GONDIA, Gondia, Maharashtra 441902, India",
+        "name": "Bharat Petroleum, Petrol Pump -Rampratap Girdharilal",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 51.711483,
+        "calibratedProbability": 43.593765
+      },
+      "duration": {
+        "startTimestamp": "2022-06-13T08:26:55.301Z",
+        "endTimestamp": "2022-06-13T08:41:27.108Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 213696771,
+      "centerLngE7": 803800900,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 213705975,
+        "longitudeE7": 803801113,
+        "placeId": "ChIJ05f6Muy5KzoR1m-0NTzrS0E",
+        "address": "Main road, Amgaon, Maharashtra 441902, India",
+        "name": "Bikaner Sweets And Bakery",
+        "locationConfidence": 12.911926,
+        "calibratedProbability": 10.885
+      }, {
+        "latitudeE7": 213696564,
+        "longitudeE7": 803799856,
+        "placeId": "ChIJp8nZ3si5KzoRZYp8TQmCRwk",
+        "address": "Ambedkar Sq, near urban Bank, Risama, Amgaon, Maharashtra 441902, India",
+        "name": "Himanshu Pandey",
+        "locationConfidence": 11.999061,
+        "calibratedProbability": 10.115437
+      }, {
+        "latitudeE7": 213707048,
+        "longitudeE7": 803807294,
+        "placeId": "ChIJDeLKJOy5KzoR2rSv30qgINk",
+        "address": "Sona Theater,, 99CJ+77Q, Main Road Amgaon, Amgaon, Maharashtra 441902, India",
+        "name": "Gujarat Sweet Mart",
+        "locationConfidence": 4.7518606,
+        "calibratedProbability": 4.005909
+      }, {
+        "latitudeE7": 213694194,
+        "longitudeE7": 803802027,
+        "placeId": "ChIJZ0hxtAW5KzoRh-HUYB7qsMc",
+        "address": "Main Road Amgaon, Vasant Nagar, Amgaon, Maharashtra 441902, India",
+        "name": "Chourasiya Paan Stall",
+        "locationConfidence": 4.325518,
+        "calibratedProbability": 3.6464942
+      }, {
+        "latitudeE7": 213690205,
+        "longitudeE7": 803798757,
+        "placeId": "ChIJm0Umc1S5KzoRqd0BX-jb0Jg",
+        "address": "Ground floor Main Road, Amgaon, near Ambedkar Square, Vasant Nagar, Amgaon bk., Maharashtra 441902, India",
+        "name": "Axis Bank ATM",
+        "locationConfidence": 2.9313414,
+        "calibratedProbability": 2.4711766
+      }, {
+        "latitudeE7": 213700160,
+        "longitudeE7": 803801380,
+        "placeId": "ChIJfSdJSOy5KzoRJFWpT0TR2Mc",
+        "address": "Main Road Amgaon, Amgaon, Maharashtra 441902, India",
+        "name": "Pratap Medical Stores",
+        "locationConfidence": 2.4629657,
+        "calibratedProbability": 2.076327
+      }, {
+        "latitudeE7": 213684300,
+        "longitudeE7": 803797830,
+        "placeId": "ChIJzwli3Iy5KzoRZfHlfGR5ty8",
+        "address": "GONDIA ROAD NEAR BUS STAND, AMGAON DIST:GONDIA, Vasant Nagar, Amgaon bk., Maharashtra 441902, India",
+        "name": "State Bank of India AMGAON ADB",
+        "locationConfidence": 2.2130604,
+        "calibratedProbability": 1.8656521
+      }, {
+        "latitudeE7": 213686298,
+        "longitudeE7": 803800834,
+        "placeId": "ChIJsUIkL3e_1DsR4Q40Pdz9viY",
+        "address": "Shop No 6, Vasant Nagar, Amgaon, Maharashtra 441601, India",
+        "name": "Axis Bank ATM",
+        "locationConfidence": 1.88103,
+        "calibratedProbability": 1.5857441
+      }, {
+        "latitudeE7": 213719308,
+        "longitudeE7": 803802360,
+        "placeId": "ChIJp12xhe65KzoRRncWsGu4xq4",
+        "address": "99CJ+Q3H, Amgaon, Maharashtra 441902, India",
+        "name": "Vidharbha Konkan Gramin Bank",
+        "locationConfidence": 1.8725687,
+        "calibratedProbability": 1.5786111
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 42,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 213702814,
+        "longitudeE7": 803802086,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 213736612,
+        "longitudeE7": 803808923,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-06-13T08:41:27.108Z",
+        "endTimestamp": "2022-06-13T08:49:28.454Z"
+      },
+      "distance": 382,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 84.42322611808777
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 8.54390263557434
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.563087433576584
+      }, {
+        "activityType": "STILL",
+        "probability": 2.7412261813879013
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.418660556897521
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.1450319425202906
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.053678342374041677
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.04601578111760318
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.04480821662582457
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.012023429007967934
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.005717968087992631
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.002598727405711543
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 2.56217674632353E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.688383901223062E-8
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.3170494129208805E-8
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 213702831,
+          "lngE7": 803801879
+        }, {
+          "latE7": 213748989,
+          "lngE7": 803813705
+        }, {
+          "latE7": 213737335,
+          "lngE7": 803809204
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 735.280548881508,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 213817152,
+          "longitudeE7": 803649624,
+          "accuracyMetres": 94
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2022-06-13T08:58:28.507Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 213737719,
+        "longitudeE7": 803807160,
+        "placeId": "ChIJv0iz5e65KzoR0vxSncHY3dM",
+        "address": "99FJ+G74, Main Road Amgaon, Amgaon, Maharashtra 441902, India",
+        "name": "Naivedhyam Restaurant",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 81.66475,
+        "calibratedProbability": 73.42061
+      },
+      "duration": {
+        "startTimestamp": "2022-06-13T08:49:28.454Z",
+        "endTimestamp": "2022-06-13T09:03:31.129Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 213738787,
+      "centerLngE7": 803808825,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 213729321,
+        "longitudeE7": 803799338,
+        "placeId": "ChIJA1fa9O65KzoRyojTO7j7Lhg",
+        "address": "99FH+5XF, Amgaon bk., Maharashtra 441902, India",
+        "name": "Adarsh Vidyalay \u0026 Jr. College",
+        "locationConfidence": 4.7015457,
+        "calibratedProbability": 4.2269197
+      }, {
+        "latitudeE7": 213728579,
+        "longitudeE7": 803807090,
+        "placeId": "ChIJUXWvlAG5KzoRG0utnkCymBI",
+        "address": "Mankar Chowk, Amgaon, Amgaon bk., Maharashtra 441902, India",
+        "name": "Abhinav Food Mantra",
+        "locationConfidence": 2.35599,
+        "calibratedProbability": 2.1181502
+      }, {
+        "latitudeE7": 213740618,
+        "longitudeE7": 803805743,
+        "placeId": "ChIJy6N54-65KzoRMro9d089Q1w",
+        "address": "Main Road Gandhi Chowk Amgaon, 99FJ+J6G, Amgaon bk., Maharashtra 441902, India",
+        "name": "C.S. GUPTA HARDWAER \u0026 PAINTS",
+        "locationConfidence": 1.2531068,
+        "calibratedProbability": 1.1266044
+      }, {
+        "latitudeE7": 213729922,
+        "longitudeE7": 803810530,
+        "placeId": "ChIJ082fATG5KzoR1IRNsSm8EqI",
+        "address": "Gajbhiye comlex, Amgaon, Maharashtra 441902, India",
+        "name": "Hotel Heritage Casa",
+        "locationConfidence": 1.0201869,
+        "calibratedProbability": 0.91719794
+      }, {
+        "latitudeE7": 213735773,
+        "longitudeE7": 803809951,
+        "placeId": "ChIJM-li6O65KzoRPf4UzuwaSoE",
+        "address": "99FJ+C9Q, Amgaon, Maharashtra 441902, India",
+        "name": "Simran Traders Office",
+        "locationConfidence": 0.96636564,
+        "calibratedProbability": 0.86881
+      }, {
+        "latitudeE7": 213737946,
+        "longitudeE7": 803806784,
+        "placeId": "ChIJh9iu5e65KzoRvmhjnmG4wNs",
+        "address": "Amgaon, Maharashtra 441902, India",
+        "name": "Gandhi Square",
+        "locationConfidence": 0.8332312,
+        "calibratedProbability": 0.74911565
+      }, {
+        "latitudeE7": 213719308,
+        "longitudeE7": 803802360,
+        "placeId": "ChIJp12xhe65KzoRRncWsGu4xq4",
+        "address": "99CJ+Q3H, Amgaon, Maharashtra 441902, India",
+        "name": "Vidharbha Konkan Gramin Bank",
+        "locationConfidence": 0.52200055,
+        "calibratedProbability": 0.46930405
+      }, {
+        "latitudeE7": 213734824,
+        "longitudeE7": 803831220,
+        "placeId": "ChIJdXfbMOm5KzoRe2WEJoGIhts",
+        "address": "99FM+96X, Natraj Marg, Amgaon, Maharashtra 441902, India",
+        "name": "Shri MahakaliKali Siddhapith Amgaon (Kali Mandir)",
+        "locationConfidence": 0.47748744,
+        "calibratedProbability": 0.4292846
+      }, {
+        "latitudeE7": 213749597,
+        "longitudeE7": 803812423,
+        "placeId": "ChIJ5YwMIu-5KzoRV0xnpIwpQds",
+        "address": "HN 702 3 4 BALAGHAT MAIN ROAD, DIST, Ward No.2, Amgaon, Maharashtra 441902, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.47018835,
+        "calibratedProbability": 0.42272234
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 66,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 213744531,
+        "longitudeE7": 803809954,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215291746,
+        "longitudeE7": 803627015,
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        }
+      },
+      "duration": {
+        "startTimestamp": "2022-06-13T09:03:31.129Z",
+        "endTimestamp": "2022-06-13T11:21:13.137Z"
+      },
+      "distance": 17308,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 82.9165518283844
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 9.11535695195198
+      }, {
+        "activityType": "STILL",
+        "probability": 4.331523180007935
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.1106651052832603
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9699612855911255
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.29092044569551945
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.08143731974996626
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.051076244562864304
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.04857835010625422
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.03859920834656805
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03593794826883823
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.009282376413466409
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.0704479791456833E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.754011241279386E-6
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.8797243761525806E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 213744411,
+          "lngE7": 803810119
+        }, {
+          "latE7": 214329147,
+          "lngE7": 803622970
+        }, {
+          "latE7": 215291748,
+          "lngE7": 803626098
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 19696.89373379858,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215291746,
+          "longitudeE7": 803627015,
+          "accuracyMetres": 160,
+          "sourceInfo": {
+            "deviceTag": 2058578823
+          }
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2022-06-13T11:21:13.137Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 213993861,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJ2-iMguG4KzoRAZEfCwYjjx0",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 52.445656,
+        "calibratedProbability": 47.414303
+      },
+      "duration": {
+        "startTimestamp": "2022-06-13T11:21:13.137Z",
+        "endTimestamp": "2022-06-20T06:51:47.851Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215289867,
+      "centerLngE7": 803628833,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215288658,
+        "longitudeE7": 803629379,
+        "placeId": "ChIJtZx1yIGzKzoRazrQbNS9TpQ",
+        "address": "G9H6+8WH, Ghattemani, Maharashtra 441601, India",
+        "locationConfidence": 16.913073,
+        "calibratedProbability": 15.290524
+      }, {
+        "latitudeE7": 215283728,
+        "longitudeE7": 803627865,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 4.271171,
+        "calibratedProbability": 3.8614178
+      }, {
+        "latitudeE7": 215285405,
+        "longitudeE7": 803632418,
+        "placeId": "ChIJe5PzRLGzKzoR9U_LYpGHDtI",
+        "address": "G9H6+PR3, Ghattemani, Maharashtra 441601, India",
+        "name": "Naman\u0027s Home",
+        "locationConfidence": 3.2117162,
+        "calibratedProbability": 2.9036014
+      }, {
+        "latitudeE7": 215293352,
+        "longitudeE7": 803615500,
+        "placeId": "ChIJ3fr3EwGzKzoRXrRwB6IYR-I",
+        "address": "Ambedkar Chouk, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "Samaj Mandir Ghattemani",
+        "locationConfidence": 3.023728,
+        "calibratedProbability": 2.7336476
+      }, {
+        "latitudeE7": 215292712,
+        "longitudeE7": 803620315,
+        "placeId": "ChIJA6yHQrmzKzoRl6_I9XO7ibE",
+        "address": "G9H6+PR3, Ghattemani, Maharashtra 441601, India",
+        "name": "Gautam meshram home",
+        "locationConfidence": 2.879143,
+        "calibratedProbability": 2.6029334
+      }, {
+        "latitudeE7": 215282835,
+        "longitudeE7": 803630447,
+        "placeId": "ChIJaQW67sKzKzoRpD2EmI4VYkY",
+        "address": "Girola, Road, Ghattemani, Maharashtra 441601, India",
+        "name": "Mata Bhavani Mandir",
+        "locationConfidence": 1.4705182,
+        "calibratedProbability": 1.3294446
+      }, {
+        "latitudeE7": 215275390,
+        "longitudeE7": 803615803,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 1.3995297,
+        "calibratedProbability": 1.2652663
+      }, {
+        "latitudeE7": 215283225,
+        "longitudeE7": 803623576,
+        "placeId": "ChIJ3bYPvauzKzoRYoegT3J6eGc",
+        "address": "G9H6+8WH, Ghattemani, Maharashtra 441601, India",
+        "name": "Ratan Khobragade",
+        "locationConfidence": 1.3631579,
+        "calibratedProbability": 1.2323838
+      }, {
+        "latitudeE7": 215267865,
+        "longitudeE7": 803628068,
+        "placeId": "ChIJW2L9lJ6zKzoRcWaYrigaAvg",
+        "address": "G9G7+P47, Ghattemani, Maharashtra 441601, India",
+        "name": "फुंडे टेलीकॉम घाटटेमनी",
+        "locationConfidence": 0.774305,
+        "calibratedProbability": 0.70002234
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 42,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215275390,
+        "longitudeE7": 803615803,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 38.00406,
+        "calibratedProbability": 27.744175
+      },
+      "duration": {
+        "startTimestamp": "2022-06-20T06:51:47.851Z",
+        "endTimestamp": "2022-06-20T06:59:48.321Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 215267100,
+      "centerLngE7": 803622267,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215290356,
+        "longitudeE7": 803627777,
+        "placeId": "ChIJ6-DB24GzKzoRjE-32Md_nUs",
+        "address": "G9H6+PR3, Ghattemani, Maharashtra 441601, India",
+        "locationConfidence": 26.354527,
+        "calibratedProbability": 19.239645
+      }, {
+        "latitudeE7": 215251456,
+        "longitudeE7": 803648856,
+        "placeId": "ChIJ4dg9vICzKzoROh0x3eGpdf4",
+        "address": "G9G7+3X2, Ghattemani, Maharashtra 441601, India",
+        "name": "Mahesh donode",
+        "locationConfidence": 11.466852,
+        "calibratedProbability": 8.371168
+      }, {
+        "latitudeE7": 213993861,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJ2-iMguG4KzoRAZEfCwYjjx0",
+        "name": "Bagh River",
+        "locationConfidence": 7.2486877,
+        "calibratedProbability": 5.2917733
+      }, {
+        "latitudeE7": 215266681,
+        "longitudeE7": 803627370,
+        "placeId": "ChIJ6ajaXSqzKzoRXGvz_jFKXGs",
+        "address": "G9G7+M39, Ghattemani, Maharashtra 441601, India",
+        "name": "Shree Hanumanji Mandir",
+        "locationConfidence": 3.3265142,
+        "calibratedProbability": 2.4284616
+      }, {
+        "latitudeE7": 215267865,
+        "longitudeE7": 803628068,
+        "placeId": "ChIJW2L9lJ6zKzoRcWaYrigaAvg",
+        "address": "G9G7+P47, Ghattemani, Maharashtra 441601, India",
+        "name": "फुंडे टेलीकॉम घाटटेमनी",
+        "locationConfidence": 3.0169985,
+        "calibratedProbability": 2.202505
+      }, {
+        "latitudeE7": 215293352,
+        "longitudeE7": 803615500,
+        "placeId": "ChIJ3fr3EwGzKzoRXrRwB6IYR-I",
+        "address": "Ambedkar Chouk, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "Samaj Mandir Ghattemani",
+        "locationConfidence": 1.8054777,
+        "calibratedProbability": 1.3180563
+      }, {
+        "latitudeE7": 215261648,
+        "longitudeE7": 803618631,
+        "placeId": "ChIJi-A3WjOzKzoRP4Rvz37FwN0",
+        "address": "At Post, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "Raj Spares Part",
+        "locationConfidence": 1.3411934,
+        "calibratedProbability": 0.979114
+      }, {
+        "latitudeE7": 215268125,
+        "longitudeE7": 803627656,
+        "placeId": "ChIJuTWHn4SzKzoRPUleR4VRCyQ",
+        "address": "G9G7+P4C, Ghattemani, Maharashtra 441601, India",
+        "name": "Shruahti holesell kirana store",
+        "locationConfidence": 1.086175,
+        "calibratedProbability": 0.7929424
+      }, {
+        "latitudeE7": 215282835,
+        "longitudeE7": 803630447,
+        "placeId": "ChIJaQW67sKzKzoRpD2EmI4VYkY",
+        "address": "Girola, Road, Ghattemani, Maharashtra 441601, India",
+        "name": "Mata Bhavani Mandir",
+        "locationConfidence": 0.91255593,
+        "calibratedProbability": 0.666195
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 31,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 213993861,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJ2-iMguG4KzoRAZEfCwYjjx0",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 2058578823
+        },
+        "locationConfidence": 45.871975,
+        "calibratedProbability": 35.456463
+      },
+      "duration": {
+        "startTimestamp": "2022-06-20T06:59:48.321Z",
+        "endTimestamp": "2022-07-03T06:40:31.106Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215267100,
+      "centerLngE7": 803622267,
+      "visitConfidence": 81,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215290070,
+        "longitudeE7": 803627777,
+        "placeId": "ChIJ6-DB24GzKzoRjE-32Md_nUs",
+        "address": "G9H6+PR3, Ghattemani, Maharashtra 441601, India",
+        "locationConfidence": 12.848306,
+        "calibratedProbability": 9.93102
+      }, {
+        "latitudeE7": 215283728,
+        "longitudeE7": 803627865,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 4.1013827,
+        "calibratedProbability": 3.1701388
+      }, {
+        "latitudeE7": 215292712,
+        "longitudeE7": 803620315,
+        "placeId": "ChIJA6yHQrmzKzoRl6_I9XO7ibE",
+        "address": "G9H6+PR3, Ghattemani, Maharashtra 441601, India",
+        "name": "Gautam meshram home",
+        "locationConfidence": 2.1890514,
+        "calibratedProbability": 1.6920139
+      }, {
+        "latitudeE7": 215293352,
+        "longitudeE7": 803615500,
+        "placeId": "ChIJ3fr3EwGzKzoRXrRwB6IYR-I",
+        "address": "Ambedkar Chouk, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "Samaj Mandir Ghattemani",
+        "locationConfidence": 1.9642649,
+        "calibratedProbability": 1.5182666
+      }, {
+        "latitudeE7": 215275390,
+        "longitudeE7": 803615803,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 1.6142467,
+        "calibratedProbability": 1.2477221
+      }, {
+        "latitudeE7": 215283225,
+        "longitudeE7": 803623576,
+        "placeId": "ChIJ3bYPvauzKzoRYoegT3J6eGc",
+        "address": "G9H6+8WH, Ghattemani, Maharashtra 441601, India",
+        "name": "Ratan Khobragade",
+        "locationConfidence": 1.5447379,
+        "calibratedProbability": 1.1939957
+      }, {
+        "latitudeE7": 215282835,
+        "longitudeE7": 803630447,
+        "placeId": "ChIJaQW67sKzKzoRpD2EmI4VYkY",
+        "address": "Girola, Road, Ghattemani, Maharashtra 441601, India",
+        "name": "Mata Bhavani Mandir",
+        "locationConfidence": 1.3096347,
+        "calibratedProbability": 1.0122741
+      }, {
+        "latitudeE7": 215279849,
+        "longitudeE7": 803610932,
+        "placeId": "ChIJidHWBLWzKzoRpPQWzLI0eNE",
+        "address": "G9H6+5CW, Ghattemani, Maharashtra 441601, India",
+        "name": "Hemne Heath Clinic Ghattemani",
+        "locationConfidence": 1.2859035,
+        "calibratedProbability": 0.99393123
+      }, {
+        "latitudeE7": 215279733,
+        "longitudeE7": 803610981,
+        "placeId": "ChIJmzkRMXSzKzoRa9z6NzwCIuo",
+        "address": "G9H6+5CQ, Ghattemani, Maharashtra 441601, India",
+        "name": "Dr. Hemne Clinic",
+        "locationConfidence": 1.2312163,
+        "calibratedProbability": 0.9516611
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215284046,
+          "lngE7": 803627122,
+          "accuracyMeters": 4,
+          "timestamp": "2022-07-03T04:02:17Z"
+        }, {
+          "latE7": 215286224,
+          "lngE7": 803620195,
+          "accuracyMeters": 5,
+          "timestamp": "2022-07-03T04:03:55Z"
+        }, {
+          "latE7": 215284461,
+          "lngE7": 803627200,
+          "accuracyMeters": 2,
+          "timestamp": "2022-07-03T04:05:01Z"
+        }, {
+          "latE7": 215271299,
+          "lngE7": 803627138,
+          "accuracyMeters": 2,
+          "timestamp": "2022-07-03T04:05:52Z"
+        }, {
+          "latE7": 215275396,
+          "lngE7": 803614567,
+          "accuracyMeters": 2,
+          "timestamp": "2022-07-03T04:06:42Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 434.2644610289061
+      },
+      "locationConfidence": 37,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

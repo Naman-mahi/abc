@@ -1,0 +1,5610 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215312162,
+        "longitudeE7": 803595172,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215202828,
+        "longitudeE7": 803087002,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-03T07:36:58.181Z",
+        "endTimestamp": "2021-07-03T10:52:38.226Z"
+      },
+      "distance": 16263,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 49.13814663887024
+      }, {
+        "activityType": "STILL",
+        "probability": 24.247516691684723
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.514866888523102
+      }, {
+        "activityType": "WALKING",
+        "probability": 10.801184177398682
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.2175397723913193
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3612539265304804
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.34485107753425837
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.1396161736920476
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.10768381180241704
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.046417396515607834
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.043758220272138715
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03213334712199867
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.004691388312494382
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.858487277990207E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.59080626519426E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215235399,
+          "lngE7": 803653911,
+          "accuracyMeters": 7,
+          "timestamp": "2021-07-03T09:43:03Z"
+        }, {
+          "latE7": 214605468,
+          "lngE7": 803190637,
+          "accuracyMeters": 87,
+          "timestamp": "2021-07-03T10:23:46.728Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 16263.595098397635
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215203024,
+        "longitudeE7": 803082290,
+        "placeId": "ChIJZd9X4tSzKzoRTjh96SDvM1o",
+        "address": "Kamtha, Amgaon Rd, Zilmili, Maharashtra 441601, India",
+        "name": "Sai Traders Kamtha Aamgaon Road Gondia",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 19.763803,
+        "calibratedProbability": 12.231848
+      },
+      "duration": {
+        "startTimestamp": "2021-07-03T10:52:38.226Z",
+        "endTimestamp": "2021-07-03T11:17:03.647Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 215202996,
+      "centerLngE7": 803086330,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215198012,
+        "longitudeE7": 803093978,
+        "placeId": "ChIJA-U0EFqyKzoRjPO3Ym_mlWU",
+        "address": "Unnamed Road, G895+VQV, Zilmili, Maharashtra 441601, India",
+        "name": "Primary Health Center, Kamtha",
+        "locationConfidence": 16.280727,
+        "calibratedProbability": 10.076167
+      }, {
+        "latitudeE7": 215203504,
+        "longitudeE7": 803082978,
+        "placeId": "ChIJf8l0bFmyKzoRt9DlsiVED48",
+        "address": "At Kamtha Near Birsi Airport Gondia Kamtha zhilmili, Gondia, Maharashtra 441601, India",
+        "name": "Bhajipale Cloth Center Kamtha",
+        "locationConfidence": 13.144522,
+        "calibratedProbability": 8.135164
+      }, {
+        "latitudeE7": 215204350,
+        "longitudeE7": 803083420,
+        "placeId": "ChIJ-1PzVgOzKzoR_3-CmgRm0FE",
+        "address": "G8C5+685, Unnamed Road, Zilmili, Maharashtra 441601, India",
+        "name": "Jyoti Opticals",
+        "locationConfidence": 12.766677,
+        "calibratedProbability": 7.9013157
+      }, {
+        "latitudeE7": 215201154,
+        "longitudeE7": 803087157,
+        "placeId": "ChIJ1V16GFqyKzoRWHyZ3ZQ6hfw",
+        "address": "G8C5+2FW, Kamtha, Maharashtra 441601, India",
+        "name": "sarkae setu center kamtha",
+        "locationConfidence": 9.8689575,
+        "calibratedProbability": 6.107913
+      }, {
+        "latitudeE7": 215202527,
+        "longitudeE7": 803088858,
+        "placeId": "ChIJw8XYmKOzKzoRH7aGZXpm3XM",
+        "address": "At post kamtha, tah, Zilmili, Maharashtra 441601, India",
+        "name": "Shubham chinese center",
+        "locationConfidence": 7.7077336,
+        "calibratedProbability": 4.770328
+      }, {
+        "latitudeE7": 215200620,
+        "longitudeE7": 803089777,
+        "placeId": "ChIJVbicIoyzKzoRQIk-7bkooDI",
+        "address": "G8C5+2HJ, Unnamed Road, Zilmili, Maharashtra 441601, India",
+        "name": "Zilmili Square Kamatha",
+        "locationConfidence": 6.8343997,
+        "calibratedProbability": 4.2298203
+      }, {
+        "latitudeE7": 215205507,
+        "longitudeE7": 803094682,
+        "placeId": "ChIJXd7hbeKzKzoRWOE9esBHSRQ",
+        "address": "G8C5+6QG, Chhopiya Road, Kamtha, Maharashtra 441601, India",
+        "name": "आसोले बैल्डिंग वर्कशॉप",
+        "locationConfidence": 3.9490912,
+        "calibratedProbability": 2.4440985
+      }, {
+        "latitudeE7": 215192688,
+        "longitudeE7": 803081116,
+        "placeId": "ChIJn7dLtx2zKzoR4x6xi0hlI_w",
+        "address": "G895+P65, Zilmili, Maharashtra 441601, India",
+        "name": "Bharatgas",
+        "locationConfidence": 2.294826,
+        "calibratedProbability": 1.4202714
+      }, {
+        "latitudeE7": 215206150,
+        "longitudeE7": 803082883,
+        "placeId": "ChIJ2fx6J1qyKzoR82h9uq4gbUo",
+        "address": "Unnamed Road, Zilmili, Maharashtra 441601, India",
+        "name": "Om Mobile And Electronics Kamtha",
+        "locationConfidence": 1.8607248,
+        "calibratedProbability": 1.1516054
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 11,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215193779,
+        "longitudeE7": 803086013,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215191968,
+        "longitudeE7": 803069091,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-03T11:17:03.647Z",
+        "endTimestamp": "2021-07-04T06:56:11.235Z"
+      },
+      "distance": 17521,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 57.33402371406555
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 17.090338468551636
+      }, {
+        "activityType": "WALKING",
+        "probability": 13.502603769302368
+      }, {
+        "activityType": "STILL",
+        "probability": 9.578830003738403
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3386738486588001
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5150070413947105
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.21328895818442106
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.1824688632041216
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.13668216997757554
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.047621887642890215
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.041863901424221694
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.01717925915727392
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0013374838999880012
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.119443014540593E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.5982409706793987E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215250587,
+          "lngE7": 803644626,
+          "accuracyMeters": 42,
+          "timestamp": "2021-07-03T16:08:27Z"
+        }, {
+          "latE7": 215246645,
+          "lngE7": 803648196,
+          "accuracyMeters": 6,
+          "timestamp": "2021-07-03T16:09:14Z"
+        }, {
+          "latE7": 215245148,
+          "lngE7": 803648831,
+          "accuracyMeters": 4,
+          "timestamp": "2021-07-03T16:09:29Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 6052.671963088323
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215189558,
+        "longitudeE7": 803063397,
+        "placeId": "ChIJx27WuFuyKzoRdHXAdTbMZ9E",
+        "address": "G894+HGP, Zilmili, Maharashtra 441601, India",
+        "name": "Bhawani Kirana",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 24.013182,
+        "calibratedProbability": 15.170049
+      },
+      "duration": {
+        "startTimestamp": "2021-07-04T06:56:11.235Z",
+        "endTimestamp": "2021-07-04T07:16:24.968Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 215192688,
+          "longitudeE7": 803081116,
+          "placeId": "ChIJn7dLtx2zKzoR4x6xi0hlI_w",
+          "address": "G895+P65, Zilmili, Maharashtra 441601, India",
+          "name": "Bharatgas",
+          "sourceInfo": {
+            "deviceTag": 1537148754
+          },
+          "locationConfidence": 8.547168,
+          "calibratedProbability": 15.452814
+        },
+        "duration": {
+          "startTimestamp": "2021-07-04T06:56:11.235Z",
+          "endTimestamp": "2021-07-04T07:06:18.898Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 215188775,
+        "centerLngE7": 803068175,
+        "visitConfidence": 88,
+        "otherCandidateLocations": [{
+          "latitudeE7": 215189413,
+          "longitudeE7": 803062914,
+          "placeId": "ChIJFf4YJnmzKzoRIzO7IA55HOI",
+          "locationConfidence": 3.325503,
+          "calibratedProbability": 6.0123286
+        }, {
+          "latitudeE7": 215192120,
+          "longitudeE7": 803071263,
+          "placeId": "ChIJA6E_yluyKzoRKo1DioKMUQg",
+          "address": "Near Grampanchayat, Kamtha, Maharashtra 441601, India",
+          "name": "Paras Medical Stores Kamtha",
+          "locationConfidence": 3.1563282,
+          "calibratedProbability": 5.7064695
+        }, {
+          "latitudeE7": 215198012,
+          "longitudeE7": 803093978,
+          "placeId": "ChIJA-U0EFqyKzoRjPO3Ym_mlWU",
+          "address": "Unnamed Road, G895+VQV, Zilmili, Maharashtra 441601, India",
+          "name": "Primary Health Center, Kamtha",
+          "locationConfidence": 2.8217566,
+          "calibratedProbability": 5.1015825
+        }, {
+          "latitudeE7": 215204352,
+          "longitudeE7": 803045967,
+          "placeId": "ChIJOanELFqyKzoR9Pw5RR6gqwE",
+          "address": "Zilmili, Kamtha, G8C3+5RH, Gondia, Maharashtra 441601, India",
+          "name": "Kamtha",
+          "locationConfidence": 2.7661018,
+          "calibratedProbability": 5.0009613
+        }, {
+          "latitudeE7": 215200620,
+          "longitudeE7": 803089777,
+          "placeId": "ChIJVbicIoyzKzoRQIk-7bkooDI",
+          "address": "G8C5+2HJ, Unnamed Road, Zilmili, Maharashtra 441601, India",
+          "name": "Zilmili Square Kamatha",
+          "locationConfidence": 2.7342114,
+          "calibratedProbability": 4.9433055
+        }, {
+          "latitudeE7": 215208688,
+          "longitudeE7": 803072007,
+          "placeId": "ChIJSzFykFmyKzoRna7LuDOLY0o",
+          "address": "Zilmili, Maharashtra 441601, India",
+          "name": "Janta Hotel Kamtha",
+          "locationConfidence": 2.7082746,
+          "calibratedProbability": 4.896413
+        }, {
+          "latitudeE7": 215203504,
+          "longitudeE7": 803082978,
+          "placeId": "ChIJf8l0bFmyKzoRt9DlsiVED48",
+          "address": "At Kamtha Near Birsi Airport Gondia Kamtha zhilmili, Gondia, Maharashtra 441601, India",
+          "name": "Bhajipale Cloth Center Kamtha",
+          "locationConfidence": 2.2093592,
+          "calibratedProbability": 3.994401
+        }, {
+          "latitudeE7": 215193349,
+          "longitudeE7": 803068960,
+          "placeId": "ChIJC4idHu6zKzoR4W2TM9AXHcQ",
+          "address": "R. Qureshi Behind GramPanchayat, Lahri Ashram Road, At.Po, G894+PQJ, Kamtha, Maharashtra 441601, India",
+          "name": "Rozi Fashion Corner",
+          "locationConfidence": 1.8773568,
+          "calibratedProbability": 3.3941588
+        }, {
+          "latitudeE7": 215203024,
+          "longitudeE7": 803082290,
+          "placeId": "ChIJZd9X4tSzKzoRTjh96SDvM1o",
+          "address": "Kamtha, Amgaon Rd, Zilmili, Maharashtra 441601, India",
+          "name": "Sai Traders Kamtha Aamgaon Road Gondia",
+          "locationConfidence": 1.0572678,
+          "calibratedProbability": 1.9114826
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 1,
+        "placeVisitType": "SINGLE_PLACE",
+        "placeVisitLevel": 1
+      }],
+      "centerLatE7": 215203656,
+      "centerLngE7": 803082611,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215203504,
+        "longitudeE7": 803082978,
+        "placeId": "ChIJf8l0bFmyKzoRt9DlsiVED48",
+        "address": "At Kamtha Near Birsi Airport Gondia Kamtha zhilmili, Gondia, Maharashtra 441601, India",
+        "name": "Bhajipale Cloth Center Kamtha",
+        "locationConfidence": 21.43917,
+        "calibratedProbability": 13.543948
+      }, {
+        "latitudeE7": 215203024,
+        "longitudeE7": 803082290,
+        "placeId": "ChIJZd9X4tSzKzoRTjh96SDvM1o",
+        "address": "Kamtha, Amgaon Rd, Zilmili, Maharashtra 441601, India",
+        "name": "Sai Traders Kamtha Aamgaon Road Gondia",
+        "locationConfidence": 20.627602,
+        "calibratedProbability": 13.031248
+      }, {
+        "latitudeE7": 215204350,
+        "longitudeE7": 803083420,
+        "placeId": "ChIJ-1PzVgOzKzoR_3-CmgRm0FE",
+        "address": "G8C5+685, Unnamed Road, Zilmili, Maharashtra 441601, India",
+        "name": "Jyoti Opticals",
+        "locationConfidence": 7.713593,
+        "calibratedProbability": 4.872973
+      }, {
+        "latitudeE7": 215198012,
+        "longitudeE7": 803093978,
+        "placeId": "ChIJA-U0EFqyKzoRjPO3Ym_mlWU",
+        "address": "Unnamed Road, G895+VQV, Zilmili, Maharashtra 441601, India",
+        "name": "Primary Health Center, Kamtha",
+        "locationConfidence": 3.6371014,
+        "calibratedProbability": 2.2976968
+      }, {
+        "latitudeE7": 215200620,
+        "longitudeE7": 803089777,
+        "placeId": "ChIJVbicIoyzKzoRQIk-7bkooDI",
+        "address": "G8C5+2HJ, Unnamed Road, Zilmili, Maharashtra 441601, India",
+        "name": "Zilmili Square Kamatha",
+        "locationConfidence": 3.4832413,
+        "calibratedProbability": 2.2004974
+      }, {
+        "latitudeE7": 215202527,
+        "longitudeE7": 803088858,
+        "placeId": "ChIJw8XYmKOzKzoRH7aGZXpm3XM",
+        "address": "At post kamtha, tah, Zilmili, Maharashtra 441601, India",
+        "name": "Shubham chinese center",
+        "locationConfidence": 3.0980196,
+        "calibratedProbability": 1.9571381
+      }, {
+        "latitudeE7": 215192688,
+        "longitudeE7": 803081116,
+        "placeId": "ChIJn7dLtx2zKzoR4x6xi0hlI_w",
+        "address": "G895+P65, Zilmili, Maharashtra 441601, India",
+        "name": "Bharatgas",
+        "locationConfidence": 2.1380854,
+        "calibratedProbability": 1.3507106
+      }, {
+        "latitudeE7": 215189413,
+        "longitudeE7": 803062914,
+        "placeId": "ChIJFf4YJnmzKzoRIzO7IA55HOI",
+        "locationConfidence": 1.9390732,
+        "calibratedProbability": 1.224987
+      }, {
+        "latitudeE7": 215203080,
+        "longitudeE7": 803083862,
+        "placeId": "ChIJY2-X6ZCzKzoRpadOwPUg6ps",
+        "address": "G8C5+38X, Zilmili, Maharashtra 441601, India",
+        "name": "Gurukripa mobile shop",
+        "locationConfidence": 1.210419,
+        "calibratedProbability": 0.7646682
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 16,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215202964,
+        "longitudeE7": 803086910,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215265767,
+        "longitudeE7": 803655373,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-04T07:16:24.968Z",
+        "endTimestamp": "2021-07-07T17:13:13.223Z"
+      },
+      "distance": 16553,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 68.75719428062439
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.34140717983246
+      }, {
+        "activityType": "STILL",
+        "probability": 7.875257730484009
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.367329016327858
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.8560854010283947
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.24725149851292372
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.18078243592754006
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.1598924514837563
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.15027385670691729
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.03073117113672197
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.020785861124750227
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.012242507364135236
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 6.638884769927245E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.0062739193017478E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.335805835533392E-6
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215287148,
+          "lngE7": 803622450,
+          "accuracyMeters": 42,
+          "timestamp": "2021-07-04T07:45:34.300Z"
+        }, {
+          "latE7": 215285524,
+          "lngE7": 803620558,
+          "accuracyMeters": 20,
+          "timestamp": "2021-07-04T07:52:28.302Z"
+        }, {
+          "latE7": 215285350,
+          "lngE7": 803632300,
+          "accuracyMeters": 16,
+          "timestamp": "2021-07-04T14:05:51.767Z"
+        }, {
+          "latE7": 215295981,
+          "lngE7": 803625807,
+          "accuracyMeters": 8,
+          "timestamp": "2021-07-04T16:44:13.730Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 6514.377422267237
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215310406,
+        "longitudeE7": 803567341,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215286296,
+        "longitudeE7": 803562107,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-07T17:13:13.223Z",
+        "endTimestamp": "2021-07-07T21:38:47.754Z"
+      },
+      "distance": 273,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 33.34675133228302
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 31.052827835083008
+      }, {
+        "activityType": "STILL",
+        "probability": 20.427975058555603
+      }, {
+        "activityType": "WALKING",
+        "probability": 12.901152670383453
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9002021513879299
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4536168184131384
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.31895674765110016
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.24338806979358196
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1981885638087988
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.0699392519891262
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.057074392680078745
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02755468594841659
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.002184143340855371
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.4398841585716582E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.958892532158643E-5
+      }]
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215251921,
+        "longitudeE7": 803641248,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215327706,
+        "longitudeE7": 803573106,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-07T21:38:47.754Z",
+        "endTimestamp": "2021-07-10T03:52:46.298Z"
+      },
+      "distance": 4408,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 37.324902415275574
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 29.135805368423462
+      }, {
+        "activityType": "STILL",
+        "probability": 25.21560490131378
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.3547588884830475
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9062591008841991
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3214614698663354
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2410438610240817
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.19607855938374996
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1835263567045331
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.05599757423624396
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0417602394009009
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.020572049834299833
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.002015997415583115
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.6599685750406934E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.125659245346469E-5
+      }]
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215286296,
+        "longitudeE7": 803562107,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214487330,
+        "longitudeE7": 801726845,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-10T03:52:46.298Z",
+        "endTimestamp": "2021-07-10T08:40:54.162Z"
+      },
+      "distance": 21792,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 50.56407451629639
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 26.06029212474823
+      }, {
+        "activityType": "STILL",
+        "probability": 10.966763645410538
+      }, {
+        "activityType": "WALKING",
+        "probability": 10.304294526576996
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5530739668756723
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4095806274563074
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.36454962100833654
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.36084370221942663
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.298737664707005
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.04218532703816891
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03798413381446153
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.03381721617188305
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0036877761885989457
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 8.31965621728159E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.0476084589281527E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215287532,
+          "lngE7": 803562164
+        }, {
+          "latE7": 215222206,
+          "lngE7": 803124694
+        }, {
+          "latE7": 214558048,
+          "lngE7": 801925354
+        }, {
+          "latE7": 214533977,
+          "lngE7": 801870956
+        }, {
+          "latE7": 214489059,
+          "lngE7": 801727676
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJmYonZ52zKzoRRKD-WvWvOPY",
+          "duration": "312s"
+        }, {
+          "placeId": "ChIJ-bgOfZ2zKzoR8oI9oepNF6U",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJEx2fAHizKzoREpSTz6lq4xU",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJm0rI4XezKzoRm1UacpxnKcM",
+          "duration": "204s"
+        }, {
+          "placeId": "ChIJ7V6FS3WzKzoRSWrjQplhHJo",
+          "duration": "114s"
+        }, {
+          "placeId": "ChIJEaxueXWzKzoRhH0Ib7jxn0o",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJKaWxe3WzKzoRvLCYIzC9QP8",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJKaWxe3WzKzoRCrsU1mnWalE",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJvZYNvwqzKzoRgodOLg7TEnU",
+          "duration": "89s"
+        }, {
+          "placeId": "ChIJvZYNvwqzKzoR_nQ5MofaeD0",
+          "duration": "466s"
+        }, {
+          "placeId": "ChIJLU2TlgmzKzoRCDrvxcvHB_A",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJaY23JgqzKzoR2d84_wIG1UM",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJaY23JgqzKzoR1Ipzln0Tg5Y",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJI84qvgmzKzoRPeGJnUd8zIU",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJI84qvgmzKzoRJG2_E_jBr4k",
+          "duration": "127s"
+        }, {
+          "placeId": "ChIJsTHMuQmzKzoRamDV3gAYU_c",
+          "duration": "95s"
+        }, {
+          "placeId": "ChIJJc41FQizKzoRpWExwJR-vOo",
+          "duration": "127s"
+        }, {
+          "placeId": "ChIJF9n8XQezKzoRdFZx7y8w9mg",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJF9n8XQezKzoRBkl1yleQdMI",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJS79GkqqzKzoR4pu74SdBOB0",
+          "duration": "114s"
+        }, {
+          "placeId": "ChIJ1WJvwKqzKzoRA_mLe4qGt38",
+          "duration": "127s"
+        }, {
+          "placeId": "ChIJ1WJvwKqzKzoRexPNcemK5Dg",
+          "duration": "421s"
+        }, {
+          "placeId": "ChIJYeHExVWyKzoRJjlTZBbbJeA",
+          "duration": "229s"
+        }, {
+          "placeId": "ChIJYeHExVWyKzoR1j6sfNTH24U",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJWaPiWFayKzoRtP1M0Uiwi4M",
+          "duration": "178s"
+        }, {
+          "placeId": "ChIJpWVIRVeyKzoR60UkoKWUBhE",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJXxYJVVeyKzoReiGZ39B2DoY",
+          "duration": "108s"
+        }, {
+          "placeId": "ChIJXxYJVVeyKzoRIT5wMlnQYc0",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJHVV5IVqyKzoRuI7T3-T_bJk",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJHVV5IVqyKzoR4KNR6Crn1lk",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJ_0IeKlqyKzoRG8nujXwav1U",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJEwFSKFqyKzoRXu0WoZJeB-Y",
+          "duration": "57s"
+        }, {
+          "placeId": "ChIJKfKbVFmyKzoR5E-wctm0jaM",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJ2RRXq16yKzoRVOqsVs_jWck",
+          "duration": "102s"
+        }, {
+          "placeId": "ChIJ2RRXq16yKzoRjkASvarKpKM",
+          "duration": "165s"
+        }, {
+          "placeId": "ChIJp3idqmCyKzoRrsU3dNwjtg4",
+          "duration": "82s"
+        }, {
+          "placeId": "ChIJBWp5rWCyKzoR7y7wpm0AWgQ",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJ30eCNGeyKzoRpW1uP8cfQVQ",
+          "duration": "63s"
+        }, {
+          "placeId": "ChIJ30eCNGeyKzoRvQIMWsHwwTU",
+          "duration": "102s"
+        }, {
+          "placeId": "ChIJiQ9D0WayKzoRptQG8-rfvos",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJy_LfrWayKzoRJyedmIQvBLE",
+          "duration": "153s"
+        }, {
+          "placeId": "ChIJScajgWSyKzoRy5Ar1DadXu0",
+          "duration": "197s"
+        }, {
+          "placeId": "ChIJScajgWSyKzoRN2LuliFgQJ0",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJa2C7qXyyKzoRRKsCepTGfE4",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJa2C7qXyyKzoRwZT7awzxHYU",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJv-CTnnyyKzoRCQ6JNkkREeQ",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJFaR_gXyyKzoRAZSilnmfkoM",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJi1G1eHyyKzoRF4i2_C5t0bY",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJy0xri3uyKzoRs5rblI840os",
+          "duration": "82s"
+        }, {
+          "placeId": "ChIJNbT13nuyKzoRFVDZ0lG77wY",
+          "duration": "95s"
+        }, {
+          "placeId": "ChIJz9yAA3myKzoRdajhVDeCVoE",
+          "duration": "287s"
+        }, {
+          "placeId": "ChIJz9yAA3myKzoRzNKXB7BMx7g",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJ49ngnHiyKzoRAz4_XW9YGE0",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJhy30bIetKzoRdNJ8G4ouVJU",
+          "duration": "108s"
+        }, {
+          "placeId": "ChIJme9RHoStKzoRbw7X6QvcfVY",
+          "duration": "293s"
+        }, {
+          "placeId": "ChIJWQ7MpZytKzoRi-xMA22ZUrY",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJc_HUJZytKzoRjk2r90_bE3I",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJc_HUJZytKzoRa2RpoiMv9DU",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJsQ9oi56tKzoRFcuOjJFY3PA",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJ-SXO9Z6tKzoRTnTUGQW48sc",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJ-SXO9Z6tKzoRiWQvlnPxBzA",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJQeam-J6tKzoRG-sy6AsTvN0",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJ5d94VZ6tKzoRNMml1qyfbhs",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJ5d94VZ6tKzoRVRqCik9lMGA",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJw-K88p-tKzoRZkf7-xHlM9g",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJGZ_h8p-tKzoReopIT9Glrn8",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJO5yz9Z-tKzoRPaiwnquypDE",
+          "duration": "134s"
+        }, {
+          "placeId": "ChIJO5yz9Z-tKzoRauzKeV85I80",
+          "duration": "82s"
+        }, {
+          "placeId": "ChIJQ0DqOgqtKzoRpc9VGHpUtDc",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJJWRWJQqtKzoR1A2Isr6yMLc",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJJWRWJQqtKzoRDsVeNkU_TNc",
+          "duration": "319s"
+        }, {
+          "placeId": "ChIJwZJEHgmtKzoRp0A9cpfZ3Zs",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJ5Utu3gitKzoRSQqrAGwGts8",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJcVOdzgitKzoRx7pvb0k8YvE",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJcVOdzgitKzoR2Tm91NtD8ZM",
+          "duration": "57s"
+        }, {
+          "placeId": "ChIJAzAcRg-tKzoR9QsXhKe4j8g",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJAzAcRg-tKzoRvyq0rzF3ewM",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJQ4jjkwWtKzoRjJIcfd2Mwo4",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJQ4jjkwWtKzoRQkTuplWrBWY",
+          "duration": "165s"
+        }, {
+          "placeId": "ChIJg0QfXwStKzoRJeyxox_u710",
+          "duration": "114s"
+        }, {
+          "placeId": "ChIJITlwPgOtKzoR-QlFzxfrNpY",
+          "duration": "146s"
+        }, {
+          "placeId": "ChIJITlwPgOtKzoR1bUIvamjnjA",
+          "duration": "89s"
+        }, {
+          "placeId": "ChIJbWJtSB2tKzoR1JcDS4-YAkQ",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJbWJtSB2tKzoRJhDaq_dMU1U",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJH7R2SB2tKzoRcYnkHkeY4Ss",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJudZZex2tKzoRTaHKUXonz8k",
+          "duration": "191s"
+        }, {
+          "placeId": "ChIJTwOFFeKsKzoR07qSrx8Pbtw",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJTwOFFeKsKzoRH7Zf9SdJBSg",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJleI3OeKsKzoRf3LqbwstJEo",
+          "duration": "57s"
+        }, {
+          "placeId": "ChIJIRNcN-KsKzoRs0Bd0pvgqu0",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJ0xyzyOOsKzoR-_eaLbROszw",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJ_1W7ceOsKzoROdmYsxPqDLw",
+          "duration": "357s"
+        }, {
+          "placeId": "ChIJgWoxdPusKzoRshBpCiZK_Gc",
+          "duration": "280s"
+        }, {
+          "placeId": "ChIJS2_fffmsKzoR7hypxLlgJHo",
+          "duration": "57s"
+        }, {
+          "placeId": "ChIJszR0n_msKzoRB-PuoNJsxKk",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJL-f3FPisKzoRw1pJPn4tR24",
+          "duration": "274s"
+        }, {
+          "placeId": "ChIJOVEZJ1isKzoR7IRo_sZjKpE",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJZyLH0lmsKzoRzo4tcVGQyA8",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJD9Ojz1msKzoRdbvdP6SGzCs",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJD96lvESsKzoR1UkiiXO2fQk",
+          "duration": "338s"
+        }, {
+          "placeId": "ChIJDTFJjUOsKzoRE4b8zKCGIc0",
+          "duration": "63s"
+        }, {
+          "placeId": "ChIJh9ZuAUGsKzoRyNi9ju_OhCo",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJC6JOWUCsKzoRFg2sWDQGg4w",
+          "duration": "134s"
+        }, {
+          "placeId": "ChIJb5kLij-sKzoRVTyq-O_nHN4",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJOXKI7D-sKzoR74crgVuNgmw",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJKSiSwz-sKzoR4dmIoMaOi3k",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJ61ZkxT-sKzoRDe6elv0hV5E",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJ-a_K0j-sKzoRNcHUoULDjNc",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJZ_YuJD6sKzoRD1CUsWOHmng",
+          "duration": "57s"
+        }, {
+          "placeId": "ChIJF2JwAj6sKzoRSarAHxOc-5A",
+          "duration": "108s"
+        }, {
+          "placeId": "ChIJL8qiGBasKzoRUAcDSZESqGU",
+          "duration": "95s"
+        }, {
+          "placeId": "ChIJcfBZzhesKzoRAueQIw8Vt5Q",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJcfBZzhesKzoRDJEQskhFyJk",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJKcnh7BesKzoR2P4VT28ueIQ",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJhZpmRhisKzoRkNBcWK1HMUo",
+          "duration": "63s"
+        }, {
+          "placeId": "ChIJ5WykUBisKzoRjH5vEPSfP30",
+          "duration": "63s"
+        }, {
+          "placeId": "ChIJ7YLQ-xisKzoRvm9z6RBAAa0",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJvfwl1B6sKzoRKOmsreLLllU",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJ33VF1x6sKzoRoK0BRSs_Soo",
+          "duration": "102s"
+        }, {
+          "placeId": "ChIJv22B8B6sKzoRb9yeTnsaunQ",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJEe8K9x6sKzoRshEVyvyFbDE",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJZV9gWB6sKzoRYPCqZ5GCVks",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJ_9a6RB6sKzoRAlOX0loXQzs",
+          "duration": "57s"
+        }, {
+          "placeId": "ChIJaQDrQB6sKzoR-rvpe9YtJYo",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJR3u4PR6sKzoRyKPYVfjC9Pk",
+          "duration": "63s"
+        }, {
+          "placeId": "ChIJ7xsJxqCuKzoR_L0mALqkcUs",
+          "duration": "63s"
+        }, {
+          "placeId": "ChIJF4Mw0KCuKzoR30uyggbIUwY",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJv8pd0aCuKzoR3PZrT-tPgzo",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJ31cz1aCuKzoRQBb1qYzeoQE",
+          "duration": "146s"
+        }, {
+          "placeId": "ChIJ4wPI0KauKzoRmosFmHWK-7M",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJMUoOw6auKzoRgOvbT6uuPhY",
+          "duration": "82s"
+        }, {
+          "placeId": "ChIJt8Ue6qauKzoR-ucjnKyJYGc",
+          "duration": "0s"
+        }, {
+          "placeId": "ChIJ5wNP6qauKzoRxNw1KSolkcY",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJT2RMk6auKzoRNCR1tvOP72M",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJGxiQjaauKzoRG37Rxs6tF08",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJwzGSjqauKzoR96Gr-ylXhmc",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJBYo6fKauKzoRZ9NUyBpjL0E",
+          "duration": "114s"
+        }, {
+          "placeId": "ChIJzVLy2KWuKzoRJ6ztR10lRN0",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJ1c-93qWuKzoRihiXTQ4LJvI",
+          "duration": "102s"
+        }, {
+          "placeId": "ChIJTeN37qWuKzoRwB1pcZP_whg",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJZw9v8qWuKzoRagEH51eQens",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJmxjwYa-uKzoRFKFVeclegtE",
+          "duration": "153s"
+        }, {
+          "placeId": "ChIJp-EMca-uKzoRGLUvIeTaTh8",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJtWdgdK-uKzoR91IMcT8LPLo",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJASUboK-uKzoRVchf1kJmFvY",
+          "duration": "140s"
+        }, {
+          "placeId": "ChIJxe0kKLCuKzoR73n8K2NyoWo",
+          "duration": "210s"
+        }, {
+          "placeId": "ChIJPeFwSbCuKzoRwgyPWzw105U",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJP8yW3rCuKzoRk-yMCnX0wwE",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJrzoc17CuKzoRs2FP-tprec4",
+          "duration": "146s"
+        }, {
+          "placeId": "ChIJLzNHK7euKzoRZW3yF1sP3qw",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJkzxyK7euKzoRlxmwRWmmNV8",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJceKnK7euKzoRGVmet-0mkog",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJ_Tr4KreuKzoR_7VxgUzSA1E",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJFw631LauKzoRgrFVXwL5E24",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJPRasM7GuKzoR99cmwu_LbNA",
+          "duration": "121s"
+        }, {
+          "placeId": "ChIJQaxHSbGuKzoR8rgBlogYCok",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJkZ8tULGuKzoRvHzt-xPvkbo",
+          "duration": "57s"
+        }, {
+          "placeId": "ChIJLeOUULGuKzoRoAH3kThWyxU",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJx_v44rOuKzoRE8hWinRE6dQ",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJHQDG7rOuKzoRUhKSRSweWXo",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJHQDG7rOuKzoR6GFf35C_22Y",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJCcJmjbOuKzoRP0kf27AyXmg",
+          "duration": "114s"
+        }, {
+          "placeId": "ChIJ5Q61i7OuKzoR2uzYt0KXObE",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJZxcNibOuKzoREqWwelPz0ik",
+          "duration": "63s"
+        }, {
+          "placeId": "ChIJCVsvebOuKzoRKiP7iuJgS3s",
+          "duration": "95s"
+        }, {
+          "placeId": "ChIJrYVJZrOuKzoRHo_dm35-8Ds",
+          "duration": "153s"
+        }, {
+          "placeId": "ChIJxaWxULOuKzoRGOdYUIvH5DE",
+          "duration": "102s"
+        }, {
+          "placeId": "ChIJg56Xq7SuKzoRymAc9-Im0eA",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJ-ft_q7SuKzoRWDTbVDgX4ro",
+          "duration": "12s"
+        }, {
+          "placeId": "ChIJ-ft_q7SuKzoRo4ff13OoWNE",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJW_-RrLSuKzoRybCflNQEdDM",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJL5ZATEupKzoRK9ktkmZpu40",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJHd9OSUupKzoRnams13-wq6A",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJZxv0QEupKzoRqUeIl8vhiWo",
+          "duration": "82s"
+        }, {
+          "placeId": "ChIJZxv0QEupKzoRmgkiXRE_0pk",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJMTFdQEupKzoRwrdMxyCW364",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJn-4CDUupKzoRYsv2d90MQqo",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJucM2oUupKzoRC6nIaHpgBCY",
+          "duration": "82s"
+        }, {
+          "placeId": "ChIJucM2oUupKzoR_xkB5v2Us8c",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJ3Q5juUupKzoRsQYKdoqt1TQ",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJJ87axUupKzoRWh2k7uS0JO8",
+          "duration": "102s"
+        }, {
+          "placeId": "ChIJQ3td2kupKzoRaPhpJfMdey0",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJs1sk2kupKzoRMrdHVuahPF4",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJ-zwRZEmpKzoR-dcedQdheVg",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJ-zwRZEmpKzoRDHEgxZgC6hM",
+          "duration": "89s"
+        }, {
+          "placeId": "ChIJr5rZFEmpKzoRpLM9QExQG4o",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJ-ZvGF0mpKzoRsQCkw2bP_40",
+          "duration": "82s"
+        }, {
+          "placeId": "ChIJAS5yIEmpKzoR74u33iWRWQI",
+          "duration": "95s"
+        }, {
+          "placeId": "ChIJ99e_3EipKzoR-bx_CF0Jy_k",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJw1qBw0ipKzoRAxzj-GNUC3g",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJWxTbw0ipKzoRvTib8H0OUxc",
+          "duration": "31s"
+        }, {
+          "placeId": "ChIJjdym60ipKzoRSwobip6qA6w",
+          "duration": "108s"
+        }, {
+          "placeId": "ChIJuaGEkkipKzoRVyyyRqwHlP8",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJ-QTFjkipKzoRAiwQmSTBieA",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJ9ZLBh0ipKzoRYII0ji3UYSE",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJxXEO00epKzoROh5gfQFoL4U",
+          "duration": "172s"
+        }, {
+          "placeId": "ChIJxXEO00epKzoR-_FeJgkGUGo",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJ8TaDzUepKzoRRvH2jIybgFk",
+          "duration": "51s"
+        }, {
+          "placeId": "ChIJzYnDrkepKzoR1pB_e4eMOGM",
+          "duration": "70s"
+        }, {
+          "placeId": "ChIJyxsmqEepKzoRiYZCRhZJdZY",
+          "duration": "6s"
+        }, {
+          "placeId": "ChIJm-YLBkepKzoRfgQNg0FjNek",
+          "duration": "25s"
+        }, {
+          "placeId": "ChIJm-YLBkepKzoRiO1_JuhYs7Y",
+          "duration": "19s"
+        }, {
+          "placeId": "ChIJPdA-DkepKzoRztI8WkZdwuA",
+          "duration": "76s"
+        }, {
+          "placeId": "ChIJgZNFDUepKzoRfkqtlZtfazQ",
+          "duration": "44s"
+        }, {
+          "placeId": "ChIJhw5ibUepKzoRzOs5PDoB3WQ",
+          "duration": "38s"
+        }, {
+          "placeId": "ChIJ6wiUbUepKzoRqnGLedR6thw",
+          "duration": "31s"
+        }],
+        "distanceMeters": 27804.44797794953,
+        "travelMode": "DRIVE",
+        "confidence": 0.9991068477884365
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214558105,
+          "lngE7": 801925354,
+          "accuracyMeters": 28,
+          "timestamp": "2021-07-10T08:22:58.942Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214490099,
+          "longitudeE7": 801731528,
+          "accuracyMetres": 110
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-10T08:49:48.542Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215286296,
+        "longitudeE7": 803562107,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214489288,
+        "longitudeE7": 801719560,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-10T08:40:54.162Z",
+        "endTimestamp": "2021-07-10T08:50:11.334Z"
+      },
+      "distance": 21042,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 52.96968221664429
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 28.584259748458862
+      }, {
+        "activityType": "STILL",
+        "probability": 8.285804092884064
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.178191840648651
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.42736304551363
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.452447310090065
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3551030531525612
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.33005771692842245
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.2873387187719345
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.04820659814868122
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03958427987527102
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.038072720053605735
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0036825877032242715
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.305402633988706E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 7.744026788714109E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214487330,
+          "lngE7": 801726845,
+          "accuracyMeters": 100,
+          "timestamp": "2021-07-10T08:40:54.162Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 21042.691418773087
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214490099,
+          "longitudeE7": 801731528,
+          "accuracyMetres": 110
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-10T08:49:48.542Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 51.616127,
+        "calibratedProbability": 40.159935
+      },
+      "duration": {
+        "startTimestamp": "2021-07-10T08:50:11.334Z",
+        "endTimestamp": "2021-07-10T10:48:18.640Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214495367,
+      "centerLngE7": 801715067,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Shree Sainath Petroleum",
+        "locationConfidence": 19.710054,
+        "calibratedProbability": 15.335411
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 6.397324,
+        "calibratedProbability": 4.977439
+      }, {
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 6.375329,
+        "calibratedProbability": 4.9603257
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 4.2832265,
+        "calibratedProbability": 3.332565
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 3.3724446,
+        "calibratedProbability": 2.6239312
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 3.0228784,
+        "calibratedProbability": 2.3519511
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 1.8864145,
+        "calibratedProbability": 1.4677252
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 1.3542397,
+        "calibratedProbability": 1.0536665
+      }, {
+        "latitudeE7": 214488417,
+        "longitudeE7": 801718899,
+        "placeId": "ChIJI6advbqpKzoRnhgSWOG5lY0",
+        "address": "Pindkepar Rd, Bajpai Ward, Sanjay Nager, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Online",
+        "locationConfidence": 1.0808271,
+        "calibratedProbability": 0.84093773
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 42,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214504939,
+        "longitudeE7": 801712893,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215204991,
+        "longitudeE7": 803082949,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-10T10:48:18.640Z",
+        "endTimestamp": "2021-07-10T11:37:22.100Z"
+      },
+      "distance": 18719,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 66.05919599533081
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 30.345675349235535
+      }, {
+        "activityType": "STILL",
+        "probability": 1.4479207806289196
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.3600513339042664
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.47401064075529575
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.08778463816270232
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.07264818996191025
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06752812187187374
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.05179816507734358
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.014843470125924796
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.013106406549923122
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0046276396460598335
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 7.899678166722879E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.2802121318600257E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.6736171438178644E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214526691,
+          "lngE7": 801794662
+        }, {
+          "latE7": 214528293,
+          "lngE7": 801852493
+        }, {
+          "latE7": 214661598,
+          "lngE7": 802025756
+        }, {
+          "latE7": 215208301,
+          "lngE7": 802566070
+        }, {
+          "latE7": 215203895,
+          "lngE7": 803082656
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 21959.27434040759,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.9791215789304383
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214663639,
+          "lngE7": 802025757,
+          "accuracyMeters": 68,
+          "timestamp": "2021-07-10T11:06:30.351Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215205582,
+          "longitudeE7": 803082781,
+          "accuracyMetres": 74
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-10T11:39:34.305Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 215203024,
+        "longitudeE7": 803082290,
+        "placeId": "ChIJZd9X4tSzKzoRTjh96SDvM1o",
+        "address": "Kamtha, Amgaon Rd, Zilmili, Maharashtra 441601, India",
+        "name": "Sai Traders Kamtha Aamgaon Road Gondia",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 55.163467,
+        "calibratedProbability": 42.417164
+      },
+      "duration": {
+        "startTimestamp": "2021-07-10T11:37:22.100Z",
+        "endTimestamp": "2021-07-10T12:02:55.534Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 215209344,
+      "centerLngE7": 803084844,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215203504,
+        "longitudeE7": 803082978,
+        "placeId": "ChIJf8l0bFmyKzoRt9DlsiVED48",
+        "address": "At Kamtha Near Birsi Airport Gondia Kamtha zhilmili, Gondia, Maharashtra 441601, India",
+        "name": "Bhajipale Cloth Center Kamtha",
+        "locationConfidence": 22.010849,
+        "calibratedProbability": 16.92493
+      }, {
+        "latitudeE7": 215206150,
+        "longitudeE7": 803082883,
+        "placeId": "ChIJ2fx6J1qyKzoR82h9uq4gbUo",
+        "address": "Unnamed Road, Zilmili, Maharashtra 441601, India",
+        "name": "Om Mobile And Electronics Kamtha",
+        "locationConfidence": 4.965534,
+        "calibratedProbability": 3.8181772
+      }, {
+        "latitudeE7": 215204350,
+        "longitudeE7": 803083420,
+        "placeId": "ChIJ-1PzVgOzKzoR_3-CmgRm0FE",
+        "address": "G8C5+685, Unnamed Road, Zilmili, Maharashtra 441601, India",
+        "name": "Jyoti Opticals",
+        "locationConfidence": 4.417894,
+        "calibratedProbability": 3.3970768
+      }, {
+        "latitudeE7": 215201154,
+        "longitudeE7": 803087157,
+        "placeId": "ChIJ1V16GFqyKzoRWHyZ3ZQ6hfw",
+        "address": "G8C5+2FW, Kamtha, Maharashtra 441601, India",
+        "name": "sarkae setu center kamtha",
+        "locationConfidence": 2.4073741,
+        "calibratedProbability": 1.8511162
+      }, {
+        "latitudeE7": 215205360,
+        "longitudeE7": 803083403,
+        "placeId": "ChIJ5YwHfj2zKzoRl02NiRmsP7g",
+        "address": "G8C5+688, Unnamed Road, Zilmili, Maharashtra 441601, India",
+        "name": "Rj Online Cyber Cafe Kamtha By Akash Hemne",
+        "locationConfidence": 2.0186133,
+        "calibratedProbability": 1.5521841
+      }, {
+        "latitudeE7": 215202527,
+        "longitudeE7": 803088858,
+        "placeId": "ChIJw8XYmKOzKzoRH7aGZXpm3XM",
+        "address": "At post kamtha, tah, Zilmili, Maharashtra 441601, India",
+        "name": "Shubham chinese center",
+        "locationConfidence": 1.7244971,
+        "calibratedProbability": 1.3260275
+      }, {
+        "latitudeE7": 215200620,
+        "longitudeE7": 803089777,
+        "placeId": "ChIJVbicIoyzKzoRQIk-7bkooDI",
+        "address": "G8C5+2HJ, Unnamed Road, Zilmili, Maharashtra 441601, India",
+        "name": "Zilmili Square Kamatha",
+        "locationConfidence": 1.0966184,
+        "calibratedProbability": 0.8432292
+      }, {
+        "latitudeE7": 215198365,
+        "longitudeE7": 803074837,
+        "placeId": "ChIJpxeZMlqyKzoRZwDssZRjH4k",
+        "address": "Near Birsi Airport, G894+WXQ, Kamtha, Maharashtra 441614, India",
+        "name": "Muslim Juma Masjid",
+        "locationConfidence": 1.0943604,
+        "calibratedProbability": 0.8414929
+      }, {
+        "latitudeE7": 215204518,
+        "longitudeE7": 803075350,
+        "placeId": "ChIJ2WH5KlqyKzoR7VJ61w5mdm8",
+        "address": "Zilmili, Maharashtra 441601, India",
+        "name": "Durga Medical \u0026General Stores",
+        "locationConfidence": 0.89326537,
+        "calibratedProbability": 0.6868637
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215203462,
+        "longitudeE7": 803086084,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215327955,
+        "longitudeE7": 803573133,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-10T12:02:55.534Z",
+        "endTimestamp": "2021-07-11T07:28:00.154Z"
+      },
+      "distance": 11622,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 60.92714071273804
+      }, {
+        "activityType": "STILL",
+        "probability": 16.93197339773178
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.204697847366333
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.970286786556244
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1365912854671478
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2637133002281189
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.2340113976970315
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.129528040997684
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.11969181941822171
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.031361900619231164
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.029005203396081924
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02044718130491674
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.001438828076061327
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.373991136068071E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.217992260966639E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215231476,
+          "lngE7": 803130851,
+          "accuracyMeters": 13,
+          "timestamp": "2021-07-10T12:03:57.740Z"
+        }, {
+          "latE7": 215246415,
+          "lngE7": 803177166,
+          "accuracyMeters": 14,
+          "timestamp": "2021-07-10T12:04:57.787Z"
+        }, {
+          "latE7": 215258958,
+          "lngE7": 803228427,
+          "accuracyMeters": 16,
+          "timestamp": "2021-07-10T12:05:57.834Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5440.573903930732
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215312022,
+        "longitudeE7": 803593997,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215307483,
+        "longitudeE7": 803566167,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-11T10:51:02.504Z",
+        "endTimestamp": "2021-07-15T01:36:29.208Z"
+      },
+      "distance": 4716,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 34.92858409881592
+      }, {
+        "activityType": "STILL",
+        "probability": 23.42272251844406
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.00240832567215
+      }, {
+        "activityType": "WALKING",
+        "probability": 19.434836506843567
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9680979885160923
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.49346210435032845
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2143974881619215
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.19756045658141375
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.18920449074357748
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.06115030846558511
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.04979217192158103
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03551522386260331
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0021781670511700213
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.4365521034706035E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.982122507295571E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215284904,
+          "lngE7": 803626434,
+          "accuracyMeters": 8,
+          "timestamp": "2021-07-11T10:51:02.504Z"
+        }, {
+          "latE7": 215284498,
+          "lngE7": 803630114,
+          "accuracyMeters": 2,
+          "timestamp": "2021-07-11T10:51:34Z"
+        }, {
+          "latE7": 215285900,
+          "lngE7": 803631115,
+          "accuracyMeters": 14,
+          "timestamp": "2021-07-11T14:19:19Z"
+        }, {
+          "latE7": 215285443,
+          "lngE7": 803632173,
+          "accuracyMeters": 9,
+          "timestamp": "2021-07-11T14:19:50Z"
+        }, {
+          "latE7": 215284804,
+          "lngE7": 803632157,
+          "accuracyMeters": 8,
+          "timestamp": "2021-07-11T14:20:21Z"
+        }, {
+          "latE7": 215286181,
+          "lngE7": 803632479,
+          "accuracyMeters": 18,
+          "timestamp": "2021-07-11T14:23:11.593Z"
+        }, {
+          "latE7": 215285350,
+          "lngE7": 803633055,
+          "accuracyMeters": 15,
+          "timestamp": "2021-07-11T14:23:42Z"
+        }, {
+          "latE7": 215286139,
+          "lngE7": 803632514,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-11T14:24:13Z"
+        }, {
+          "latE7": 215285541,
+          "lngE7": 803631562,
+          "accuracyMeters": 12,
+          "timestamp": "2021-07-11T14:24:29Z"
+        }, {
+          "latE7": 215284537,
+          "lngE7": 803630127,
+          "accuracyMeters": 12,
+          "timestamp": "2021-07-11T14:24:45Z"
+        }, {
+          "latE7": 215286595,
+          "lngE7": 803630382,
+          "accuracyMeters": 14,
+          "timestamp": "2021-07-11T14:25:00Z"
+        }, {
+          "latE7": 215285555,
+          "lngE7": 803632434,
+          "accuracyMeters": 13,
+          "timestamp": "2021-07-11T14:26:36Z"
+        }, {
+          "latE7": 215285860,
+          "lngE7": 803631509,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-11T14:27:06Z"
+        }, {
+          "latE7": 215285621,
+          "lngE7": 803632744,
+          "accuracyMeters": 12,
+          "timestamp": "2021-07-11T14:27:21Z"
+        }, {
+          "latE7": 215285312,
+          "lngE7": 803632700,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-11T14:27:36Z"
+        }, {
+          "latE7": 215285362,
+          "lngE7": 803632053,
+          "accuracyMeters": 12,
+          "timestamp": "2021-07-11T14:27:52Z"
+        }, {
+          "latE7": 215285454,
+          "lngE7": 803630344,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-11T14:28:23Z"
+        }, {
+          "latE7": 215285944,
+          "lngE7": 803631350,
+          "accuracyMeters": 10,
+          "timestamp": "2021-07-11T14:28:39Z"
+        }, {
+          "latE7": 215285845,
+          "lngE7": 803630496,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-11T14:28:54Z"
+        }, {
+          "latE7": 215285384,
+          "lngE7": 803632173,
+          "accuracyMeters": 13,
+          "timestamp": "2021-07-11T14:29:10Z"
+        }, {
+          "latE7": 215285583,
+          "lngE7": 803633757,
+          "accuracyMeters": 11,
+          "timestamp": "2021-07-11T14:29:26Z"
+        }, {
+          "latE7": 215285969,
+          "lngE7": 803633088,
+          "accuracyMeters": 9,
+          "timestamp": "2021-07-11T14:29:42Z"
+        }, {
+          "latE7": 215287090,
+          "lngE7": 803632434,
+          "accuracyMeters": 10,
+          "timestamp": "2021-07-11T14:29:58Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1562.6588311297496
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 215284736,
+          "longitudeE7": 803630858,
+          "accuracyMetres": 85
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2021-07-11T10:55:01.438Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 213993861,
+        "longitudeE7": 803323268,
+        "placeId": "ChIJ2-iMguG4KzoRAZEfCwYjjx0",
+        "name": "Bagh River",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 32.488735,
+        "calibratedProbability": 6.4318557
+      },
+      "duration": {
+        "startTimestamp": "2021-07-15T01:36:29.208Z",
+        "endTimestamp": "2021-07-15T02:00:50.461Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 215281914,
+      "centerLngE7": 803632343,
+      "visitConfidence": 58,
+      "otherCandidateLocations": [{
+        "latitudeE7": 215310230,
+        "longitudeE7": 803568878,
+        "locationConfidence": 12.140486,
+        "calibratedProbability": 2.4034746
+      }, {
+        "latitudeE7": 215283222,
+        "longitudeE7": 803632202,
+        "locationConfidence": 6.946892,
+        "calibratedProbability": 1.3752891
+      }, {
+        "latitudeE7": 215284195,
+        "longitudeE7": 803628743,
+        "placeId": "ChIJWcoDwiqzKzoR6EdHLxkYmFg",
+        "address": "Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "NARESH PAAN CENTER",
+        "locationConfidence": 5.24255,
+        "calibratedProbability": 1.0378773
+      }, {
+        "latitudeE7": 215293352,
+        "longitudeE7": 803615500,
+        "placeId": "ChIJ3fr3EwGzKzoRXrRwB6IYR-I",
+        "address": "Ambedkar Chouk, Ghattemani Rd, Ghattemani, Maharashtra 441601, India",
+        "name": "Samaj Mandir Ghattemani",
+        "locationConfidence": 3.096227,
+        "calibratedProbability": 0.6129658
+      }, {
+        "latitudeE7": 215266681,
+        "longitudeE7": 803627370,
+        "placeId": "ChIJ6ajaXSqzKzoRXGvz_jFKXGs",
+        "address": "G9G7+M39, Ghattemani, Maharashtra 441601, India",
+        "name": "Shree Hanumanji Mandir",
+        "locationConfidence": 2.0527112,
+        "calibratedProbability": 0.40637907
+      }, {
+        "latitudeE7": 213927633,
+        "longitudeE7": 804548550,
+        "placeId": "ChIJKzYKxZS_KzoRAJ2J6YNgi68",
+        "name": "Pujaritola Right Canal",
+        "locationConfidence": 1.7975582,
+        "calibratedProbability": 0.35586596
+      }, {
+        "latitudeE7": 215278267,
+        "longitudeE7": 803632117,
+        "placeId": "ChIJdcXdqGqzKzoR5I3zTsels-0",
+        "address": "G9H7+47G, Ghattemani, Maharashtra 441601, India",
+        "name": "Kawde printing press and zerox",
+        "locationConfidence": 1.7308595,
+        "calibratedProbability": 0.3426615
+      }, {
+        "latitudeE7": 215291824,
+        "longitudeE7": 803605143,
+        "placeId": "ChIJkdUv-YGzKzoRDwSmqlh0WpI",
+        "address": "G9H6+M5G, Ghattemani, Maharashtra 441601, India",
+        "name": "Maa Sherawali Art Galary Ghattemani",
+        "locationConfidence": 1.188107,
+        "calibratedProbability": 0.23521176
+      }, {
+        "latitudeE7": 215275840,
+        "longitudeE7": 803615030,
+        "placeId": "ChIJTeMGl4GzKzoROD79MpE7j4o",
+        "address": "G9H6+2J8, Ghattemani, Maharashtra 441601, India",
+        "name": "Suresh Traders",
+        "locationConfidence": 1.1594182,
+        "calibratedProbability": 0.22953218
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215283513,
+          "lngE7": 803648569,
+          "accuracyMeters": 24,
+          "timestamp": "2021-07-15T01:50:14.329Z"
+        }, {
+          "latE7": 215283213,
+          "lngE7": 803633075,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-15T01:52:19Z"
+        }, {
+          "latE7": 215284538,
+          "lngE7": 803631850,
+          "accuracyMeters": 4,
+          "timestamp": "2021-07-15T01:52:50Z"
+        }, {
+          "latE7": 215283100,
+          "lngE7": 803629120,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-15T01:54:08Z"
+        }, {
+          "latE7": 215281279,
+          "lngE7": 803630035,
+          "accuracyMeters": 2,
+          "timestamp": "2021-07-15T01:54:24Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 234.53647467516925
+      },
+      "locationConfidence": 25,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215279372,
+        "longitudeE7": 803630736,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 215328136,
+        "longitudeE7": 803573103,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-15T02:00:50.461Z",
+        "endTimestamp": "2021-07-18T10:08:34.362Z"
+      },
+      "distance": 6477,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 36.029356718063354
+      }, {
+        "activityType": "WALKING",
+        "probability": 22.29923903942108
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.38709968328476
+      }, {
+        "activityType": "STILL",
+        "probability": 18.466778099536896
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1205853894352913
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5421978421509266
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.3832548623904586
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2891031326726079
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.260590435937047
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.09358884417451918
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.06644119857810438
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.058455660473555326
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.003214020762243308
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 5.367793391997111E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.6971803751839616E-5
+      }]
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 215307120,
+        "longitudeE7": 803565655,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214497361,
+        "longitudeE7": 801709405,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-18T10:08:34.362Z",
+        "endTimestamp": "2021-07-18T13:05:25.187Z"
+      },
+      "distance": 26468,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 66.00097417831421
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 11.653311550617218
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.868661314249039
+      }, {
+        "activityType": "STILL",
+        "probability": 9.676593542098999
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.7904292792081833
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.3582608653232455
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.34817582927644253
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.10169399902224541
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.09610929992049932
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.046265736455097795
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.028611859306693077
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.02743417862802744
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0033225845982087776
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.1094116416643374E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.097277894743456E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 215315608,
+          "lngE7": 803576660
+        }, {
+          "latE7": 215296993,
+          "lngE7": 803593521
+        }, {
+          "latE7": 215284137,
+          "lngE7": 803628692
+        }, {
+          "latE7": 215298652,
+          "lngE7": 803374557
+        }, {
+          "latE7": 215205802,
+          "lngE7": 803075103
+        }, {
+          "latE7": 214812908,
+          "lngE7": 802911376
+        }, {
+          "latE7": 214749565,
+          "lngE7": 802615203
+        }, {
+          "latE7": 214747142,
+          "lngE7": 802624969
+        }, {
+          "latE7": 214747142,
+          "lngE7": 802624969
+        }, {
+          "latE7": 214557514,
+          "lngE7": 802540130
+        }, {
+          "latE7": 214504375,
+          "lngE7": 802323837
+        }, {
+          "latE7": 214549007,
+          "lngE7": 801960067
+        }, {
+          "latE7": 214495849,
+          "lngE7": 801709899
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 30331.17888579201,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.9870720929779284
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 215284176,
+          "lngE7": 803629684,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-18T10:22:42Z"
+        }, {
+          "latE7": 215205841,
+          "lngE7": 803075104,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-18T11:12:10Z"
+        }, {
+          "latE7": 214749870,
+          "lngE7": 802615280,
+          "accuracyMeters": 1,
+          "timestamp": "2021-07-18T11:35:47Z"
+        }, {
+          "latE7": 214747505,
+          "lngE7": 802625198,
+          "accuracyMeters": 2,
+          "timestamp": "2021-07-18T11:37:35Z"
+        }, {
+          "latE7": 214504890,
+          "lngE7": 802323914,
+          "accuracyMeters": 4,
+          "timestamp": "2021-07-18T11:52:41Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214504630,
+          "longitudeE7": 801749251,
+          "accuracyMetres": 124
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-18T13:06:25.263Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 66.18677,
+        "calibratedProbability": 50.474197
+      },
+      "duration": {
+        "startTimestamp": "2021-07-18T13:05:25.187Z",
+        "endTimestamp": "2021-07-19T11:54:40.053Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214492300,
+      "centerLngE7": 801718100,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214497500,
+        "longitudeE7": 801674499,
+        "placeId": "ChIJ13l9UECpKzoR97rTfW-M_7M",
+        "address": "C5X8+VXW, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Solanki Rice Mill",
+        "locationConfidence": 5.2432632,
+        "calibratedProbability": 3.9985259
+      }, {
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 5.158164,
+        "calibratedProbability": 3.9336288
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 5.093712,
+        "calibratedProbability": 3.8844776
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 4.349548,
+        "calibratedProbability": 3.316976
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 3.6263134,
+        "calibratedProbability": 2.7654357
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 2.5371134,
+        "calibratedProbability": 1.9348091
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 2.032588,
+        "calibratedProbability": 1.5500567
+      }, {
+        "latitudeE7": 214477041,
+        "longitudeE7": 801672361,
+        "placeId": "ChIJZV_wg2ypKzoRp2a24p4GIFA",
+        "address": "C5X8+3VQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Karda Rice Mil",
+        "locationConfidence": 1.0750496,
+        "calibratedProbability": 0.81983554
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 1.0597056,
+        "calibratedProbability": 0.8081342
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 53,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214500417,
+        "longitudeE7": 801715576,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214500269,
+        "longitudeE7": 801715462,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-19T11:54:40.053Z",
+        "endTimestamp": "2021-07-19T13:32:11.075Z"
+      },
+      "distance": 14164,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 76.48563981056213
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.260898530483246
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.724366381764412
+      }, {
+        "activityType": "STILL",
+        "probability": 2.299031987786293
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.6710299756377935
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.24354704655706882
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.09642349323257804
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.08412227616645396
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.07163077243603766
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.031328017939813435
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.02619723090901971
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.005333237277227454
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 3.647811809059931E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.310191219607077E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.804501437163708E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214500484,
+          "lngE7": 801717300
+        }, {
+          "latE7": 214596862,
+          "lngE7": 801632308
+        }, {
+          "latE7": 214705276,
+          "lngE7": 801317901
+        }, {
+          "latE7": 214500350,
+          "lngE7": 801717300
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 14930.32805902077,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214699554,
+          "lngE7": 801317215,
+          "accuracyMeters": 92,
+          "timestamp": "2021-07-19T12:10:52.255Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214500432,
+          "longitudeE7": 801715523,
+          "accuracyMetres": 147
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-19T13:29:06.602Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 75.82015,
+        "calibratedProbability": 56.41088
+      },
+      "duration": {
+        "startTimestamp": "2021-07-19T13:32:11.075Z",
+        "endTimestamp": "2021-07-20T01:33:12.735Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214494032,
+      "centerLngE7": 801706656,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 5.7312856,
+        "calibratedProbability": 4.2641287
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 4.423611,
+        "calibratedProbability": 3.2912068
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 2.8035164,
+        "calibratedProbability": 2.0858417
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 2.584082,
+        "calibratedProbability": 1.9225804
+      }, {
+        "latitudeE7": 214497500,
+        "longitudeE7": 801674499,
+        "placeId": "ChIJ13l9UECpKzoR97rTfW-M_7M",
+        "address": "C5X8+VXW, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Solanki Rice Mill",
+        "locationConfidence": 2.3323534,
+        "calibratedProbability": 1.7352921
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 1.8242016,
+        "calibratedProbability": 1.3572226
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 1.6210387,
+        "calibratedProbability": 1.2060674
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 0.9214744,
+        "calibratedProbability": 0.6855853
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 0.6385239,
+        "calibratedProbability": 0.47506756
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214493750,
+        "longitudeE7": 801706246,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214489190,
+        "longitudeE7": 801719417,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-20T01:33:12.735Z",
+        "endTimestamp": "2021-07-20T02:21:51.915Z"
+      },
+      "distance": 145,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 77.90926098823547
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.462206602096558
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.777077749371529
+      }, {
+        "activityType": "STILL",
+        "probability": 3.3839527517557144
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.9908254966139793
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.18639970803633332
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.14234200352802873
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.056455098092556
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.05005396087653935
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.014432468742597848
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.013827737711835653
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.012375118967611343
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 7.667736099392641E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.4624133370944037E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.525503527474939E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214495315,
+          "lngE7": 801706085
+        }, {
+          "latE7": 214497337,
+          "lngE7": 801716308
+        }, {
+          "latE7": 214489135,
+          "lngE7": 801718063
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 213.91079928970163,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214493179,
+          "longitudeE7": 801711745,
+          "accuracyMetres": 31
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-20T02:21:14.796Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 79.83219,
+        "calibratedProbability": 38.519688
+      },
+      "duration": {
+        "startTimestamp": "2021-07-20T02:21:51.915Z",
+        "endTimestamp": "2021-07-20T04:18:32Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214497040,
+      "centerLngE7": 801719120,
+      "visitConfidence": 64,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 3.5859864,
+        "calibratedProbability": 1.7302679
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 3.2845702,
+        "calibratedProbability": 1.5848321
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 2.6663103,
+        "calibratedProbability": 1.2865165
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 2.394563,
+        "calibratedProbability": 1.1553962
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 1.9640712,
+        "calibratedProbability": 0.9476804
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 1.6770352,
+        "calibratedProbability": 0.80918324
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 1.4424739,
+        "calibratedProbability": 0.69600546
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 0.6852177,
+        "calibratedProbability": 0.33062315
+      }, {
+        "latitudeE7": 214491402,
+        "longitudeE7": 801733159,
+        "placeId": "ChIJhf71dEepKzoRazTPXn_4lsA",
+        "address": "C5XF+J8V, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Bharne Kirana \u0026 General Store",
+        "locationConfidence": 0.67144537,
+        "calibratedProbability": 0.3239779
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 64,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214494921,
+        "longitudeE7": 801694351,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214497361,
+        "longitudeE7": 801709405,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-20T04:18:32Z",
+        "endTimestamp": "2021-07-20T05:13:52.464Z"
+      },
+      "distance": 13603,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 82.08439946174622
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.8705646097660065
+      }, {
+        "activityType": "STILL",
+        "probability": 7.131190598011017
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.1419771015644073
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.47836112789809704
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.1135503756813705
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.051471509505063295
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.049685261910781264
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.04383954801596701
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.01870931446319446
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.012605977826751769
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0032511918107047677
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.3896350285212975E-4
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.4466874063145951E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 5.25532595219147E-7
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214722693,
+          "lngE7": 801553509,
+          "accuracyMeters": 7,
+          "timestamp": "2021-07-20T04:29:13Z"
+        }, {
+          "latE7": 214726219,
+          "lngE7": 801538593,
+          "accuracyMeters": 7,
+          "timestamp": "2021-07-20T04:29:29Z"
+        }, {
+          "latE7": 214726433,
+          "lngE7": 801472711,
+          "accuracyMeters": 5,
+          "timestamp": "2021-07-20T04:30:31Z"
+        }, {
+          "latE7": 214680032,
+          "lngE7": 801133699,
+          "accuracyMeters": 17,
+          "timestamp": "2021-07-20T04:40:55.572Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 13603.487994393456
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 47.268555,
+        "calibratedProbability": 27.927029
+      },
+      "duration": {
+        "startTimestamp": "2021-07-20T05:13:52.464Z",
+        "endTimestamp": "2021-07-21T03:21:55.188Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214493043,
+      "centerLngE7": 801717343,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 7.635668,
+        "calibratedProbability": 4.5112762
+      }, {
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 5.7672014,
+        "calibratedProbability": 3.4073563
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 4.431148,
+        "calibratedProbability": 2.617994
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 4.118106,
+        "calibratedProbability": 2.4330437
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 2.8726668,
+        "calibratedProbability": 1.6972182
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 1.828893,
+        "calibratedProbability": 1.0805396
+      }, {
+        "latitudeE7": 214484045,
+        "longitudeE7": 801754175,
+        "placeId": "ChIJzavLUfqpKzoRwPVehnMJfts",
+        "address": "FCI, FSD GONDIA, MURRY VILLAGE, GONDIA- PIN CODE :, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441601, India",
+        "name": "FCI FSD Gondia",
+        "locationConfidence": 1.2671624,
+        "calibratedProbability": 0.74866015
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 1.0578638,
+        "calibratedProbability": 0.6250031
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 0.5585249,
+        "calibratedProbability": 0.3299856
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 38,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214492086,
+        "longitudeE7": 801705786,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214500430,
+        "longitudeE7": 801715510,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T03:21:55.188Z",
+        "endTimestamp": "2021-07-21T04:09:29.380Z"
+      },
+      "distance": 16833,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 74.2429256439209
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 21.092288196086884
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.1827414631843567
+      }, {
+        "activityType": "STILL",
+        "probability": 1.4909199438989162
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5754248704761267
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.12728675501421094
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.10746760526672006
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.08143555605784059
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.05319450865499675
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.020776866585947573
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.01881841744761914
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.005725331720896065
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 9.337471055914648E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 5.709893002858735E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.76883812439155E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214495277,
+          "lngE7": 801705474
+        }, {
+          "latE7": 214596862,
+          "lngE7": 801632308
+        }, {
+          "latE7": 214679813,
+          "lngE7": 801134262
+        }, {
+          "latE7": 214500503,
+          "lngE7": 801717300
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 19015.28996488616,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.9911267744880613
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214679737,
+          "lngE7": 801133804,
+          "accuracyMeters": 2,
+          "timestamp": "2021-07-21T03:46:50Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214500430,
+          "longitudeE7": 801715509,
+          "accuracyMetres": 97
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-21T04:10:37.903Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 53.06611,
+        "calibratedProbability": 37.61612
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T04:09:29.380Z",
+        "endTimestamp": "2021-07-21T06:15:47.175Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214498300,
+      "centerLngE7": 801712973,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 7.990966,
+        "calibratedProbability": 5.6644273
+      }, {
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 6.2749715,
+        "calibratedProbability": 4.448038
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 4.8819213,
+        "calibratedProbability": 3.460569
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 4.1017985,
+        "calibratedProbability": 2.9075758
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 3.1916127,
+        "calibratedProbability": 2.262387
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 2.2815537,
+        "calibratedProbability": 1.6172882
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 1.6391827,
+        "calibratedProbability": 1.161941
+      }, {
+        "latitudeE7": 214498191,
+        "longitudeE7": 801716579,
+        "placeId": "ChIJe2SE-HmpKzoRDpr4n-9Y3vI",
+        "address": "CHUTIYA, ROAD, near SAINATH PETROL PUMP, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "SURAJ ONLINE SERVICES",
+        "locationConfidence": 1.3546582,
+        "calibratedProbability": 0.9602547
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 1.1343095,
+        "calibratedProbability": 0.8040597
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214500396,
+        "longitudeE7": 801715460,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214503590,
+        "longitudeE7": 801753185,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T06:15:47.175Z",
+        "endTimestamp": "2021-07-21T06:19:50.058Z"
+      },
+      "distance": 392,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 43.72344613075256
+      }, {
+        "activityType": "WALKING",
+        "probability": 32.12226629257202
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.992191433906555
+      }, {
+        "activityType": "CYCLING",
+        "probability": 4.080290347337723
+      }, {
+        "activityType": "STILL",
+        "probability": 3.1438469886779785
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.5589932668954134
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.13542140368372202
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.11180532164871693
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0438838149420917
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.03741027321666479
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.030896835960447788
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.017040717648342252
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.002452873013680801
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.405078470881563E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.3204002868860698E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214500465,
+          "lngE7": 801717300
+        }, {
+          "latE7": 214504890,
+          "lngE7": 801746597
+        }, {
+          "latE7": 214510726,
+          "lngE7": 801769104
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 586.6530807043011,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214509986,
+          "longitudeE7": 801766893,
+          "accuracyMetres": 147
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-21T06:25:04.830Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214510416,
+        "longitudeE7": 801761617,
+        "placeId": "ChIJ6-EgK0apKzoRqg_wif7D4IY",
+        "address": "F52G+CF7, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441614, India",
+        "name": "Murri Market",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 73.02924,
+        "calibratedProbability": 59.126633
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T06:19:50.058Z",
+        "endTimestamp": "2021-07-21T06:48:23.571Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214509057,
+      "centerLngE7": 801759571,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214502103,
+        "longitudeE7": 801753973,
+        "placeId": "ChIJvSZnz0epKzoRXvxAHjA9Oow",
+        "address": "Murri, F52G+35J, Goutam Nagar, Bajpai Ward, Murri, Pindkepar, Maharashtra 441614, India",
+        "name": "Food Corporation Of India",
+        "locationConfidence": 6.0265145,
+        "calibratedProbability": 4.879244
+      }, {
+        "latitudeE7": 214484045,
+        "longitudeE7": 801754175,
+        "placeId": "ChIJzavLUfqpKzoRwPVehnMJfts",
+        "address": "FCI, FSD GONDIA, MURRY VILLAGE, GONDIA- PIN CODE :, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441601, India",
+        "name": "FCI FSD Gondia",
+        "locationConfidence": 4.1831927,
+        "calibratedProbability": 3.3868363
+      }, {
+        "latitudeE7": 214510653,
+        "longitudeE7": 801771662,
+        "placeId": "ChIJAwAAwDipKzoRBmuVGXJRZWA",
+        "address": "Sendry Tola Road Gondia, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Barewar Setu Kendra",
+        "locationConfidence": 2.3713555,
+        "calibratedProbability": 1.9199194
+      }, {
+        "latitudeE7": 214508308,
+        "longitudeE7": 801763507,
+        "placeId": "ChIJ6-ezL4qpKzoRlgiASbN2Ys4",
+        "address": "Chutiya, F52G+8GQ, Road, near Gram Panchayat, Goutam Nagar, Bajpai Ward, Murri, Gondia, Maharashtra 441, India",
+        "name": "Sai Gents Parlour",
+        "locationConfidence": 2.032611,
+        "calibratedProbability": 1.6456617
+      }, {
+        "latitudeE7": 214523688,
+        "longitudeE7": 801749516,
+        "placeId": "ChIJ5YJmw_mpKzoRrpHeg1fbhxY",
+        "address": "F52F+WXW, Goutam Nagar, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Ekant vaas dhaba",
+        "locationConfidence": 1.6679008,
+        "calibratedProbability": 1.3503817
+      }, {
+        "latitudeE7": 214518273,
+        "longitudeE7": 801768108,
+        "placeId": "ChIJO749m0ipKzoRdq2_r4lUWUo",
+        "address": "F52G+PPM, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Mata Mandir, Murri",
+        "locationConfidence": 1.5211734,
+        "calibratedProbability": 1.2315868
+      }, {
+        "latitudeE7": 214515757,
+        "longitudeE7": 801748323,
+        "placeId": "ChIJRwYPvJypKzoRL8RWCtuFXWc",
+        "address": "1) Yog bhawan,first floor,civil lines 2) fondle academy, ganesh nagar 3)Khandelwal rice mill, Murri Rd, Goutam Nagar, Bajpai Ward, Murri, Gondia, Maharashtra 441601, India",
+        "name": "Tapping feets",
+        "locationConfidence": 1.4057455,
+        "calibratedProbability": 1.138133
+      }, {
+        "latitudeE7": 214518348,
+        "longitudeE7": 801768078,
+        "placeId": "ChIJMzWGs5ypKzoRYAiJNVY-zI0",
+        "address": "Laal pahadi, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Sanam panjabi dhol party murri",
+        "locationConfidence": 1.2128973,
+        "calibratedProbability": 0.98199743
+      }, {
+        "latitudeE7": 214524100,
+        "longitudeE7": 801754100,
+        "placeId": "ChIJtRS1F8SpKzoRrxZYHs9WzpQ",
+        "address": "1st Floor Laxmibai Ward Behind City, Police Station, Goutam Nagar, Bajpai Ward, Murri, Gondia, Maharashtra 441601, India",
+        "name": "HDFC Bank",
+        "locationConfidence": 0.9908328,
+        "calibratedProbability": 0.80220747
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 58,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 41.354336,
+        "calibratedProbability": 26.215775
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T06:48:23.571Z",
+        "endTimestamp": "2021-07-21T11:28:45.395Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214494050,
+      "centerLngE7": 801716787,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 8.91064,
+        "calibratedProbability": 5.6487265
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 7.8265386,
+        "calibratedProbability": 4.9614816
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 6.4997225,
+        "calibratedProbability": 4.1203723
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 5.232966,
+        "calibratedProbability": 3.3173368
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 2.790817,
+        "calibratedProbability": 1.769184
+      }, {
+        "latitudeE7": 214484045,
+        "longitudeE7": 801754175,
+        "placeId": "ChIJzavLUfqpKzoRwPVehnMJfts",
+        "address": "FCI, FSD GONDIA, MURRY VILLAGE, GONDIA- PIN CODE :, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441601, India",
+        "name": "FCI FSD Gondia",
+        "locationConfidence": 2.6108744,
+        "calibratedProbability": 1.655113
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 2.4373026,
+        "calibratedProbability": 1.5450804
+      }, {
+        "latitudeE7": 214510416,
+        "longitudeE7": 801761617,
+        "placeId": "ChIJ6-EgK0apKzoRqg_wif7D4IY",
+        "address": "F52G+CF7, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441614, India",
+        "name": "Murri Market",
+        "locationConfidence": 2.1061218,
+        "calibratedProbability": 1.3351349
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 1.7920341,
+        "calibratedProbability": 1.1360251
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214497361,
+        "longitudeE7": 801709405,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214497361,
+        "longitudeE7": 801709405,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T11:28:45.395Z",
+        "endTimestamp": "2021-07-21T13:32:55.519Z"
+      },
+      "distance": 15086,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 73.33124279975891
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 16.94122552871704
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.348601400852203
+      }, {
+        "activityType": "STILL",
+        "probability": 2.582070045173168
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.178828790783882
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.23233823012560606
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1620355062186718
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.1062339055351913
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.05096032400615513
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.031273908098228276
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.02392213646089658
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.009337916708318517
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0018130294847651385
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.1255940535193076E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.2024935358567745E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214489059,
+          "lngE7": 801727676
+        }, {
+          "latE7": 214596862,
+          "lngE7": 801632308
+        }, {
+          "latE7": 214715671,
+          "lngE7": 801151275
+        }, {
+          "latE7": 214495849,
+          "lngE7": 801709899
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 18458.258963376564,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.9995179162864055
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214715748,
+          "lngE7": 801151276,
+          "accuracyMeters": 3,
+          "timestamp": "2021-07-21T12:49:09Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214564440,
+          "longitudeE7": 801661866,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-21T13:32:56.185Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 31.523827,
+        "calibratedProbability": 20.322374
+      },
+      "duration": {
+        "startTimestamp": "2021-07-21T13:32:55.519Z",
+        "endTimestamp": "2021-07-22T03:16:29Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214493268,
+      "centerLngE7": 801715158,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 16.592966,
+        "calibratedProbability": 10.696939
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 11.097992,
+        "calibratedProbability": 7.1545105
+      }, {
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 8.468842,
+        "calibratedProbability": 5.4595838
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 8.013246,
+        "calibratedProbability": 5.165876
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 4.3460765,
+        "calibratedProbability": 2.8017726
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 4.1774006,
+        "calibratedProbability": 2.6930327
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 3.962728,
+        "calibratedProbability": 2.5546405
+      }, {
+        "latitudeE7": 214484045,
+        "longitudeE7": 801754175,
+        "placeId": "ChIJzavLUfqpKzoRwPVehnMJfts",
+        "address": "FCI, FSD GONDIA, MURRY VILLAGE, GONDIA- PIN CODE :, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441601, India",
+        "name": "FCI FSD Gondia",
+        "locationConfidence": 3.7736673,
+        "calibratedProbability": 2.4327593
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 3.6687176,
+        "calibratedProbability": 2.3651016
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 24,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214491525,
+        "longitudeE7": 801718241,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214496728,
+        "longitudeE7": 801709038,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-22T03:16:29Z",
+        "endTimestamp": "2021-07-22T04:16:06.285Z"
+      },
+      "distance": 15973,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 78.92037630081177
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.606750011444092
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.651364728808403
+      }, {
+        "activityType": "STILL",
+        "probability": 2.0223310217261314
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.33822625502944
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.1803746330551803
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.11289099929854274
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.08309223921969533
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.03568299871403724
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.020713446428999305
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.014747428940609097
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.010894059960264713
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0023406106265611015
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.933129397002631E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.3144490651484375E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214491500,
+          "lngE7": 801717910
+        }, {
+          "latE7": 214722747,
+          "lngE7": 801217498
+        }, {
+          "latE7": 214667625,
+          "lngE7": 801023635
+        }, {
+          "latE7": 214495735,
+          "lngE7": 801709213
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 23859.58067592025,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.9999991608525477
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214667759,
+          "lngE7": 801023026,
+          "accuracyMeters": 7,
+          "timestamp": "2021-07-22T03:52:21Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214500400,
+          "longitudeE7": 801715482,
+          "accuracyMetres": 147
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2021-07-22T04:24:53.979Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 61.4711,
+        "calibratedProbability": 49.323746
+      },
+      "duration": {
+        "startTimestamp": "2021-07-22T04:16:06.285Z",
+        "endTimestamp": "2021-07-22T04:24:53.979Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214498550,
+      "centerLngE7": 801712200,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 7.8268824,
+        "calibratedProbability": 6.2802057
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 4.698217,
+        "calibratedProbability": 3.7697985
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 4.5520782,
+        "calibratedProbability": 3.6525383
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 2.3851366,
+        "calibratedProbability": 1.9138079
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 1.1621475,
+        "calibratedProbability": 0.9324946
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 0.8212298,
+        "calibratedProbability": 0.6589459
+      }, {
+        "latitudeE7": 214492533,
+        "longitudeE7": 801693356,
+        "placeId": "ChIJ6_jSbLKpKzoRQ_qy-OwblAo",
+        "locationConfidence": 0.582394,
+        "calibratedProbability": 0.46730664
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 0.5156785,
+        "calibratedProbability": 0.41377488
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 0.4612118,
+        "calibratedProbability": 0.37007135
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214500400,
+        "longitudeE7": 801715482,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214551305,
+        "longitudeE7": 801954832,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-22T04:24:53.979Z",
+        "endTimestamp": "2021-07-22T04:37:17.514Z"
+      },
+      "distance": 2601,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 77.95960307121277
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 16.44713282585144
+      }, {
+        "activityType": "STILL",
+        "probability": 2.355683036148548
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.6448166221380234
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.3602327555418015
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.0988262239843607
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.060343730729073286
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.02959977136924863
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.014261066098697484
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.009753208723850548
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.009392543870490044
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.008415948832407594
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0019246519514126703
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 9.112557819435096E-6
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 7.760346676377594E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214500484,
+          "lngE7": 801717300
+        }, {
+          "latE7": 214528636,
+          "lngE7": 801785278
+        }, {
+          "latE7": 214551372,
+          "lngE7": 801954803
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2862.218939009724,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214550177,
+          "longitudeE7": 801960046,
+          "accuracyMetres": 108
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-22T04:41:12.290Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214549908,
+        "longitudeE7": 801963919,
+        "placeId": "ChIJD4rhLLeuKzoRFz_rt7bMyj4",
+        "address": "Bajaj Nagar, Gondia, Maharashtra 441601, India",
+        "name": "Jaistambh Bus Stop",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 86.42168,
+        "calibratedProbability": 78.717766
+      },
+      "duration": {
+        "startTimestamp": "2021-07-22T04:37:17.514Z",
+        "endTimestamp": "2021-07-22T04:44:10.518Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214550550,
+      "centerLngE7": 801961350,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214549581,
+        "longitudeE7": 801960701,
+        "placeId": "ChIJOY79ybOvKzoRRFcuyGf7su4",
+        "locationConfidence": 4.642799,
+        "calibratedProbability": 4.2289248
+      }, {
+        "latitudeE7": 214547286,
+        "longitudeE7": 801958537,
+        "placeId": "ChIJCbH21bauKzoRjGjvDRcYFhc",
+        "address": "Jaistambh Chowk, Ganesh Nagar, Gondia, Maharashtra 441601, India",
+        "name": "Jayastambh Petrol Pump",
+        "locationConfidence": 2.4998274,
+        "calibratedProbability": 2.2769847
+      }, {
+        "latitudeE7": 214557787,
+        "longitudeE7": 801972730,
+        "placeId": "ChIJZdW6z7CuKzoRe7ZXJbLCxCQ",
+        "address": "F54W+8W6, Bajaj Nagar, Gondia, Maharashtra 441601, India",
+        "name": "District \u0026 Sessions Court, Gondia",
+        "locationConfidence": 2.1701958,
+        "calibratedProbability": 1.9767375
+      }, {
+        "latitudeE7": 214547730,
+        "longitudeE7": 801969173,
+        "placeId": "ChIJ61gYlG-vKzoRHmJaNxGN5tI",
+        "address": "F53W+WQ3, NH753, Bajaj Nagar, Gondia, Maharashtra 441601, India",
+        "name": "Amazon Delivery Office",
+        "locationConfidence": 0.6084952,
+        "calibratedProbability": 0.55425197
+      }, {
+        "latitudeE7": 214561338,
+        "longitudeE7": 801950906,
+        "placeId": "ChIJzdehPLGuKzoRFFtusZUQ8s0",
+        "address": "Girl\u0027s College Road, Vithal Nagar, Sindhi Colony, Gondia, Maharashtra 441601, India",
+        "name": "Purushottam Super Bazar",
+        "locationConfidence": 0.4531818,
+        "calibratedProbability": 0.4127837
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 71,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214553036,
+        "longitudeE7": 801967314,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214496728,
+        "longitudeE7": 801709038,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-22T04:44:10.518Z",
+        "endTimestamp": "2021-07-22T09:07:46.994Z"
+      },
+      "distance": 2751,
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 74.29801821708679
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.494275718927383
+      }, {
+        "activityType": "STILL",
+        "probability": 5.283045023679733
+      }, {
+        "activityType": "CYCLING",
+        "probability": 4.856178164482117
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.450697682797909
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.25289803743362427
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.20350574050098658
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07467122632078826
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.02493506472092122
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.023512721236329526
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.016758621495682746
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.01595687062945217
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0031340980058303103
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 0.0023851123842177913
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.180697660809528E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214550443,
+          "lngE7": 801911954,
+          "accuracyMeters": 104,
+          "timestamp": "2021-07-22T04:46:11.452Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2756.9449402216487
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 57.993786,
+        "calibratedProbability": 26.498604
+      },
+      "duration": {
+        "startTimestamp": "2021-07-22T09:07:46.994Z",
+        "endTimestamp": "2021-07-24T13:23:18.575Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214495420,
+      "centerLngE7": 801712250,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 8.3992195,
+        "calibratedProbability": 3.8377833
+      }, {
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 7.19916,
+        "calibratedProbability": 3.2894506
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 6.0359488,
+        "calibratedProbability": 2.7579544
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 5.030938,
+        "calibratedProbability": 2.2987435
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 3.7408333,
+        "calibratedProbability": 1.7092669
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 3.2529871,
+        "calibratedProbability": 1.4863596
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 2.5747418,
+        "calibratedProbability": 1.1764548
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 1.3901764,
+        "calibratedProbability": 0.6352014
+      }, {
+        "latitudeE7": 214484045,
+        "longitudeE7": 801754175,
+        "placeId": "ChIJzavLUfqpKzoRwPVehnMJfts",
+        "address": "FCI, FSD GONDIA, MURRY VILLAGE, GONDIA- PIN CODE :, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441601, India",
+        "name": "FCI FSD Gondia",
+        "locationConfidence": 0.9356573,
+        "calibratedProbability": 0.42752188
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214497361,
+        "longitudeE7": 801709405,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214526582,
+        "longitudeE7": 801786250,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-24T13:23:18.575Z",
+        "endTimestamp": "2021-07-24T13:27:24.383Z"
+      },
+      "distance": 859,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 83.35670828819275
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 11.966843903064728
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.4793276339769363
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5286486819386482
+      }, {
+        "activityType": "STILL",
+        "probability": 0.49281162209808826
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.06883673486299813
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0330731418216601
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.026735212304629385
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.02369013091083616
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.012607990356627852
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.008166059706127271
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.002498324465705082
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 5.36270533757488E-5
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.535380699304369E-6
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.228890571056354E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214491157,
+          "lngE7": 801717987
+        }, {
+          "latE7": 214528713,
+          "lngE7": 801784896
+        }, {
+          "latE7": 214528331,
+          "lngE7": 801786727
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 936.3547521888845,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214528310,
+          "longitudeE7": 801787610,
+          "accuracyMetres": 22
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-24T13:35:39.187Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214526730,
+        "longitudeE7": 801787319,
+        "placeId": "ChIJd6np3UipKzoRay2OrNorx1E",
+        "address": "F53H+3F9, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "Dr. Sangrame Clinic",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 45.383385,
+        "calibratedProbability": 34.920128
+      },
+      "duration": {
+        "startTimestamp": "2021-07-24T13:27:24.383Z",
+        "endTimestamp": "2021-07-24T13:39:13.272Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 214527825,
+      "centerLngE7": 801787050,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214527691,
+        "longitudeE7": 801786813,
+        "placeId": "ChIJ76S03UipKzoR3QbxCoJAxaE",
+        "address": "F53H+4F3, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "Girhepunje Teiloring Materials",
+        "locationConfidence": 20.620232,
+        "calibratedProbability": 15.866183
+      }, {
+        "latitudeE7": 214526383,
+        "longitudeE7": 801788704,
+        "placeId": "ChIJ-zzZ8DmpKzoR4pT6q6qfyIA",
+        "address": "Murri Rd, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "Ply House",
+        "locationConfidence": 5.285215,
+        "calibratedProbability": 4.0666947
+      }, {
+        "latitudeE7": 214529478,
+        "longitudeE7": 801786050,
+        "placeId": "ChIJDed93EipKzoRz7DG7Df2HBA",
+        "address": "F53H+5CH, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "Sewa Institute Of Technical Education",
+        "locationConfidence": 5.1015787,
+        "calibratedProbability": 3.9253964
+      }, {
+        "latitudeE7": 214528249,
+        "longitudeE7": 801789857,
+        "placeId": "ChIJ230E30ipKzoRl2SrMSsagK4",
+        "address": "F53H+4HX, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "भोला चाईनिश सेंटर",
+        "locationConfidence": 4.62738,
+        "calibratedProbability": 3.5605254
+      }, {
+        "latitudeE7": 214536873,
+        "longitudeE7": 801796129,
+        "placeId": "ChIJucPFEUWpKzoRlDXnNs1jGLM",
+        "address": "Murri Rd Sawratoli, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "Ascent Public School Gondia",
+        "locationConfidence": 3.8772106,
+        "calibratedProbability": 2.9833097
+      }, {
+        "latitudeE7": 214525715,
+        "longitudeE7": 801795574,
+        "placeId": "ChIJw9zrGEmpKzoRnZC9NM8wY6o",
+        "address": "Murri, Railway Chowki, Near, Murri Rd, Chandra Shekhar Ward, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "Munna Restaurant",
+        "locationConfidence": 2.9985986,
+        "calibratedProbability": 2.3072639
+      }, {
+        "latitudeE7": 214529561,
+        "longitudeE7": 801785512,
+        "placeId": "ChIJOZ-e3EipKzoRPssZECd4e1M",
+        "address": "F53H+5CM, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "Dr. Suryvanshi Hospital",
+        "locationConfidence": 2.3623219,
+        "calibratedProbability": 1.8176824
+      }, {
+        "latitudeE7": 214529034,
+        "longitudeE7": 801794412,
+        "placeId": "ChIJzRgwA3CpKzoRUZ-De0KxqIg",
+        "address": "Chandhrashekhar Ward, Murri Rd, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441614, India",
+        "name": "Avestan Technologies - Digital Marketing \u0026 Software Development Company in Gondia",
+        "locationConfidence": 2.233461,
+        "calibratedProbability": 1.7185307
+      }, {
+        "latitudeE7": 214536873,
+        "longitudeE7": 801796129,
+        "placeId": "ChIJ2TyRTTipKzoRMT_VHacSj_U",
+        "address": "F53H+FV3, Murri Rd, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441601, India",
+        "name": "Hi Tech Computer",
+        "locationConfidence": 0.6816516,
+        "calibratedProbability": 0.52449507
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 37,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214527844,
+        "longitudeE7": 801786870,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214489988,
+        "longitudeE7": 801709405,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-24T13:39:13.272Z",
+        "endTimestamp": "2021-07-24T13:45:47.457Z"
+      },
+      "distance": 982,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 83.06225538253784
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 11.503894627094269
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.00560200214386
+      }, {
+        "activityType": "STILL",
+        "probability": 0.6231052335351706
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.6149854511022568
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.08451365865767002
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.038938544457778335
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.027220495394431055
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.018932417151518166
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.009004086314234883
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.008759470074437559
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.002620513259898871
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.5575722045468865E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.8619570470218605E-6
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.360407838774563E-7
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214528274,
+          "lngE7": 801786956
+        }, {
+          "latE7": 214529247,
+          "lngE7": 801782455
+        }, {
+          "latE7": 214493541,
+          "lngE7": 801722412
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 882.2190439258457,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214500315,
+          "longitudeE7": 801730965,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-24T13:47:13.893Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 36.195694,
+        "calibratedProbability": 19.040865
+      },
+      "duration": {
+        "startTimestamp": "2021-07-24T13:45:47.457Z",
+        "endTimestamp": "2021-07-25T04:09:09.036Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214492050,
+      "centerLngE7": 801715900,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 12.966794,
+        "calibratedProbability": 6.821225
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 11.651157,
+        "calibratedProbability": 6.1291304
+      }, {
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 9.532131,
+        "calibratedProbability": 5.0144095
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 7.6355653,
+        "calibratedProbability": 4.0167146
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 4.978958,
+        "calibratedProbability": 2.6191976
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 4.181994,
+        "calibratedProbability": 2.199952
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 3.6872394,
+        "calibratedProbability": 1.9396846
+      }, {
+        "latitudeE7": 214488417,
+        "longitudeE7": 801718899,
+        "placeId": "ChIJI6advbqpKzoRnhgSWOG5lY0",
+        "address": "Pindkepar Rd, Bajpai Ward, Sanjay Nager, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Online",
+        "locationConfidence": 2.7821877,
+        "calibratedProbability": 1.4635792
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 1.7305853,
+        "calibratedProbability": 0.9103802
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 29,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214496784,
+        "longitudeE7": 801708963,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214496784,
+        "longitudeE7": 801708963,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-25T04:09:09.036Z",
+        "endTimestamp": "2021-07-25T04:48:14.639Z"
+      },
+      "distance": 1530,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 31.67189061641693
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 28.482753038406372
+      }, {
+        "activityType": "WALKING",
+        "probability": 25.00082552433014
+      }, {
+        "activityType": "STILL",
+        "probability": 11.058133095502853
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.088623121380806
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.6515141576528549
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.38088085129857063
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.2981644822284579
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.15924932667985559
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.07714900420978665
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.06894904072396457
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.05547786713577807
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0061829872720409185
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.6965567510851542E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.9135073848228785E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214482772,
+          "lngE7": 801781297,
+          "accuracyMeters": 77,
+          "timestamp": "2021-07-25T04:16:51.132Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1529.5891216584855
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214483172,
+          "longitudeE7": 801778711,
+          "accuracyMetres": 120
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2021-07-25T04:44:13.114Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 46.873714,
+        "calibratedProbability": 25.759428
+      },
+      "duration": {
+        "startTimestamp": "2021-07-25T04:48:14.639Z",
+        "endTimestamp": "2021-07-27T11:45:20.393Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214496784,
+      "centerLngE7": 801708963,
+      "visitConfidence": 75,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 9.945878,
+        "calibratedProbability": 5.4657526
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 7.110822,
+        "calibratedProbability": 3.907749
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 6.7910457,
+        "calibratedProbability": 3.7320158
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 6.3919535,
+        "calibratedProbability": 3.5126948
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 2.5995157,
+        "calibratedProbability": 1.4285625
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 1.4380624,
+        "calibratedProbability": 0.7902865
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 0.9854813,
+        "calibratedProbability": 0.5415708
+      }, {
+        "latitudeE7": 214488417,
+        "longitudeE7": 801718899,
+        "placeId": "ChIJI6advbqpKzoRnhgSWOG5lY0",
+        "address": "Pindkepar Rd, Bajpai Ward, Sanjay Nager, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Online",
+        "locationConfidence": 0.81335914,
+        "calibratedProbability": 0.4469811
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 0.76945823,
+        "calibratedProbability": 0.4228554
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 38,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214496191,
+        "longitudeE7": 801705002,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214496286,
+        "longitudeE7": 801687340,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-27T11:45:20.393Z",
+        "endTimestamp": "2021-07-27T13:04:19.471Z"
+      },
+      "distance": 9865,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 77.77881026268005
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.812025845050812
+      }, {
+        "activityType": "STILL",
+        "probability": 5.359022319316864
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.686532586812973
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9940106421709061
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.12749969027936459
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.07560407393611968
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.07374174310825765
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.04266002506483346
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.026743568014353514
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.017952189955394715
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.004571895624394529
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 7.397699846478645E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.847272283674101E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.4242162055543304E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214495239,
+          "lngE7": 801705093
+        }, {
+          "latE7": 214596862,
+          "lngE7": 801632308
+        }, {
+          "latE7": 214704875,
+          "lngE7": 801321945
+        }, {
+          "latE7": 214496059,
+          "lngE7": 801685791
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 14426.572132046696,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.9991195427112428
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214703617,
+          "lngE7": 801321793,
+          "accuracyMeters": 6,
+          "timestamp": "2021-07-27T12:43:59Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 214586174,
+          "longitudeE7": 801634128,
+          "accuracyMetres": 63
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2021-07-27T13:05:29.491Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 50.736897,
+        "calibratedProbability": 32.790382
+      },
+      "duration": {
+        "startTimestamp": "2021-07-27T13:04:19.471Z",
+        "endTimestamp": "2021-07-31T13:12:57.259Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214495240,
+      "centerLngE7": 801713640,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214497500,
+        "longitudeE7": 801674499,
+        "placeId": "ChIJ13l9UECpKzoR97rTfW-M_7M",
+        "address": "C5X8+VXW, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Solanki Rice Mill",
+        "locationConfidence": 9.269171,
+        "calibratedProbability": 5.9905057
+      }, {
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 6.941885,
+        "calibratedProbability": 4.4864206
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 5.149906,
+        "calibratedProbability": 3.3282957
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 2.5568855,
+        "calibratedProbability": 1.6524711
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 2.5056834,
+        "calibratedProbability": 1.6193801
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 2.2485986,
+        "calibratedProbability": 1.4532305
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 1.6555564,
+        "calibratedProbability": 1.0699576
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 1.6133066,
+        "calibratedProbability": 1.0426524
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 0.85214555,
+        "calibratedProbability": 0.550727
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214493391,
+        "longitudeE7": 801706129,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214510841,
+        "longitudeE7": 801766788,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-31T13:12:57.259Z",
+        "endTimestamp": "2021-07-31T13:21:06.186Z"
+      },
+      "distance": 1131,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 46.090248227119446
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 25.28177499771118
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 23.79927933216095
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.331617847084999
+      }, {
+        "activityType": "STILL",
+        "probability": 0.9041846729815006
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.7598794996738434
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.552436662837863
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.10169158922508359
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04671535571105778
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0459063274320215
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.04575022030621767
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.025189563166350126
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.014927734446246177
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.94988546759123E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.516081020256024E-6
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 214482803,
+          "lngE7": 801781208,
+          "accuracyMeters": 32,
+          "timestamp": "2021-07-31T13:15:04.104Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1131.5400227116234
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214510416,
+        "longitudeE7": 801761617,
+        "placeId": "ChIJ6-EgK0apKzoRqg_wif7D4IY",
+        "address": "F52G+CF7, Goutam Nagar, Bajpai Ward, Shrinagar, Gondia, Maharashtra 441614, India",
+        "name": "Murri Market",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 72.25933,
+        "calibratedProbability": 62.11606
+      },
+      "duration": {
+        "startTimestamp": "2021-07-31T13:21:06.186Z",
+        "endTimestamp": "2021-07-31T14:11:53.224Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214513000,
+      "centerLngE7": 801768267,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214502103,
+        "longitudeE7": 801753973,
+        "placeId": "ChIJvSZnz0epKzoRXvxAHjA9Oow",
+        "address": "Murri, F52G+35J, Goutam Nagar, Bajpai Ward, Murri, Pindkepar, Maharashtra 441614, India",
+        "name": "Food Corporation Of India",
+        "locationConfidence": 9.089002,
+        "calibratedProbability": 7.81315
+      }, {
+        "latitudeE7": 214523688,
+        "longitudeE7": 801749516,
+        "placeId": "ChIJ5YJmw_mpKzoRrpHeg1fbhxY",
+        "address": "F52F+WXW, Goutam Nagar, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Ekant vaas dhaba",
+        "locationConfidence": 3.6376421,
+        "calibratedProbability": 3.1270149
+      }, {
+        "latitudeE7": 214515757,
+        "longitudeE7": 801748323,
+        "placeId": "ChIJRwYPvJypKzoRL8RWCtuFXWc",
+        "address": "1) Yog bhawan,first floor,civil lines 2) fondle academy, ganesh nagar 3)Khandelwal rice mill, Murri Rd, Goutam Nagar, Bajpai Ward, Murri, Gondia, Maharashtra 441601, India",
+        "name": "Tapping feets",
+        "locationConfidence": 2.4006307,
+        "calibratedProbability": 2.0636466
+      }, {
+        "latitudeE7": 214510653,
+        "longitudeE7": 801771662,
+        "placeId": "ChIJAwAAwDipKzoRBmuVGXJRZWA",
+        "address": "Sendry Tola Road Gondia, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Barewar Setu Kendra",
+        "locationConfidence": 2.047356,
+        "calibratedProbability": 1.7599621
+      }, {
+        "latitudeE7": 214518273,
+        "longitudeE7": 801768108,
+        "placeId": "ChIJO749m0ipKzoRdq2_r4lUWUo",
+        "address": "F52G+PPM, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Mata Mandir, Murri",
+        "locationConfidence": 1.6814198,
+        "calibratedProbability": 1.4453937
+      }, {
+        "latitudeE7": 214518348,
+        "longitudeE7": 801768078,
+        "placeId": "ChIJMzWGs5ypKzoRYAiJNVY-zI0",
+        "address": "Laal pahadi, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Sanam panjabi dhol party murri",
+        "locationConfidence": 1.6226408,
+        "calibratedProbability": 1.3948656
+      }, {
+        "latitudeE7": 214484045,
+        "longitudeE7": 801754175,
+        "placeId": "ChIJzavLUfqpKzoRwPVehnMJfts",
+        "address": "FCI, FSD GONDIA, MURRY VILLAGE, GONDIA- PIN CODE :, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441601, India",
+        "name": "FCI FSD Gondia",
+        "locationConfidence": 1.3588458,
+        "calibratedProbability": 1.1681004
+      }, {
+        "latitudeE7": 214511043,
+        "longitudeE7": 801772146,
+        "placeId": "ChIJMwrdhJqpKzoR3hr9g62_Ifc",
+        "address": "Chutiya, Road, Goutam Nagar, Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "CSC CENTER \u0026 SETU KARYALAY MURRI",
+        "locationConfidence": 0.8695018,
+        "calibratedProbability": 0.74744713
+      }, {
+        "latitudeE7": 214512944,
+        "longitudeE7": 801772748,
+        "placeId": "ChIJwfsWiUipKzoRGiTj_eiqZyY",
+        "address": "F52G+GWX, Goutam Nagar, Bajpai Ward, नंगपुरा मुर्र्री, Gondia, Maharashtra 441614, India",
+        "name": "csc सेन्टर नंगपुरा मुर्री गोंदिया",
+        "locationConfidence": 0.79271567,
+        "calibratedProbability": 0.68143964
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 58,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 214515396,
+        "longitudeE7": 801765210,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 214489269,
+        "longitudeE7": 801719473,
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        }
+      },
+      "duration": {
+        "startTimestamp": "2021-07-31T14:11:53.224Z",
+        "endTimestamp": "2021-07-31T14:17:58.261Z"
+      },
+      "distance": 555,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 48.55944514274597
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 27.951592206954956
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 19.247175753116608
+      }, {
+        "activityType": "CYCLING",
+        "probability": 2.1480683237314224
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.6351087242364883
+      }, {
+        "activityType": "STILL",
+        "probability": 0.6252020597457886
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4869128577411175
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.13061088975518942
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.07631919579580426
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.061415997333824635
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.045669981045648456
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.027936359401792288
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.004332534444984049
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.023642537096748E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.833971635141097E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 214512882,
+          "lngE7": 801765060
+        }, {
+          "latE7": 214509353,
+          "lngE7": 801741333
+        }, {
+          "latE7": 214489212,
+          "lngE7": 801718063
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 622.274664236917,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 214494351,
+        "longitudeE7": 801705492,
+        "placeId": "ChIJ00h5M5ipKzoRGKLaMbY1Cig",
+        "address": "C5XC+Q6F, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Sainath Petroleum",
+        "sourceInfo": {
+          "deviceTag": 1537148754
+        },
+        "locationConfidence": 79.89471,
+        "calibratedProbability": 56.79245
+      },
+      "duration": {
+        "startTimestamp": "2021-07-31T14:17:58.261Z",
+        "endTimestamp": "2021-08-02T14:09:28.859Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 214493873,
+      "centerLngE7": 801711062,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": 214493315,
+        "longitudeE7": 801708291,
+        "placeId": "ChIJzVbew1ipKzoR1W6NM7o9UCA",
+        "address": "C5XC+P8P, Unnamed Road, Murri, Gondia, Maharashtra 441614, India",
+        "name": "New Petrol Pump",
+        "locationConfidence": 4.7885785,
+        "calibratedProbability": 3.4039192
+      }, {
+        "latitudeE7": 214488594,
+        "longitudeE7": 801718863,
+        "placeId": "ChIJZajhQ0epKzoREbL3x-39Bxs",
+        "address": "Bajpai Ward, Murri, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Girhepunje Kirana General Store",
+        "locationConfidence": 3.6624854,
+        "calibratedProbability": 2.6034458
+      }, {
+        "latitudeE7": 214494709,
+        "longitudeE7": 801709316,
+        "placeId": "ChIJV0Xu__OpKzoRXW-hWNAvUl0",
+        "address": "C5XC+Q9M, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Saibaba Temple",
+        "locationConfidence": 2.6174212,
+        "calibratedProbability": 1.8605709
+      }, {
+        "latitudeE7": 214489523,
+        "longitudeE7": 801719411,
+        "placeId": "ChIJ0W8RcuupKzoRAMZzqixIrwg",
+        "address": "C5XC+HQP, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "IT Data Solution",
+        "locationConfidence": 2.45715,
+        "calibratedProbability": 1.7466435
+      }, {
+        "latitudeE7": 214494560,
+        "longitudeE7": 801708372,
+        "placeId": "ChIJI8_Hef2pKzoRioCc9N-4-50",
+        "address": "C5XC+Q8P, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Rinayat Sabji Bhandar",
+        "locationConfidence": 1.3520536,
+        "calibratedProbability": 0.9610955
+      }, {
+        "latitudeE7": 214481366,
+        "longitudeE7": 801729863,
+        "placeId": "ChIJI_tN4dqpKzoRJBxA0Vkv9po",
+        "address": "Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "Chandrikapure Rashan Dukan",
+        "locationConfidence": 1.163322,
+        "calibratedProbability": 0.82693726
+      }, {
+        "latitudeE7": 214497500,
+        "longitudeE7": 801674499,
+        "placeId": "ChIJ13l9UECpKzoR97rTfW-M_7M",
+        "address": "C5X8+VXW, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Solanki Rice Mill",
+        "locationConfidence": 0.9261474,
+        "calibratedProbability": 0.6583438
+      }, {
+        "latitudeE7": 214490176,
+        "longitudeE7": 801733900,
+        "placeId": "ChIJP-PMdUepKzoR9i8sqHQdKUs",
+        "address": "C5XF+J8M, Bajpai Ward, Murri, Gondia, Maharashtra 441614, India",
+        "name": "ptel general store",
+        "locationConfidence": 0.769985,
+        "calibratedProbability": 0.5473371
+      }, {
+        "latitudeE7": 214483279,
+        "longitudeE7": 801686177,
+        "placeId": "ChIJc7J4HDqpKzoRSI41ZA0Uk_Q",
+        "address": "Unnamed Road, C5X9+8CQ, Nangpura Murri, Maharashtra 441614, India",
+        "name": "Anand Agro Industries",
+        "locationConfidence": 0.6909214,
+        "calibratedProbability": 0.49113545
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 64,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

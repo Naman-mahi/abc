@@ -1,0 +1,33 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          80.34915989999999,
+          21.511226399999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Ghattemani, Maharashtra, India",
+        "name": "Home"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.51541139999999,
+          17.4030476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "National Skill Training Institute, Shivam Rd, opposite शिवम मंदिर, Vidyanagar, Hyderabad, Telangana 500007, India",
+        "name": "Work"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          78.5065050,
+          17.3992040
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x51e3ece647e0693d",
+        "Location": {
+          "Address": "9GX4+MJJ, Vegetable Market Rd, Padma Colony, New Nallakunta, Hyderabad, Telangana 500044, India",
+          "Business Name": "Windsor Plaza",
+          "Country Code": "IN",
+          "Geo Coordinates": {
+            "Latitude": "17.3992040",
+            "Longitude": "78.5065050"
+          }
+        },
+        "Published": "2020-02-05T17:30:44.077676Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.5144410,
+          17.4033868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x47e3867e5d2b6c7d",
+        "Location": {
+          "Address": "Shivam Rd, beside Shivam Temple, DD Colony, Amberpet, Hyderabad, Telangana 500013, India",
+          "Business Name": "Ratnadeep Supermarket",
+          "Country Code": "IN",
+          "Geo Coordinates": {
+            "Latitude": "17.4033868",
+            "Longitude": "78.5144410"
+          }
+        },
+        "Published": "2020-01-30T15:32:09.117473Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    }
+  ]
+}
